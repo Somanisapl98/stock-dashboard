@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "29-09-2026 04:45:09 PM",
+  "lastUpdated": "29-09-2026 04:48:55 PM",
   "locations": [
+    "Bilaspur",
     "Raipur"
   ],
   "stock": [
@@ -9,6 +10,24 @@
       "Description": "Test Part",
       "Location": "Raipur",
       "AvailableQty": 10
+    },
+    {
+      "PartNumber": "TEST002",
+      "Description": "Oil filter",
+      "Location": "Raipur",
+      "AvailableQty": 25
+    },
+    {
+      "PartNumber": "TEST003",
+      "Description": "Test Part",
+      "Location": "Raipur",
+      "AvailableQty": 12
+    },
+    {
+      "PartNumber": "TEST004",
+      "Description": "Test Part",
+      "Location": "Bilaspur",
+      "AvailableQty": 5
     }
   ]
 }
