@@ -1,118 +1,24 @@
 "use strict";
-const DATA_URL = "./data/dashboard-data.json";
-const REFRESH_MS = 5 * 60 * 1000;
-const EXPORT_PASSWORD_HASH = "7517d2acf36192256c7470950964477029bd60a46a131b1239c823fa552c161c";
-
-const state = { raw: [], rows: [], locations: [], page: 1, pageSize: 50, sortKey: "part", sortDir: 1, multiParts: null, suggestionIndex: -1 };
-const $ = id => document.getElementById(id);
-const els = {
-  search: $("searchInput"), suggestions: $("suggestions"), multi: $("multiInput"), multiSummary: $("multiSummary"),
-  head: $("tableHead"), body: $("tableBody"), pageInfo: $("pageInfo"), resultText: $("resultText"),
-  sync: $("syncStatus"), updated: $("lastUpdated"), exportMenu: $("exportMenu"), exportPw: $("exportPassword"), exportStatus: $("exportStatus")
-};
-const text = v => String(v ?? "").trim();
-const num = v => Number.isFinite(Number(v)) ? Number(v) : 0;
-const norm = v => text(v).toLowerCase().replace(/\s+/g," ");
-const escapeXml = s => text(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&apos;");
-
-function normalizeRecord(r) {
-  return { part: text(r.PartNumber ?? r.part), desc: text(r.Description ?? r.desc), location: text(r.Location ?? r.location), qty: num(r.AvailableQty ?? r.qty) };
-}
-function aggregate(records) {
-  const map = new Map();
-  for (const r0 of records) {
-    const r = normalizeRecord(r0); if (!r.part || !r.location) continue;
-    const key = r.part.toUpperCase();
-    if (!map.has(key)) map.set(key, { part:r.part, desc:r.desc, quantities:{}, total:0 });
-    const item = map.get(key); if (!item.desc && r.desc) item.desc = r.desc;
-    item.quantities[r.location] = num(item.quantities[r.location]) + r.qty; item.total += r.qty;
-  }
-  return [...map.values()];
-}
-function splitParts(value) { return [...new Set(text(value).split(/[\s,;]+/).map(x=>x.trim().toUpperCase()).filter(Boolean))]; }
-
-async function loadData(manual=false) {
-  els.sync.textContent = manual ? "Refreshing…" : "Loading stock…";
-  try {
-    const res = await fetch(`${DATA_URL}?v=${Date.now()}`, {cache:"no-store"});
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const payload = await res.json(); if (!Array.isArray(payload.stock)) throw new Error("Invalid data file");
-    state.raw = payload.stock.map(normalizeRecord);
-    state.locations = Array.isArray(payload.locations) && payload.locations.length ? payload.locations.map(text) : [...new Set(state.raw.map(r=>r.location).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
-    state.rows = aggregate(state.raw); state.page = 1;
-    els.updated.textContent = `Last updated: ${text(payload.lastUpdated) || "Not provided"}`;
-    els.sync.textContent = "Latest stock loaded"; renderAll();
-  } catch(err) { console.error(err); els.sync.textContent = state.rows.length ? "Refresh failed · showing last loaded data" : "Could not load stock data"; }
-}
-
-function filteredRows() {
-  const q = norm(els.search.value);
-  let rows = state.rows.filter(r => !q || norm(r.part).includes(q) || norm(r.desc).includes(q));
-  if (state.multiParts) rows = rows.filter(r => state.multiParts.has(r.part.toUpperCase()));
-  const key = state.sortKey, dir = state.sortDir;
-  rows.sort((a,b) => {
-    let av, bv;
-    if (key === "part") { av=a.part; bv=b.part; } else if (key === "desc") { av=a.desc; bv=b.desc; } else if (key === "total") { av=a.total; bv=b.total; } else { av=num(a.quantities[key]); bv=num(b.quantities[key]); }
-    if (typeof av === "number") return (av-bv)*dir;
-    return text(av).localeCompare(text(bv), undefined, {numeric:true,sensitivity:"base"})*dir;
-  }); return rows;
-}
-function setSort(key) { if(state.sortKey===key) state.sortDir*=-1; else {state.sortKey=key;state.sortDir=1;} state.page=1; renderAll(); }
-function arrow(key) { return state.sortKey===key ? (state.sortDir===1 ? " ▲" : " ▼") : ""; }
-function renderHead() {
-  const headers = [{k:"part",l:"Part Number"},{k:"desc",l:"Description"},...state.locations.map(x=>({k:x,l:x})),{k:"total",l:"Total"}];
-  els.head.innerHTML=""; const tr=document.createElement("tr");
-  headers.forEach(h=>{ const th=document.createElement("th"); th.textContent=h.l+arrow(h.k); if(h.k!=="part"&&h.k!=="desc") th.className="numeric"; th.addEventListener("click",()=>setSort(h.k)); tr.appendChild(th); }); els.head.appendChild(tr);
-}
-function renderBody() {
-  const rows=filteredRows(), pages=Math.max(1,Math.ceil(rows.length/state.pageSize)); state.page=Math.min(state.page,pages);
-  const start=(state.page-1)*state.pageSize, pageRows=rows.slice(start,start+state.pageSize); els.body.innerHTML="";
-  if(!pageRows.length) { const tr=document.createElement("tr"); tr.className="empty-row"; const td=document.createElement("td"); td.colSpan=state.locations.length+3; td.textContent="No matching stock found."; tr.appendChild(td); els.body.appendChild(tr); }
-  pageRows.forEach(r=>{ const tr=document.createElement("tr");
-    const values=[r.part,r.desc,...state.locations.map(l=>num(r.quantities[l])),r.total];
-    values.forEach((v,i)=>{const td=document.createElement("td");td.textContent=(i>=2?num(v).toLocaleString("en-IN"):text(v));if(i>=2)td.classList.add("numeric");if(i===values.length-1)td.classList.add("total-cell");tr.appendChild(td);}); els.body.appendChild(tr);
-  });
-  $("partCount").textContent=rows.length.toLocaleString("en-IN"); $("locationCount").textContent=state.locations.length; $("totalQty").textContent=rows.reduce((s,r)=>s+r.total,0).toLocaleString("en-IN"); $("pageStat").textContent=`${rows.length?state.page:0} / ${rows.length?pages:0}`;
-  els.pageInfo.textContent=`Page ${rows.length?state.page:0} of ${rows.length?pages:0}`; els.resultText.textContent=`Showing ${pageRows.length.toLocaleString("en-IN")} of ${rows.length.toLocaleString("en-IN")} matching parts`;
-  $("prevPage").disabled=state.page<=1||!rows.length; $("nextPage").disabled=state.page>=pages||!rows.length;
-}
-function renderAll() { renderHead(); renderBody(); updateSuggestions(); }
-
-function suggestionMatches() { const q=norm(els.search.value); if(!q) return []; return state.rows.filter(r=>norm(r.part).includes(q)||norm(r.desc).includes(q)).slice(0,10); }
-function updateSuggestions() {
-  const matches=suggestionMatches(); els.suggestions.innerHTML=""; state.suggestionIndex=-1;
-  if(!matches.length) {els.suggestions.hidden=true;return;}
-  matches.forEach((r,i)=>{const d=document.createElement("div");d.className="suggestion";d.setAttribute("role","option");const strong=document.createElement("strong");strong.textContent=r.part;const span=document.createElement("span");span.textContent=r.desc||"No description";d.append(strong,span);d.addEventListener("mousedown",e=>{e.preventDefault();selectSuggestion(i);});els.suggestions.appendChild(d);}); els.suggestions.hidden=false;
-}
-function selectSuggestion(i) {const m=suggestionMatches()[i];if(!m)return;els.search.value=m.part;els.suggestions.hidden=true;state.page=1;renderAll();}
-function moveSuggestion(delta) {const items=[...els.suggestions.children];if(!items.length)return;state.suggestionIndex=(state.suggestionIndex+delta+items.length)%items.length;items.forEach((x,i)=>x.classList.toggle("active",i===state.suggestionIndex));items[state.suggestionIndex].scrollIntoView({block:"nearest"});}
-
-function applyMulti() {
-  const parts=splitParts(els.multi.value); if(!parts.length) {state.multiParts=null;els.multiSummary.textContent="";state.page=1;renderAll();return;}
-  const available=new Set(state.rows.map(r=>r.part.toUpperCase())); const found=parts.filter(p=>available.has(p)), missing=parts.filter(p=>!available.has(p)); state.multiParts=new Set(parts); state.page=1;
-  els.multiSummary.textContent=`Found ${found.length} of ${parts.length} part numbers${missing.length?`; not found: ${missing.join(", ")}`:""}`; renderAll();
-}
-function clearMulti() {els.multi.value="";els.multiSummary.textContent="";state.multiParts=null;state.page=1;renderAll();}
-
-async function sha256(value) {const bytes=new TextEncoder().encode(value);const digest=await crypto.subtle.digest("SHA-256",bytes);return [...new Uint8Array(digest)].map(b=>b.toString(16).padStart(2,"0")).join("");}
-async function authorizeExport() {
-  const pw=els.exportPw.value; if(!pw) {els.exportStatus.textContent="Enter the export password.";return false;}
-  const ok=(await sha256(pw))===EXPORT_PASSWORD_HASH; els.exportStatus.textContent=ok?"Password accepted.":"Incorrect password. Export not allowed."; return ok;
-}
-function exportMatrix() {const rows=filteredRows();return [["PartNumber","Description",...state.locations,"Total"],...rows.map(r=>[r.part,r.desc,...state.locations.map(l=>num(r.quantities[l])),r.total])];}
-function download(blob,name) {const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},1000);}
-function csvCell(v) {return `"${text(v).replace(/"/g,'""')}"`;}
-async function exportCsv() {if(!(await authorizeExport()))return;const csv=exportMatrix().map(r=>r.map(csvCell).join(",")).join("\r\n");download(new Blob(["\ufeff",csv],{type:"text/csv;charset=utf-8"}),`stock-export-${new Date().toISOString().slice(0,10)}.csv`);}
-async function exportExcel() {
-  if(!(await authorizeExport()))return; const m=exportMatrix();
-  const rows=m.map((r,ri)=>`<Row>${r.map((v,ci)=>`<Cell><Data ss:Type="${ri>0&&ci>=2?"Number":"String"}">${escapeXml(v)}</Data></Cell>`).join("")}</Row>`).join("");
-  const xml=`<?xml version="1.0"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"><Worksheet ss:Name="Stock"><Table>${rows}</Table></Worksheet></Workbook>`;
-  download(new Blob([xml],{type:"application/vnd.ms-excel"}),`stock-export-${new Date().toISOString().slice(0,10)}.xls`);
-}
-
-els.search.addEventListener("input",()=>{state.page=1;renderAll();}); els.search.addEventListener("keydown",e=>{if(e.key==="ArrowDown"){e.preventDefault();moveSuggestion(1);}else if(e.key==="ArrowUp"){e.preventDefault();moveSuggestion(-1);}else if(e.key==="Enter"&&state.suggestionIndex>=0){e.preventDefault();selectSuggestion(state.suggestionIndex);}else if(e.key==="Escape")els.suggestions.hidden=true;});
-document.addEventListener("click",e=>{if(!e.target.closest(".search-field"))els.suggestions.hidden=true;if(!e.target.closest(".export-wrap"))els.exportMenu.hidden=true;});
-$("clearSearch").addEventListener("click",()=>{els.search.value="";state.page=1;renderAll();els.search.focus();}); $("applyMulti").addEventListener("click",applyMulti); $("clearMulti").addEventListener("click",clearMulti);
-$("pageSize").addEventListener("change",e=>{state.pageSize=num(e.target.value)||50;state.page=1;renderBody();}); $("prevPage").addEventListener("click",()=>{state.page--;renderBody();}); $("nextPage").addEventListener("click",()=>{state.page++;renderBody();});
-$("refreshButton").addEventListener("click",()=>loadData(true)); $("exportToggle").addEventListener("click",e=>{e.stopPropagation();els.exportMenu.hidden=!els.exportMenu.hidden;}); els.exportMenu.addEventListener("click",e=>e.stopPropagation()); $("exportCsv").addEventListener("click",exportCsv); $("exportExcel").addEventListener("click",exportExcel);
-loadData(); setInterval(()=>loadData(false),REFRESH_MS);
+const DATA_URL="./data/dashboard-data.json",REFRESH_MS=300000,EXPORT_PASSWORD_HASH="7517d2acf36192256c7470950964477029bd60a46a131b1239c823fa552c161c";
+const state={rows:[],locations:[],page:1,pageSize:50,sortKey:"part",sortDir:1,multiParts:null,sIndex:-1,mIndex:-1};
+const $=id=>document.getElementById(id),txt=v=>String(v??"").trim(),num=v=>Number.isFinite(Number(v))?Number(v):0,norm=v=>txt(v).toLowerCase().replace(/\s+/g," ");
+const E={search:$("searchInput"),suggest:$("suggestions"),multi:$("multiInput"),multiSuggest:$("multiSuggestions"),multiSummary:$("multiSummary"),head:$("tableHead"),body:$("tableBody"),sync:$("syncStatus"),updated:$("lastUpdated"),exportMenu:$("exportMenu"),exportPw:$("exportPassword"),exportStatus:$("exportStatus")};
+function aggregate(stock){const m=new Map();for(const x of stock){const part=txt(x.PartNumber??x.part),desc=txt(x.Description??x.desc),loc=txt(x.Location??x.location),qty=num(x.AvailableQty??x.qty);if(!part||!loc)continue;const k=part.toUpperCase();if(!m.has(k))m.set(k,{part,desc,quantities:{},total:0});const r=m.get(k);if(!r.desc&&desc)r.desc=desc;r.quantities[loc]=num(r.quantities[loc])+qty;r.total+=qty}return[...m.values()]}
+async function loadData(manual=false){E.sync.textContent=manual?"Refreshing…":"Loading stock…";try{const r=await fetch(`${DATA_URL}?v=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw Error(`HTTP ${r.status}`);const p=await r.json();state.locations=(p.locations||[]).map(txt);state.rows=aggregate(p.stock||[]);state.page=1;E.updated.textContent=`Last updated: ${txt(p.lastUpdated)||"—"}`;E.sync.textContent="Latest stock loaded";render()}catch(e){console.error(e);E.sync.textContent=state.rows.length?"Refresh failed · showing loaded data":"Could not load stock data"}}
+function parseParts(v){return[...new Set(txt(v).split(/[\s,;]+/).map(x=>x.trim().toUpperCase()).filter(Boolean))]}
+function baseFiltered(){const q=norm(E.search.value);return state.rows.filter(r=>(!q||norm(r.part).includes(q)||norm(r.desc).includes(q))&&(!state.multiParts||state.multiParts.has(r.part.toUpperCase())))}
+function visibleLocations(rows){return state.locations.filter(loc=>rows.some(r=>num(r.quantities[loc])>0))}
+function filtered(){const rows=baseFiltered(),key=state.sortKey,dir=state.sortDir;rows.sort((a,b)=>{let av,bv;if(key==="part"){av=a.part;bv=b.part}else if(key==="desc"){av=a.desc;bv=b.desc}else if(key==="total"){av=a.total;bv=b.total}else{av=num(a.quantities[key]);bv=num(b.quantities[key])}return typeof av==="number"?(av-bv)*dir:txt(av).localeCompare(txt(bv),undefined,{numeric:true,sensitivity:"base"})*dir});return rows}
+function arrow(k){return state.sortKey===k?(state.sortDir===1?" ▲":" ▼"):""}function sortBy(k){state.sortKey===k?state.sortDir*=-1:(state.sortKey=k,state.sortDir=1);state.page=1;render()}
+function render(){const rows=filtered(),locs=visibleLocations(rows),pages=Math.max(1,Math.ceil(rows.length/state.pageSize));state.page=Math.min(state.page,pages);E.head.innerHTML="";const tr=document.createElement("tr");[["part","Part Number"],["desc","Description"],...locs.map(l=>[l,l]),["total","Total"]].forEach(([k,l])=>{const th=document.createElement("th");th.textContent=l+arrow(k);if(k!=="part"&&k!=="desc")th.className="numeric";th.onclick=()=>sortBy(k);tr.appendChild(th)});E.head.appendChild(tr);E.body.innerHTML="";const pageRows=rows.slice((state.page-1)*state.pageSize,state.page*state.pageSize);if(!pageRows.length){const r=document.createElement("tr");r.className="empty";const d=document.createElement("td");d.colSpan=locs.length+3;d.textContent="No matching stock found.";r.appendChild(d);E.body.appendChild(r)}pageRows.forEach(r=>{const row=document.createElement("tr"),vals=[r.part,r.desc,...locs.map(l=>num(r.quantities[l])),r.total];vals.forEach((v,i)=>{const d=document.createElement("td");if(i>=2){d.textContent=num(v)>0?num(v).toLocaleString("en-IN"):"";d.classList.add("numeric")}else d.textContent=txt(v);if(i===vals.length-1)d.classList.add("total");row.appendChild(d)});E.body.appendChild(row)});$("partCount").textContent=rows.length.toLocaleString("en-IN");$("locationCount").textContent=locs.length;$("totalQty").textContent=rows.reduce((s,r)=>s+r.total,0).toLocaleString("en-IN");$("pageStat").textContent=`${rows.length?state.page:0} / ${rows.length?pages:0}`;$("pageInfo").textContent=`Page ${rows.length?state.page:0} of ${rows.length?pages:0}`;$("resultText").textContent=`Showing ${pageRows.length} of ${rows.length} matching parts · only locations with stock are displayed`;$("prevPage").disabled=state.page<=1||!rows.length;$("nextPage").disabled=state.page>=pages||!rows.length;updateSingleSuggestions();updateMultiSuggestions()}
+function matches(q){q=norm(q);return q?state.rows.filter(r=>norm(r.part).includes(q)||norm(r.desc).includes(q)).slice(0,10):[]}
+function fillSuggestions(box,list,select,index){box.innerHTML="";if(!list.length){box.hidden=true;return}list.forEach((r,i)=>{const d=document.createElement("div");d.className="suggestion"+(i===index?" active":"");d.innerHTML="";const a=document.createElement("strong"),b=document.createElement("span");a.textContent=r.part;b.textContent=r.desc||"No description";d.append(a,b);d.onmousedown=e=>{e.preventDefault();select(i)};box.appendChild(d)});box.hidden=false}
+function updateSingleSuggestions(){fillSuggestions(E.suggest,matches(E.search.value),i=>{const m=matches(E.search.value)[i];if(m)E.search.value=m.part;E.suggest.hidden=true;state.page=1;render()},state.sIndex)}
+function currentMultiToken(){const v=E.multi.value;return txt(v.slice(Math.max(v.lastIndexOf(","),v.lastIndexOf(";"),v.lastIndexOf("\n"))+1))}
+function updateMultiSuggestions(){fillSuggestions(E.multiSuggest,matches(currentMultiToken()),selectMulti,state.mIndex)}
+function selectMulti(i){const m=matches(currentMultiToken())[i];if(!m)return;const v=E.multi.value,cut=Math.max(v.lastIndexOf(","),v.lastIndexOf(";"),v.lastIndexOf("\n"));const prefix=cut>=0?v.slice(0,cut+1).replace(/[;\n]$/g,",")+" ":"";E.multi.value=prefix+m.part+", ";E.multiSuggest.hidden=true;state.mIndex=-1;E.multi.focus()}
+function keyNav(e,box,type){const items=[...box.children];if(!items.length)return;let key=type==="single"?"sIndex":"mIndex";if(e.key==="ArrowDown"||e.key==="ArrowUp"){e.preventDefault();state[key]=(state[key]+(e.key==="ArrowDown"?1:-1)+items.length)%items.length;(type==="single"?updateSingleSuggestions:updateMultiSuggestions)()}else if(e.key==="Enter"&&state[key]>=0){e.preventDefault();type==="single"?(()=>{const m=matches(E.search.value)[state[key]];if(m)E.search.value=m.part;E.suggest.hidden=true;state.page=1;render()})():selectMulti(state[key])}else if(e.key==="Escape")box.hidden=true}
+function applyMulti(){const parts=parseParts(E.multi.value);if(!parts.length){state.multiParts=null;E.multiSummary.textContent=""}else{const avail=new Set(state.rows.map(r=>r.part.toUpperCase())),found=parts.filter(p=>avail.has(p)),missing=parts.filter(p=>!avail.has(p));state.multiParts=new Set(parts);E.multiSummary.textContent=`Found ${found.length} of ${parts.length} part numbers${missing.length?`; not found: ${missing.join(", ")}`:""}`}state.page=1;render()}
+async function sha(v){const d=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(v));return[...new Uint8Array(d)].map(b=>b.toString(16).padStart(2,"0")).join("")}async function auth(){if(!E.exportPw.value){E.exportStatus.textContent="Enter the export password.";return false}const ok=await sha(E.exportPw.value)===EXPORT_PASSWORD_HASH;E.exportStatus.textContent=ok?"Password accepted.":"Incorrect password.";return ok}
+function matrix(){const rows=filtered(),locs=visibleLocations(rows);return[["PartNumber","Description",...locs,"Total"],...rows.map(r=>[r.part,r.desc,...locs.map(l=>num(r.quantities[l])||""),r.total])]}function download(b,n){const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),500)}function cell(v){return`"${txt(v).replace(/"/g,'""')}"`}async function csv(){if(!await auth())return;download(new Blob(["\ufeff",matrix().map(r=>r.map(cell).join(",")).join("\r\n")],{type:"text/csv"}),"stock-export.csv")}async function excel(){if(!await auth())return;const esc=s=>txt(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");const rows=matrix().map((r,i)=>`<Row>${r.map((v,j)=>`<Cell><Data ss:Type="${i&&j>=2&&v!==""?"Number":"String"}">${esc(v)}</Data></Cell>`).join("")}</Row>`).join("");download(new Blob([`<?xml version="1.0"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"><Worksheet ss:Name="Stock"><Table>${rows}</Table></Worksheet></Workbook>`],{type:"application/vnd.ms-excel"}),"stock-export.xls")}
+E.search.oninput=()=>{state.sIndex=-1;state.page=1;render()};E.search.onkeydown=e=>keyNav(e,E.suggest,"single");E.multi.oninput=()=>{state.mIndex=-1;updateMultiSuggestions()};E.multi.onkeydown=e=>keyNav(e,E.multiSuggest,"multi");$("applyMulti").onclick=applyMulti;$("clearMulti").onclick=()=>{E.multi.value="";E.multiSummary.textContent="";state.multiParts=null;render()};$("clearSearch").onclick=()=>{E.search.value="";state.page=1;render()};$("pageSize").onchange=e=>{state.pageSize=num(e.target.value);state.page=1;render()};$("prevPage").onclick=()=>{state.page--;render()};$("nextPage").onclick=()=>{state.page++;render()};$("refreshButton").onclick=()=>loadData(true);$("exportToggle").onclick=e=>{e.stopPropagation();E.exportMenu.hidden=!E.exportMenu.hidden};$("exportCsv").onclick=csv;$("exportExcel").onclick=excel;document.onclick=e=>{if(!e.target.closest(".search-wrap"))E.suggest.hidden=true;if(!e.target.closest(".multi-wrap"))E.multiSuggest.hidden=true;if(!e.target.closest(".export-wrap"))E.exportMenu.hidden=true};loadData();setInterval(loadData,REFRESH_MS);
