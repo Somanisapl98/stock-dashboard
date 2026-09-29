@@ -1,58 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-
-    <meta
-        name="viewport"
-        content="width=device-width, initial-scale=1.0"
-    >
-
-    <title>Stock Dashboard</title>
-
-    <style>
-        body {
-            margin: 0;
-            padding: 30px;
-            background: #f2f5f9;
-            color: #17202a;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-
-        .box {
-            max-width: 600px;
-            margin: 50px auto;
-            padding: 30px;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.10);
-        }
-
-        h1 {
-            color: #124e78;
-        }
-
-        .success {
-            color: #137333;
-            font-weight: bold;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#101722">
+  <title>Somani Auto Stock Dashboard</title>
+  <link rel="stylesheet" href="dashboard.css">
 </head>
-
 <body>
-    <div class="box">
-        <h1>Stock Availability Dashboard</h1>
-
-        <p>RAIPUR ANALYTICS</p>
-
-        <p class="success">
-            Dashboard setup is working successfully.
-        </p>
-
-        <p>
-            Stock data will be connected in the next step.
-        </p>
+  <header class="masthead">
+    <div>
+      <p class="eyebrow">SOMANI AUTO · CV TATA</p>
+      <h1>Stock Availability Dashboard</h1>
+      <p class="subtitle">Search and compare stock across all locations</p>
     </div>
+    <div class="sync-box">
+      <span id="syncStatus" class="sync-status">Loading stock…</span>
+      <span id="lastUpdated">Last updated: —</span>
+      <button id="refreshButton" class="btn btn-primary" type="button">Refresh now</button>
+    </div>
+  </header>
+
+  <main class="page-shell">
+    <section class="panel search-panel">
+      <div class="field search-field">
+        <label for="searchInput">Search part number or description</label>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="Start typing, for example 2525 or oil filter">
+        <div id="suggestions" class="suggestions" role="listbox" hidden></div>
+      </div>
+      <div class="field small-field">
+        <label for="pageSize">Rows per page</label>
+        <select id="pageSize">
+          <option value="25">25</option>
+          <option value="50" selected>50</option>
+          <option value="100">100</option>
+          <option value="250">250</option>
+        </select>
+      </div>
+      <div class="action-field">
+        <button id="clearSearch" class="btn btn-secondary" type="button">Clear search</button>
+      </div>
+    </section>
+
+    <section class="panel multi-panel">
+      <div class="multi-heading">
+        <div>
+          <h2>Search multiple part numbers</h2>
+          <p>Paste part numbers separated by commas, spaces, tabs, semicolons or new lines.</p>
+        </div>
+        <div class="multi-actions">
+          <button id="applyMulti" class="btn btn-primary" type="button">Apply list</button>
+          <button id="clearMulti" class="btn btn-secondary" type="button">Clear list</button>
+        </div>
+      </div>
+      <textarea id="multiInput" rows="3" placeholder="Example: TEST001, TEST002, TEST003"></textarea>
+      <p id="multiSummary" class="helper-text"></p>
+    </section>
+
+    <section class="stats-grid" aria-label="Stock summary">
+      <article class="stat-card"><span>Parts shown</span><strong id="partCount">0</strong></article>
+      <article class="stat-card"><span>Locations</span><strong id="locationCount">0</strong></article>
+      <article class="stat-card"><span>Total quantity</span><strong id="totalQty">0</strong></article>
+      <article class="stat-card"><span>Page</span><strong id="pageStat">0 / 0</strong></article>
+    </section>
+
+    <section class="panel table-panel">
+      <div class="table-toolbar">
+        <div>
+          <h2>Location-wise stock</h2>
+          <p id="resultText">Loading inventory…</p>
+        </div>
+        <div class="export-wrap">
+          <button id="exportToggle" class="btn btn-secondary" type="button">Export ▾</button>
+          <div id="exportMenu" class="export-menu" hidden>
+            <label for="exportPassword">Export password</label>
+            <input id="exportPassword" type="password" autocomplete="current-password" placeholder="Enter password">
+            <div class="export-buttons">
+              <button id="exportCsv" class="btn btn-primary" type="button">CSV</button>
+              <button id="exportExcel" class="btn btn-primary" type="button">Excel</button>
+            </div>
+            <p id="exportStatus" class="helper-text"></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="table-scroll">
+        <table id="stockTable">
+          <thead id="tableHead"></thead>
+          <tbody id="tableBody"></tbody>
+        </table>
+      </div>
+
+      <div class="pagination">
+        <button id="prevPage" class="btn btn-secondary" type="button">Previous</button>
+        <span id="pageInfo">Page 0 of 0</span>
+        <button id="nextPage" class="btn btn-secondary" type="button">Next</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>Somani Auto stock dashboard · Read-only inventory view</footer>
+  <script src="dashboard.js"></script>
 </body>
 </html>

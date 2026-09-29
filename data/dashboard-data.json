@@ -1,0 +1,14 @@
+{
+  "lastUpdated": "29-09-2026 03:30:00 PM",
+  "locations": [
+    "Raipur"
+  ],
+  "stock": [
+    {
+      "PartNumber": "TEST001",
+      "Description": "Test Part",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    }
+  ]
+}
