@@ -1,5 +1,5 @@
 "use strict";
-const DATA_URL="./data/dashboard-data.json",REFRESH_MS=300000,EXPORT_PASSWORD_HASH="7517d2acf36192256c7470950964477029bd60a46a131b1239c823fa552c161c";
+const DATA_URL="./data/dashboard-data.json",REFRESH_MS=300000,EXPORT_PASSWORD_HASH="cd08fd629edf86b440567a78e34558009e708d619c966e2c9446bc07c45f2c96";
 const state={rows:[],locations:[],page:1,pageSize:50,sortKey:"part",sortDir:1,multiParts:null,sIndex:-1,mIndex:-1};
 const $=id=>document.getElementById(id),txt=v=>String(v??"").trim(),num=v=>Number.isFinite(Number(v))?Number(v):0,norm=v=>txt(v).toLowerCase().replace(/\s+/g," ");
 const E={search:$("searchInput"),suggest:$("suggestions"),multi:$("multiInput"),multiSuggest:$("multiSuggestions"),multiSummary:$("multiSummary"),head:$("tableHead"),body:$("tableBody"),sync:$("syncStatus"),updated:$("lastUpdated"),exportMenu:$("exportMenu"),exportPw:$("exportPassword"),exportStatus:$("exportStatus")};
