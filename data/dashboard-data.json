@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "02-10-2026 02:00:16 PM",
+  "lastUpdated": "03-10-2026 09:54:45 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -9,6 +9,7 @@
     "Indore Tata Motors",
     "Jabalpur",
     "Jagdalpur",
+    "Jagdalpur - Warranty",
     "Khandwa",
     "Korba",
     "Neemuch",
@@ -254,19 +255,19 @@
     },
     {
       "PartNumber": "009711EUFLINSDC1",
-      "Description": "TN-009711EUFLINSDC1-LINER-Tata 697 Euro II/III Collar 4.25mm",
+      "Description": "TN-009711EUFLINSDC1-LINER-TATA 697 EURO II/III COLLAR 4.25MM",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "009711EUFLINSDC1",
-      "Description": "TN-009711EUFLINSDC1-LINER-Tata 697 Euro II/III Collar 4.25mm",
+      "Description": "TN-009711EUFLINSDC1-LINER-TATA 697 EURO II/III COLLAR 4.25MM",
       "Location": "Indore",
       "AvailableQty": 48
     },
     {
       "PartNumber": "009711EUFLINSDC1",
-      "Description": "TN-009711EUFLINSDC1-LINER-Tata 697 Euro II/III Collar 4.25mm",
+      "Description": "TN-009711EUFLINSDC1-LINER-TATA 697 EURO II/III COLLAR 4.25MM",
       "Location": "Jabalpur",
       "AvailableQty": 12
     },
@@ -322,7 +323,7 @@
       "PartNumber": "01014MPKBD0000C1",
       "Description": "TN-01014MPKBD0000C1-TVS CENTRA (20)",
       "Location": "Raipur",
-      "AvailableQty": 29
+      "AvailableQty": 26
     },
     {
       "PartNumber": "01014MPKBD0000C1",
@@ -346,7 +347,7 @@
       "PartNumber": "01014MPKDD0000C1",
       "Description": "TN-01014MPKDD0000C1-TVS CENTRA (40)",
       "Location": "Raipur",
-      "AvailableQty": 17
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01014MPKDD0000C1",
@@ -436,25 +437,25 @@
       "PartNumber": "01016MPKAD0000C1",
       "Description": "TN-01016MPKAD0000C1-HERO HONDA SUPER SPLENDOR (10)",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 12
     },
     {
       "PartNumber": "01016MPKAD0000C1",
       "Description": "TN-01016MPKAD0000C1-HERO HONDA SUPER SPLENDOR (10)",
       "Location": "Korba",
-      "AvailableQty": 28
+      "AvailableQty": 23
     },
     {
       "PartNumber": "01016MPKBD0000C1",
       "Description": "TN-01016MPKBD0000C1-HERO HONDA SUPER SPLENDOR (20)",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01016MPKBD0000C1",
       "Description": "TN-01016MPKBD0000C1-HERO HONDA SUPER SPLENDOR (20)",
       "Location": "Korba",
-      "AvailableQty": 31
+      "AvailableQty": 26
     },
     {
       "PartNumber": "01016MPKCD0000C1",
@@ -508,43 +509,43 @@
       "PartNumber": "01018MPKAD0000C1",
       "Description": "TN-01018MPKAD0000C1-HONDA SHINE (10)",
       "Location": "Raipur",
-      "AvailableQty": 17
+      "AvailableQty": 9
     },
     {
       "PartNumber": "01018MPKAD0000C1",
       "Description": "TN-01018MPKAD0000C1-HONDA SHINE (10)",
       "Location": "Korba",
-      "AvailableQty": 40
+      "AvailableQty": 35
     },
     {
       "PartNumber": "01018MPKBD0000C1",
       "Description": "TN-01018MPKBD0000C1-HONDA SHINE (20)",
       "Location": "Raipur",
-      "AvailableQty": 18
+      "AvailableQty": 12
     },
     {
       "PartNumber": "01018MPKBD0000C1",
       "Description": "TN-01018MPKBD0000C1-HONDA SHINE (20)",
       "Location": "Korba",
-      "AvailableQty": 19
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01018MPKCD0000C1",
       "Description": "TN-01018MPKCD0000C1-HONDA SHINE (30)",
       "Location": "Raipur",
-      "AvailableQty": 41
+      "AvailableQty": 38
     },
     {
       "PartNumber": "01018MPKCD0000C1",
       "Description": "TN-01018MPKCD0000C1-HONDA SHINE (30)",
       "Location": "Korba",
-      "AvailableQty": 52
+      "AvailableQty": 47
     },
     {
       "PartNumber": "01018MPKDD0000C1",
       "Description": "TN-01018MPKDD0000C1-HONDA SHINE (40)",
       "Location": "Raipur",
-      "AvailableQty": 54
+      "AvailableQty": 51
     },
     {
       "PartNumber": "01018MPKDD0000C1",
@@ -1120,7 +1121,7 @@
       "PartNumber": "01041MPKAD0000C1",
       "Description": "TN-01041MPKAD0000C1-HONDA CB TWISTER (10)",
       "Location": "Korba",
-      "AvailableQty": 32
+      "AvailableQty": 29
     },
     {
       "PartNumber": "01041MPKBD0000C1",
@@ -1132,7 +1133,7 @@
       "PartNumber": "01041MPKBD0000C1",
       "Description": "TN-01041MPKBD0000C1-HONDA CB TWISTER (20)",
       "Location": "Korba",
-      "AvailableQty": 32
+      "AvailableQty": 28
     },
     {
       "PartNumber": "01041MPKCD0000C1",
@@ -1144,7 +1145,7 @@
       "PartNumber": "01041MPKCD0000C1",
       "Description": "TN-01041MPKCD0000C1-HONDA CB TWISTER (30)",
       "Location": "Korba",
-      "AvailableQty": 18
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01041MPKDD0000C1",
@@ -1186,7 +1187,7 @@
       "PartNumber": "01043MPKAD0000C1",
       "Description": "TN-01043MPKAD0000C1-HONDA DREAM YUGA/ NEO (10)",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 11
     },
     {
       "PartNumber": "01043MPKAD0000C1",
@@ -1198,7 +1199,7 @@
       "PartNumber": "01043MPKBD0000C1",
       "Description": "TN-01043MPKBD0000C1-HONDA DREAM YUGA/ NEO (20)",
       "Location": "Raipur",
-      "AvailableQty": 41
+      "AvailableQty": 36
     },
     {
       "PartNumber": "01043MPKBD0000C1",
@@ -1372,7 +1373,7 @@
       "PartNumber": "01050MPKBD0000C1",
       "Description": "TN-01050MPKBD0000C1-BAJAJ DISCOVER 100CC (20)",
       "Location": "Raipur",
-      "AvailableQty": 21
+      "AvailableQty": 18
     },
     {
       "PartNumber": "01050MPKBD0000C1",
@@ -1384,7 +1385,7 @@
       "PartNumber": "01050MPKCD0000C1",
       "Description": "TN-01050MPKCD0000C1-BAJAJ DISCOVER 100CC (30)",
       "Location": "Raipur",
-      "AvailableQty": 16
+      "AvailableQty": 13
     },
     {
       "PartNumber": "01050MPKCD0000C1",
@@ -1492,7 +1493,7 @@
       "PartNumber": "01055MPKAD000MC1",
       "Description": "TN-01055MPKAD000MC1-BAJAJ PLATINA ES 100CC-MOLY (10)",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 4
     },
     {
       "PartNumber": "01055MPKAD000MC1",
@@ -1504,7 +1505,7 @@
       "PartNumber": "01055MPKBD000MC1",
       "Description": "TN-01055MPKBD000MC1-BAJAJ PLATINA ES 100CC-MOLY (20)",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 5
     },
     {
       "PartNumber": "01055MPKBD000MC1",
@@ -1516,7 +1517,7 @@
       "PartNumber": "01055MPKCD000MC1",
       "Description": "TN-01055MPKCD000MC1-BAJAJ PLATINA ES 100CC-MOLY (30)",
       "Location": "Raipur",
-      "AvailableQty": 22
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01055MPKCD000MC1",
@@ -1849,6 +1850,12 @@
       "AvailableQty": 20
     },
     {
+      "PartNumber": "01068MPKSD0000C1",
+      "Description": "TN-01068MPKSD0000C1-HERO GLAMOUR I3S 52.4MM DIA. (STD)",
+      "Location": "Korba",
+      "AvailableQty": 20
+    },
+    {
       "PartNumber": "01069MKLSD0000C1",
       "Description": "TN-01069MKLSD0000C1-SUPER SPLENDOR/GLAMOUR BS6-KIT",
       "Location": "Raipur",
@@ -1930,7 +1937,7 @@
       "PartNumber": "01077MPKAD0000C1",
       "Description": "TN-01077MPKAD0000C1-BAJAJ PULSAR UG4 (10)",
       "Location": "Korba",
-      "AvailableQty": 10
+      "AvailableQty": 8
     },
     {
       "PartNumber": "01077MPKBD0000C1",
@@ -1942,7 +1949,7 @@
       "PartNumber": "01077MPKBD0000C1",
       "Description": "TN-01077MPKBD0000C1-BAJAJ PULSAR UG4 (20)",
       "Location": "Korba",
-      "AvailableQty": 23
+      "AvailableQty": 21
     },
     {
       "PartNumber": "01077MPKCD0000C1",
@@ -2194,7 +2201,7 @@
       "PartNumber": "01085MPKAD0000C1",
       "Description": "TN-01085MPKAD0000C1-YAMAHA R15 (10)",
       "Location": "Korba",
-      "AvailableQty": 20
+      "AvailableQty": 80
     },
     {
       "PartNumber": "01085MPKBD0000C1",
@@ -2530,7 +2537,7 @@
       "PartNumber": "01110MPKAD0000C1",
       "Description": "TN-01110MPKAD0000C1-KAWASAKI KB 4S (10)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "PartNumber": "01110MPKAD0000C1",
@@ -2542,7 +2549,7 @@
       "PartNumber": "01110MPKBD0000C1",
       "Description": "TN-01110MPKBD0000C1-KAWASAKI KB 4S (20)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "PartNumber": "01110MPKBD0000C1",
@@ -2554,7 +2561,7 @@
       "PartNumber": "01110MPKCD0000C1",
       "Description": "TN-01110MPKCD0000C1-KAWASAKI KB 4S (30)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "PartNumber": "01110MPKCD0000C1",
@@ -2566,7 +2573,7 @@
       "PartNumber": "01110MPKDD0000C1",
       "Description": "TN-01110MPKDD0000C1-KAWASAKI KB 4S (40)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "PartNumber": "01110MPKDD0000C1",
@@ -2692,49 +2699,49 @@
       "PartNumber": "01380MPKAD0000C1",
       "Description": "TN-01380MPKAD0000C1-HERO HONDA GN-5 (10)",
       "Location": "Raipur",
-      "AvailableQty": 306
+      "AvailableQty": 286
     },
     {
       "PartNumber": "01380MPKAD0000C1",
       "Description": "TN-01380MPKAD0000C1-HERO HONDA GN-5 (10)",
       "Location": "Korba",
-      "AvailableQty": 3641
+      "AvailableQty": 3621
     },
     {
       "PartNumber": "01380MPKBD0000C1",
       "Description": "TN-01380MPKBD0000C1-HERO HONDA GN-5 (20)",
       "Location": "Raipur",
-      "AvailableQty": 353
+      "AvailableQty": 333
     },
     {
       "PartNumber": "01380MPKBD0000C1",
       "Description": "TN-01380MPKBD0000C1-HERO HONDA GN-5 (20)",
       "Location": "Korba",
-      "AvailableQty": 1381
+      "AvailableQty": 1351
     },
     {
       "PartNumber": "01380MPKCD0000C1",
       "Description": "TN-01380MPKCD0000C1-HERO HONDA GN-5 (30)",
       "Location": "Raipur",
-      "AvailableQty": 265
+      "AvailableQty": 255
     },
     {
       "PartNumber": "01380MPKCD0000C1",
       "Description": "TN-01380MPKCD0000C1-HERO HONDA GN-5 (30)",
       "Location": "Korba",
-      "AvailableQty": 806
+      "AvailableQty": 791
     },
     {
       "PartNumber": "01380MPKDD0000C1",
       "Description": "TN-01380MPKDD0000C1-HERO HONDA GN-5 (40)",
       "Location": "Raipur",
-      "AvailableQty": 161
+      "AvailableQty": 151
     },
     {
       "PartNumber": "01380MPKDD0000C1",
       "Description": "TN-01380MPKDD0000C1-HERO HONDA GN-5 (40)",
       "Location": "Korba",
-      "AvailableQty": 274
+      "AvailableQty": 269
     },
     {
       "PartNumber": "01380MPKSD0000C1",
@@ -2780,19 +2787,19 @@
     },
     {
       "PartNumber": "01482MPLSD0000C1",
-      "Description": "TN-01482MPLSD0000C1-Tata Magic Iris/ Ace zip Kit",
+      "Description": "TN-01482MPLSD0000C1-TATA MAGIC IRIS/ ACE ZIP KIT",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "01482MPLSD0000C1",
-      "Description": "TN-01482MPLSD0000C1-Tata Magic Iris/ Ace zip Kit",
+      "Description": "TN-01482MPLSD0000C1-TATA MAGIC IRIS/ ACE ZIP KIT",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "01482MPLSD0000C1",
-      "Description": "TN-01482MPLSD0000C1-Tata Magic Iris/ Ace zip Kit",
+      "Description": "TN-01482MPLSD0000C1-TATA MAGIC IRIS/ ACE ZIP KIT",
       "Location": "Jabalpur",
       "AvailableQty": 5
     },
@@ -2929,6 +2936,12 @@
       "AvailableQty": 12
     },
     {
+      "PartNumber": "01610MPKDD0000C1",
+      "Description": "TN-01610MPKDD0000C1-YAMAHA RXG135 POWER PACK (40)",
+      "Location": "Korba",
+      "AvailableQty": 20
+    },
+    {
       "PartNumber": "01630123X000XCRF",
       "Description": "FICOSA-01630123X000XCRF-PBL ASSY PUNCH/ALTROZ HIGH END",
       "Location": "Raipur",
@@ -2968,7 +2981,7 @@
       "PartNumber": "01651MPKAD0000C1",
       "Description": "TN-01651MPKAD0000C1-BAJAJ CT 100 (10)",
       "Location": "Raipur",
-      "AvailableQty": 30
+      "AvailableQty": 25
     },
     {
       "PartNumber": "01651MPKAD0000C1",
@@ -2980,7 +2993,7 @@
       "PartNumber": "01651MPKBD0000C1",
       "Description": "TN-01651MPKBD0000C1-BAJAJ CT 100 (20)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "PartNumber": "01651MPKBD0000C1",
@@ -2992,7 +3005,7 @@
       "PartNumber": "01651MPKCD0000C1",
       "Description": "TN-01651MPKCD0000C1-BAJAJ CT 100 (30)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 1
     },
     {
       "PartNumber": "01651MPKCD0000C1",
@@ -3124,7 +3137,7 @@
       "PartNumber": "01789MPKAD0000C1",
       "Description": "TN-01789MPKAD0000C1-TVS SUPER XL 4S (10)",
       "Location": "Raipur",
-      "AvailableQty": 29
+      "AvailableQty": 24
     },
     {
       "PartNumber": "01789MPKAD0000C1",
@@ -3136,7 +3149,7 @@
       "PartNumber": "01789MPKBD0000C1",
       "Description": "TN-01789MPKBD0000C1-TVS SUPER XL 4S (20)",
       "Location": "Raipur",
-      "AvailableQty": 25
+      "AvailableQty": 20
     },
     {
       "PartNumber": "01789MPKBD0000C1",
@@ -3202,7 +3215,7 @@
       "PartNumber": "01790MPKBD0000C1",
       "Description": "TN-01790MPKBD0000C1-TVS SUPER XLN (20)",
       "Location": "Raipur",
-      "AvailableQty": 16
+      "AvailableQty": 11
     },
     {
       "PartNumber": "01790MPKBD0000C1",
@@ -3226,7 +3239,7 @@
       "PartNumber": "01790MPKDD0000C1",
       "Description": "TN-01790MPKDD0000C1-TVS SUPER XLN (40)",
       "Location": "Raipur",
-      "AvailableQty": 25
+      "AvailableQty": 20
     },
     {
       "PartNumber": "01790MPKDD0000C1",
@@ -3238,7 +3251,7 @@
       "PartNumber": "01790MPKSD0000C1",
       "Description": "TN-01790MPKSD0000C1-TVS SUPER XLN (STD)",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01790MPKSD0000C1",
@@ -4090,7 +4103,7 @@
       "PartNumber": "01904BTSBD0000C1",
       "Description": "TN-01904BTSBD0000C1-HONDA ACTIVA AS CAST-NICKEL (20)",
       "Location": "Korba",
-      "AvailableQty": 76
+      "AvailableQty": 70
     },
     {
       "PartNumber": "01904BTSCD0000C1",
@@ -4102,7 +4115,7 @@
       "PartNumber": "01904BTSCD0000C1",
       "Description": "TN-01904BTSCD0000C1-HONDA ACTIVA AS CAST-NICKEL (30)",
       "Location": "Korba",
-      "AvailableQty": 57
+      "AvailableQty": 56
     },
     {
       "PartNumber": "01904BTSDD0000C1",
@@ -4138,7 +4151,7 @@
       "PartNumber": "01904MPKAD0000C1",
       "Description": "TN-01904MPKAD0000C1-HONDA ACTIVA AS CAST (10)",
       "Location": "Korba",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "PartNumber": "01917MPKAD0000C1",
@@ -4420,7 +4433,7 @@
       "PartNumber": "01984BTSAD0000C1",
       "Description": "TN-01984BTSAD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (10)",
       "Location": "Raipur",
-      "AvailableQty": 19
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01984BTSAD0000C1",
@@ -4432,7 +4445,7 @@
       "PartNumber": "01984BTSBD0000C1",
       "Description": "TN-01984BTSBD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (20)",
       "Location": "Raipur",
-      "AvailableQty": 37
+      "AvailableQty": 32
     },
     {
       "PartNumber": "01984BTSBD0000C1",
@@ -4444,7 +4457,7 @@
       "PartNumber": "01984BTSCD0000C1",
       "Description": "TN-01984BTSCD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (30)",
       "Location": "Raipur",
-      "AvailableQty": 27
+      "AvailableQty": 22
     },
     {
       "PartNumber": "01984BTSCD0000C1",
@@ -4498,7 +4511,7 @@
       "PartNumber": "01984MPKAD0000C1",
       "Description": "TN-01984MPKAD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (10)",
       "Location": "Korba",
-      "AvailableQty": 29
+      "AvailableQty": 25
     },
     {
       "PartNumber": "01984MPKBD0000C1",
@@ -4510,7 +4523,7 @@
       "PartNumber": "01984MPKBD0000C1",
       "Description": "TN-01984MPKBD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (20)",
       "Location": "Korba",
-      "AvailableQty": 35
+      "AvailableQty": 30
     },
     {
       "PartNumber": "01984MPKCD0000C1",
@@ -4522,7 +4535,7 @@
       "PartNumber": "01984MPKCD0000C1",
       "Description": "TN-01984MPKCD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (30)",
       "Location": "Korba",
-      "AvailableQty": 24
+      "AvailableQty": 21
     },
     {
       "PartNumber": "01984MPKDD0000C1",
@@ -4552,7 +4565,7 @@
       "PartNumber": "01985BTSAD0000C1",
       "Description": "TN-01985BTSAD0000C1-HONDA ACTIVA 3G 125CC-NICKEL (10)",
       "Location": "Raipur",
-      "AvailableQty": 24
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01985BTSAD0000C1",
@@ -4564,7 +4577,7 @@
       "PartNumber": "01985BTSBD0000C1",
       "Description": "TN-01985BTSBD0000C1-HONDA ACTIVA 3G 125CC-NICKEL (20)",
       "Location": "Raipur",
-      "AvailableQty": 27
+      "AvailableQty": 22
     },
     {
       "PartNumber": "01985BTSBD0000C1",
@@ -4576,7 +4589,7 @@
       "PartNumber": "01985BTSCD0000C1",
       "Description": "TN-01985BTSCD0000C1-HONDA ACTIVA 3G 125CC-NICKEL (30)",
       "Location": "Raipur",
-      "AvailableQty": 18
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01985BTSCD0000C1",
@@ -4922,19 +4935,19 @@
     },
     {
       "PartNumber": "03210MPLSD0000C1",
-      "Description": "TN-03210MPLSD0000C1-SANTRO Erlx LINER KIT",
+      "Description": "TN-03210MPLSD0000C1-SANTRO ERLX LINER KIT",
       "Location": "Raipur",
       "AvailableQty": 9
     },
     {
       "PartNumber": "03210MPLSD0000C1",
-      "Description": "TN-03210MPLSD0000C1-SANTRO Erlx LINER KIT",
+      "Description": "TN-03210MPLSD0000C1-SANTRO ERLX LINER KIT",
       "Location": "Indore",
       "AvailableQty": 16
     },
     {
       "PartNumber": "03210MPLSD0000C1",
-      "Description": "TN-03210MPLSD0000C1-SANTRO Erlx LINER KIT",
+      "Description": "TN-03210MPLSD0000C1-SANTRO ERLX LINER KIT",
       "Location": "Jabalpur",
       "AvailableQty": 13
     },
@@ -5006,13 +5019,13 @@
     },
     {
       "PartNumber": "03362MPLSD0000C2",
-      "Description": "TN-03362MPLSD0000C2-TATA Mega TC 800 LINER KIT",
+      "Description": "TN-03362MPLSD0000C2-TATA MEGA TC 800 LINER KIT",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "03362MPLSD0000C2",
-      "Description": "TN-03362MPLSD0000C2-TATA Mega TC 800 LINER KIT",
+      "Description": "TN-03362MPLSD0000C2-TATA MEGA TC 800 LINER KIT",
       "Location": "Jabalpur",
       "AvailableQty": 25
     },
@@ -5084,13 +5097,13 @@
     },
     {
       "PartNumber": "03410PPCSD0000C1",
-      "Description": "TN-03410PPCSD0000C1-MARUTI SUZUKI EECO",
+      "Description": "TN-03410PPCSD0000C1-MARUTI EECO",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "03410PPCSD0000C1",
-      "Description": "TN-03410PPCSD0000C1-MARUTI SUZUKI EECO",
+      "Description": "TN-03410PPCSD0000C1-MARUTI EECO",
       "Location": "Jabalpur",
       "AvailableQty": 6
     },
@@ -5162,13 +5175,13 @@
     },
     {
       "PartNumber": "03471MP0SD0000C3",
-      "Description": "TN-03471MP0SD0000C3-HYUNDAI GRAND i10 (U11) DSL",
+      "Description": "TN-03471MP0SD0000C3-HYUNDAI GRAND I10 (U11) DSL",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "03471MP0SD0000C3",
-      "Description": "TN-03471MP0SD0000C3-HYUNDAI GRAND i10 (U11) DSL",
+      "Description": "TN-03471MP0SD0000C3-HYUNDAI GRAND I10 (U11) DSL",
       "Location": "Jabalpur",
       "AvailableQty": 1.333333333333333
     },
@@ -5540,13 +5553,13 @@
     },
     {
       "PartNumber": "04301PPCSD0000C1",
-      "Description": "TN-04301PPCSD0000C1-TATA 3.0L(SOLID) (ULTRA)",
+      "Description": "TN-04301PPCSD0000C1-TATA 3.0L(SOLID) (ULTRA) PISTON",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "04301PPCSD0000C1",
-      "Description": "TN-04301PPCSD0000C1-TATA 3.0L(SOLID) (ULTRA)",
+      "Description": "TN-04301PPCSD0000C1-TATA 3.0L(SOLID) (ULTRA) PISTON",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -5594,19 +5607,19 @@
     },
     {
       "PartNumber": "04336MPLSD0000C3",
-      "Description": "TN-04336MPLSD0000C3-Ashok Leyland Dost",
+      "Description": "TN-04336MPLSD0000C3-ASHOK LEYLAND DOST",
       "Location": "Raipur",
       "AvailableQty": 45
     },
     {
       "PartNumber": "04336MPLSD0000C3",
-      "Description": "TN-04336MPLSD0000C3-Ashok Leyland Dost",
+      "Description": "TN-04336MPLSD0000C3-ASHOK LEYLAND DOST",
       "Location": "Indore",
       "AvailableQty": 17
     },
     {
       "PartNumber": "04336MPLSD0000C3",
-      "Description": "TN-04336MPLSD0000C3-Ashok Leyland Dost",
+      "Description": "TN-04336MPLSD0000C3-ASHOK LEYLAND DOST",
       "Location": "Jabalpur",
       "AvailableQty": 3
     },
@@ -5672,13 +5685,13 @@
     },
     {
       "PartNumber": "04365MPLSD0000C4",
-      "Description": "TN-04365MPLSD0000C4-Mahindra XUV 500 Liner Kit",
+      "Description": "TN-04365MPLSD0000C4-MAHINDRA XUV 500 LINER KIT",
       "Location": "Raipur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "04365MPLSD0000C4",
-      "Description": "TN-04365MPLSD0000C4-Mahindra XUV 500 Liner Kit",
+      "Description": "TN-04365MPLSD0000C4-MAHINDRA XUV 500 LINER KIT",
       "Location": "Jabalpur",
       "AvailableQty": 9
     },
@@ -5788,7 +5801,7 @@
       "PartNumber": "04412MPLSD0000C3",
       "Description": "TN-04412MPLSD0000C3-LINER KIT-BOLERO MINI U108 DSL",
       "Location": "Jabalpur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "PartNumber": "04412PPCSD0000C1",
@@ -5858,31 +5871,31 @@
     },
     {
       "PartNumber": "04610PPCSD0000C1",
-      "Description": "TN-04610PPCSD0000C1-TN-TATA TOROIDAL /STD",
+      "Description": "TN-04610PPCSD0000C1-TATA TOROIDAL",
       "Location": "Raipur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "04610PPCSD0000C1",
-      "Description": "TN-04610PPCSD0000C1-TN-TATA TOROIDAL /STD",
+      "Description": "TN-04610PPCSD0000C1-TATA TOROIDAL",
       "Location": "Indore",
       "AvailableQty": 6
     },
     {
       "PartNumber": "04650PPCSD0000C1",
-      "Description": "TN-04650PPCSD0000C1-TATA 407TC (4SP TC)",
+      "Description": "TN-04650PPCSD0000C1-BAJAJ PULSAR 150CC AS/RS",
       "Location": "Raipur",
       "AvailableQty": 19
     },
     {
       "PartNumber": "04650PPCSD0000C1",
-      "Description": "TN-04650PPCSD0000C1-TATA 407TC (4SP TC)",
+      "Description": "TN-04650PPCSD0000C1-BAJAJ PULSAR 150CC AS/RS",
       "Location": "Indore",
       "AvailableQty": 22
     },
     {
       "PartNumber": "04650PPCSD0000C1",
-      "Description": "TN-04650PPCSD0000C1-TATA 407TC (4SP TC)",
+      "Description": "TN-04650PPCSD0000C1-BAJAJ PULSAR 150CC AS/RS",
       "Location": "Jabalpur",
       "AvailableQty": 4
     },
@@ -6014,13 +6027,13 @@
     },
     {
       "PartNumber": "05150PPCSD0000C1",
-      "Description": "TN-05150PPCSD0000C1-M&M DI 3200 PPC",
+      "Description": "TN-05150PPCSD0000C1-M&M DI 3200",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "05150PPCSD0000C1",
-      "Description": "TN-05150PPCSD0000C1-M&M DI 3200 PPC",
+      "Description": "TN-05150PPCSD0000C1-M&M DI 3200",
       "Location": "Indore",
       "AvailableQty": 16
     },
@@ -6092,19 +6105,19 @@
     },
     {
       "PartNumber": "05277MPLSD0000C1",
-      "Description": "TN-05277MPLSD0000C1-Farmtrac 3D Max-Liner Kit",
+      "Description": "TN-05277MPLSD0000C1-FARMTRAC 3D MAX-LINER KIT",
       "Location": "Raipur",
       "AvailableQty": 16
     },
     {
       "PartNumber": "05277MPLSD0000C1",
-      "Description": "TN-05277MPLSD0000C1-Farmtrac 3D Max-Liner Kit",
+      "Description": "TN-05277MPLSD0000C1-FARMTRAC 3D MAX-LINER KIT",
       "Location": "Indore",
       "AvailableQty": 36
     },
     {
       "PartNumber": "05277MPLSD0000C1",
-      "Description": "TN-05277MPLSD0000C1-Farmtrac 3D Max-Liner Kit",
+      "Description": "TN-05277MPLSD0000C1-FARMTRAC 3D MAX-LINER KIT",
       "Location": "Jabalpur",
       "AvailableQty": 24
     },
@@ -6128,13 +6141,13 @@
     },
     {
       "PartNumber": "05277PPCSD0000C1",
-      "Description": "TN-05277PPCSD0000C1-Farmtrac P448",
+      "Description": "TN-05277PPCSD0000C1-FARMTRAC P448",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "05277PPCSD0000C1",
-      "Description": "TN-05277PPCSD0000C1-Farmtrac P448",
+      "Description": "TN-05277PPCSD0000C1-FARMTRAC P448",
       "Location": "Jabalpur",
       "AvailableQty": 6
     },
@@ -6320,79 +6333,79 @@
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Raipur",
       "AvailableQty": 76
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Bilaspur",
       "AvailableQty": 13
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Ambikapur",
       "AvailableQty": 22
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Raigarh",
       "AvailableQty": 13
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Indore",
       "AvailableQty": 56
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
-      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD",
+      "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Jabalpur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Bilaspur",
       "AvailableQty": 9
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Ambikapur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Raigarh",
       "AvailableQty": 3
     },
     {
       "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III( MOLY)",
+      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Indore",
       "AvailableQty": 14
     },
@@ -6428,37 +6441,37 @@
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Ambikapur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Raigarh",
       "AvailableQty": 5
     },
     {
       "PartNumber": "05822PPCSD0000C1",
-      "Description": "TN-05822PPCSD0000C1-TATA CUMMINS 6BT EURO IV",
+      "Description": "TN-05822PPCSD0000C1-CUMMINS 6BT EURO 4",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -6634,7 +6647,7 @@
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 4
     },
     {
       "PartNumber": "07308PPCSD0000C1",
@@ -6651,78 +6664,84 @@
     {
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
+      "Location": "Indore",
+      "AvailableQty": 14
+    },
+    {
+      "PartNumber": "07308PPCSD0000C1",
+      "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Jabalpur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Raipur",
       "AvailableQty": 15
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Bilaspur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Ambikapur",
       "AvailableQty": 16
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Raigarh",
       "AvailableQty": 6
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Jabalpur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "07309PPCSD0000C1",
-      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 87 KW",
+      "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
     {
       "PartNumber": "07311PPCSD0000C1",
-      "Description": "TN-07311PPCSD0000C1-Ashok Leyland HINO BS6 (5.7L – 2Valve)",
+      "Description": "TN-07311PPCSD0000C1-Ashok Ley H5.7L BS6(2V)",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "07311PPCSD0000C1",
-      "Description": "TN-07311PPCSD0000C1-Ashok Leyland HINO BS6 (5.7L – 2Valve)",
+      "Description": "TN-07311PPCSD0000C1-Ashok Ley H5.7L BS6(2V)",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "07311PPCSD0000C1",
-      "Description": "TN-07311PPCSD0000C1-Ashok Leyland HINO BS6 (5.7L – 2Valve)",
+      "Description": "TN-07311PPCSD0000C1-Ashok Ley H5.7L BS6(2V)",
       "Location": "Ambikapur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "07311PPCSD0000C1",
-      "Description": "TN-07311PPCSD0000C1-Ashok Leyland HINO BS6 (5.7L – 2Valve)",
+      "Description": "TN-07311PPCSD0000C1-Ashok Ley H5.7L BS6(2V)",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "07311PPCSD0000C1",
-      "Description": "TN-07311PPCSD0000C1-Ashok Leyland HINO BS6 (5.7L – 2Valve)",
+      "Description": "TN-07311PPCSD0000C1-Ashok Ley H5.7L BS6(2V)",
       "Location": "Indore",
       "AvailableQty": 15
     },
@@ -68438,13 +68457,13 @@
     },
     {
       "PartNumber": "4304CKS-SD",
-      "Description": "TN-4304CKS-SD-TN-FARNTRAC P448 /STD",
+      "Description": "TN-4304CKS-SD-FARMTRAC P448",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "4304CKS-SD",
-      "Description": "TN-4304CKS-SD-TN-FARNTRAC P448 /STD",
+      "Description": "TN-4304CKS-SD-FARMTRAC P448",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -74792,19 +74811,19 @@
     },
     {
       "PartNumber": "5312P-SD",
-      "Description": "TN-5312P-SD-TN-WABCO 85.0 MM (TATA PRIMA AC) / STD",
+      "Description": "TN-5312P-SD-WABCO 85.0 MM (TATA PRIMA AC)",
       "Location": "Raipur",
       "AvailableQty": 95
     },
     {
       "PartNumber": "5312P-SD",
-      "Description": "TN-5312P-SD-TN-WABCO 85.0 MM (TATA PRIMA AC) / STD",
+      "Description": "TN-5312P-SD-WABCO 85.0 MM (TATA PRIMA AC)",
       "Location": "Indore",
       "AvailableQty": 100
     },
     {
       "PartNumber": "5312P-SD",
-      "Description": "TN-5312P-SD-TN-WABCO 85.0 MM (TATA PRIMA AC) / STD",
+      "Description": "TN-5312P-SD-WABCO 85.0 MM (TATA PRIMA AC)",
       "Location": "Jabalpur",
       "AvailableQty": 10
     },
@@ -74840,25 +74859,25 @@
     },
     {
       "PartNumber": "5313MOLYPLUS-SD",
-      "Description": "TN-5313MOLYPLUS-SD-Harvester Euro II",
+      "Description": "TN-5313MOLYPLUS-SD-HARVESTER EURO II",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "5313MOLYPLUS-SD",
-      "Description": "TN-5313MOLYPLUS-SD-Harvester Euro II",
+      "Description": "TN-5313MOLYPLUS-SD-HARVESTER EURO II",
       "Location": "Raigarh",
       "AvailableQty": 6
     },
     {
       "PartNumber": "5313MOLYPLUS-SD",
-      "Description": "TN-5313MOLYPLUS-SD-Harvester Euro II",
+      "Description": "TN-5313MOLYPLUS-SD-HARVESTER EURO II",
       "Location": "Indore",
       "AvailableQty": 35
     },
     {
       "PartNumber": "5313MOLYPLUS-SD",
-      "Description": "TN-5313MOLYPLUS-SD-Harvester Euro II",
+      "Description": "TN-5313MOLYPLUS-SD-HARVESTER EURO II",
       "Location": "Jabalpur",
       "AvailableQty": 3
     },
@@ -74960,121 +74979,121 @@
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Raipur",
       "AvailableQty": 131
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Raigarh",
       "AvailableQty": 10
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Indore",
       "AvailableQty": 35
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Jabalpur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "5327CKS-SD",
-      "Description": "TN-5327CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Raipur",
       "AvailableQty": 89
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Ambikapur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Raigarh",
       "AvailableQty": 3
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Indore",
       "AvailableQty": 15
     },
     {
       "PartNumber": "5328CKS-BD",
-      "Description": "TN-5328CKS-BD-Harvestor_III-102.5mm",
+      "Description": "TN-5328CKS-BD-HARVESTOR_III-102.5MM",
       "Location": "Jabalpur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Raipur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Bilaspur",
       "AvailableQty": 39
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Ambikapur",
       "AvailableQty": 33
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Raigarh",
       "AvailableQty": 29
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Indore",
       "AvailableQty": 48
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Jabalpur",
       "AvailableQty": 24
     },
     {
       "PartNumber": "5328CKS-SD",
-      "Description": "TN-5328CKS-SD-Harvestor III -102mm",
+      "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
@@ -77654,13 +77673,13 @@
     },
     {
       "PartNumber": "5550GTX-SF",
-      "Description": "TN-5550GTX-SF-Hyundai Erlx Petrol Ring Set",
+      "Description": "TN-5550GTX-SF-HYUNDAI ERLX PETROL RING SET",
       "Location": "Raipur",
       "AvailableQty": 18
     },
     {
       "PartNumber": "5550GTX-SF",
-      "Description": "TN-5550GTX-SF-Hyundai Erlx Petrol Ring Set",
+      "Description": "TN-5550GTX-SF-HYUNDAI ERLX PETROL RING SET",
       "Location": "Jabalpur",
       "AvailableQty": 5
     },
@@ -77786,13 +77805,13 @@
     },
     {
       "PartNumber": "5588GTP-SD",
-      "Description": "TN-5588GTP-SDHyundai I 10",
+      "Description": "TN-5588GTP-SD-Hyundai I 10",
       "Location": "Raipur",
       "AvailableQty": 11
     },
     {
       "PartNumber": "5588GTP-SD",
-      "Description": "TN-5588GTP-SDHyundai I 10",
+      "Description": "TN-5588GTP-SD-Hyundai I 10",
       "Location": "Jabalpur",
       "AvailableQty": 10
     },
@@ -87914,13 +87933,13 @@
     },
     {
       "PartNumber": "5738GTP-SD",
-      "Description": "TN-5738GTP-SD-TATA NEXON PETROL (PISTON RING)",
+      "Description": "TN-5738GTP-SD- TATA NEXON PETROL (PISTON RING)",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "5738GTP-SD",
-      "Description": "TN-5738GTP-SD-TATA NEXON PETROL (PISTON RING)",
+      "Description": "TN-5738GTP-SD- TATA NEXON PETROL (PISTON RING)",
       "Location": "Jabalpur",
       "AvailableQty": 4
     },
@@ -87944,13 +87963,13 @@
     },
     {
       "PartNumber": "5761CKS-SD",
-      "Description": "TN-5761CKS-SDMARUTI SWIFT DZIRE (DIESEL)",
+      "Description": "TN-5761CKS-SD-MARUTI SWIFT DZIRE (DIESEL)",
       "Location": "Raipur",
       "AvailableQty": 18
     },
     {
       "PartNumber": "5761CKS-SD",
-      "Description": "TN-5761CKS-SDMARUTI SWIFT DZIRE (DIESEL)",
+      "Description": "TN-5761CKS-SD-MARUTI SWIFT DZIRE (DIESEL)",
       "Location": "Jabalpur",
       "AvailableQty": 31
     },
@@ -88046,13 +88065,13 @@
     },
     {
       "PartNumber": "5793EUROSTEEL-SD",
-      "Description": "TN-5793EUROSTEEL-SD-Tata Intra V30/Nexon/Altroz (D)-RING",
+      "Description": "TN-5793EUROSTEEL-SD-TATA INTRA V30/NEXON/ALTROZ (D)-RING",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "5793EUROSTEEL-SD",
-      "Description": "TN-5793EUROSTEEL-SD-Tata Intra V30/Nexon/Altroz (D)-RING",
+      "Description": "TN-5793EUROSTEEL-SD-TATA INTRA V30/NEXON/ALTROZ (D)-RING",
       "Location": "Jabalpur",
       "AvailableQty": 18
     },
@@ -92336,31 +92355,31 @@
     },
     {
       "PartNumber": "6810P-SD",
-      "Description": "TN-6810P-SD-TATA AC_77/STD",
+      "Description": "TN-6810P-SD-TATA AC_77",
       "Location": "Raipur",
       "AvailableQty": 55
     },
     {
       "PartNumber": "6810P-SD",
-      "Description": "TN-6810P-SD-TATA AC_77/STD",
+      "Description": "TN-6810P-SD-TATA AC_77",
       "Location": "Bilaspur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "6810P-SD",
-      "Description": "TN-6810P-SD-TATA AC_77/STD",
+      "Description": "TN-6810P-SD-TATA AC_77",
       "Location": "Ambikapur",
       "AvailableQty": 100
     },
     {
       "PartNumber": "6810P-SD",
-      "Description": "TN-6810P-SD-TATA AC_77/STD",
+      "Description": "TN-6810P-SD-TATA AC_77",
       "Location": "Raigarh",
       "AvailableQty": 95
     },
     {
       "PartNumber": "6810P-SD",
-      "Description": "TN-6810P-SD-TATA AC_77/STD",
+      "Description": "TN-6810P-SD-TATA AC_77",
       "Location": "Indore",
       "AvailableQty": 430
     },
@@ -92516,19 +92535,19 @@
     },
     {
       "PartNumber": "6871MOLYPLUS-SD",
-      "Description": "TN-6871MOLYPLUS-SD-TATA_97",
+      "Description": "TN-6871MOLYPLUS-SD- TATA_97",
       "Location": "Raipur",
       "AvailableQty": 64
     },
     {
       "PartNumber": "6871MOLYPLUS-SD",
-      "Description": "TN-6871MOLYPLUS-SD-TATA_97",
+      "Description": "TN-6871MOLYPLUS-SD- TATA_97",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "6871MOLYPLUS-SD",
-      "Description": "TN-6871MOLYPLUS-SD-TATA_97",
+      "Description": "TN-6871MOLYPLUS-SD- TATA_97",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -92540,19 +92559,19 @@
     },
     {
       "PartNumber": "6872CKS-SD",
-      "Description": "TN-6872CKS-SD-TATA 697_97.0",
+      "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Raipur",
       "AvailableQty": 66
     },
     {
       "PartNumber": "6872CKS-SD",
-      "Description": "TN-6872CKS-SD-TATA 697_97.0",
+      "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Indore",
       "AvailableQty": 32
     },
     {
       "PartNumber": "6872CKS-SD",
-      "Description": "TN-6872CKS-SD-TATA 697_97.0",
+      "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Jabalpur",
       "AvailableQty": 14
     },
@@ -92624,13 +92643,13 @@
     },
     {
       "PartNumber": "6887CKS-SD",
-      "Description": "TN-6887CKS-SD-TN-Tata 4SP-Spacio E II & III/97 DIA / STD",
+      "Description": "TN-6887CKS-SD-Tata 4SP-Spacio E II & III/97 DIA",
       "Location": "Raipur",
       "AvailableQty": 13
     },
     {
       "PartNumber": "6887CKS-SD",
-      "Description": "TN-6887CKS-SD-TN-Tata 4SP-Spacio E II & III/97 DIA / STD",
+      "Description": "TN-6887CKS-SD-Tata 4SP-Spacio E II & III/97 DIA",
       "Location": "Indore",
       "AvailableQty": 32
     },
@@ -92732,25 +92751,25 @@
     },
     {
       "PartNumber": "7219EUROSTEEL-SF",
-      "Description": "TN-7219EUROSTEEL-SF-Xcent Diesel Ring",
+      "Description": "TN-7219EUROSTEEL-SF-HYD XCENT U11 RING SET (D)",
       "Location": "Raipur",
       "AvailableQty": 16
     },
     {
       "PartNumber": "7219EUROSTEEL-SF",
-      "Description": "TN-7219EUROSTEEL-SF-Xcent Diesel Ring",
+      "Description": "TN-7219EUROSTEEL-SF-HYD XCENT U11 RING SET (D)",
       "Location": "Jabalpur",
       "AvailableQty": 13
     },
     {
       "PartNumber": "7222EUROSTEEL-SF",
-      "Description": "TN-7222EUROSTEEL-SF-HYD i20/i10 Grnd U11 Ring Set (D)",
+      "Description": "TN-7222EUROSTEEL-SF-HYD I20/I10 GRND U14 RING SET (D)",
       "Location": "Raipur",
       "AvailableQty": 19
     },
     {
       "PartNumber": "7222EUROSTEEL-SF",
-      "Description": "TN-7222EUROSTEEL-SF-HYD i20/i10 Grnd U11 Ring Set (D)",
+      "Description": "TN-7222EUROSTEEL-SF-HYD I20/I10 GRND U14 RING SET (D)",
       "Location": "Jabalpur",
       "AvailableQty": 7
     },
@@ -92768,13 +92787,13 @@
     },
     {
       "PartNumber": "7231EUROSTEEL-SF",
-      "Description": "TN-7231EUROSTEEL-SF-M&M LOGAN/MICRA/PULSE Ring Set",
+      "Description": "TN-7231EUROSTEEL-SF-M&M LOGAN/MICRA/PULSE RING SET",
       "Location": "Raipur",
       "AvailableQty": 16
     },
     {
       "PartNumber": "7231EUROSTEEL-SF",
-      "Description": "TN-7231EUROSTEEL-SF-M&M LOGAN/MICRA/PULSE Ring Set",
+      "Description": "TN-7231EUROSTEEL-SF-M&M LOGAN/MICRA/PULSE RING SET",
       "Location": "Jabalpur",
       "AvailableQty": 14
     },
@@ -92870,13 +92889,13 @@
     },
     {
       "PartNumber": "8205TKFDCES-SD",
-      "Description": "TN-8205TKFDCES-SD-TN-M&M VNEF - 96 TC / STD",
+      "Description": "TN-8205TKFDCES-SD-M&M VNEF - 96 TC",
       "Location": "Raipur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "8205TKFDCES-SD",
-      "Description": "TN-8205TKFDCES-SD-TN-M&M VNEF - 96 TC / STD",
+      "Description": "TN-8205TKFDCES-SD-M&M VNEF - 96 TC",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -92900,13 +92919,13 @@
     },
     {
       "PartNumber": "8415SHAKTI-SD",
-      "Description": "TN-8415SHAKTI-SD-BD-154 / DI 3200_88.9",
+      "Description": "TN-8415SHAKTI-SD-M&M DI AVL",
       "Location": "Raipur",
       "AvailableQty": 55
     },
     {
       "PartNumber": "8415SHAKTI-SD",
-      "Description": "TN-8415SHAKTI-SD-BD-154 / DI 3200_88.9",
+      "Description": "TN-8415SHAKTI-SD-M&M DI AVL",
       "Location": "Indore",
       "AvailableQty": 64
     },
@@ -97294,7 +97313,7 @@
       "PartNumber": "886340000006",
       "Description": "WHEEL RIM 8X20 BS6",
       "Location": "Indore Tata Motors",
-      "AvailableQty": 216
+      "AvailableQty": 316
     },
     {
       "PartNumber": "886341000006",
@@ -107290,7 +107309,7 @@
       "PartNumber": "A045S157-RX",
       "Description": "CCC-A045S157-RX-RECON SENSOR,NITROGEN OXIDE-570114110107",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "A045S171",
@@ -108046,7 +108065,7 @@
       "PartNumber": "A061L204-RX",
       "Description": "CCC-A061L204-RX -INJECTOR,DOSER-573714110197",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "A061L204-RX",
@@ -108064,7 +108083,13 @@
       "PartNumber": "A061L204-RX",
       "Description": "CCC-A061L204-RX -INJECTOR,DOSER-573714110197",
       "Location": "Jagdalpur",
-      "AvailableQty": 10
+      "AvailableQty": 8
+    },
+    {
+      "PartNumber": "A061L204-RX",
+      "Description": "CCC-A061L204-RX -INJECTOR,DOSER-573714110197",
+      "Location": "Jagdalpur - Warranty",
+      "AvailableQty": 1
     },
     {
       "PartNumber": "A061L206",
@@ -109390,7 +109415,7 @@
       "PartNumber": "A073K142",
       "Description": "CCC-A073K142-Lid,Housing Liquid-573714990135",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "PartNumber": "A073K376",
@@ -109634,121 +109659,121 @@
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Bilaspur",
       "AvailableQty": 100
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Ambikapur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Jagdalpur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Korba",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Raigarh",
       "AvailableQty": 20
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Indore",
       "AvailableQty": 1380
     },
     {
       "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Jabalpur",
       "AvailableQty": 1065
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Raipur",
       "AvailableQty": 234
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Bilaspur",
       "AvailableQty": 210
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Ambikapur",
       "AvailableQty": 210
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Korba",
       "AvailableQty": 18
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Raigarh",
       "AvailableQty": 234
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Indore",
       "AvailableQty": 372
     },
     {
       "PartNumber": "ACL000213B0030",
-      "Description": "TN-ACL000213B0030-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "ACL000213B0050",
-      "Description": "TN-ACL000213B0050-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Raipur",
       "AvailableQty": 70
     },
     {
       "PartNumber": "ACL000213B0050",
-      "Description": "TN-ACL000213B0050-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Bilaspur",
       "AvailableQty": 200
     },
     {
       "PartNumber": "ACL000213B0050",
-      "Description": "TN-ACL000213B0050-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Ambikapur",
       "AvailableQty": 200
     },
     {
       "PartNumber": "ACL000213B0050",
-      "Description": "TN-ACL000213B0050-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Raigarh",
       "AvailableQty": 152
     },
     {
       "PartNumber": "ACL000213B0050",
-      "Description": "TN-ACL000213B0050-RADIATOR COOLANT GREEN",
+      "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Indore",
       "AvailableQty": 92
     },
@@ -109760,79 +109785,79 @@
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Bilaspur",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Ambikapur",
       "AvailableQty": 300
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Jagdalpur",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Korba",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Raigarh",
       "AvailableQty": 80
     },
     {
       "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-Radiator Coolant 1:3 1.0L PINK",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Indore",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL00213A0010-R",
-      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT RED",
+      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Korba",
       "AvailableQty": 40
     },
     {
       "PartNumber": "ACL00213A0010-R",
-      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT RED",
+      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Raigarh",
       "AvailableQty": 100
     },
     {
       "PartNumber": "ACL00213A0010-R",
-      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT RED",
+      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Indore",
       "AvailableQty": 118
     },
     {
       "PartNumber": "ACL00213A0010-R",
-      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT RED",
+      "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Jabalpur",
       "AvailableQty": 155
     },
     {
       "PartNumber": "ACL00213A0030-R",
-      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT 1:3 3.0L RED",
+      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT CONC 13 - 3.0 LTR RED",
       "Location": "Raipur",
       "AvailableQty": 54
     },
     {
       "PartNumber": "ACL00213A0030-R",
-      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT 1:3 3.0L RED",
+      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT CONC 13 - 3.0 LTR RED",
       "Location": "Indore",
       "AvailableQty": 88
     },
     {
       "PartNumber": "ACL00213A0030-R",
-      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT 1:3 3.0L RED",
+      "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT CONC 13 - 3.0 LTR RED",
       "Location": "Jabalpur",
       "AvailableQty": 120
     },
@@ -109874,19 +109899,19 @@
     },
     {
       "PartNumber": "CBA325HS5",
-      "Description": "RSB-CBA325HS5-325JTHSCBASSY.DOUBLEROWHONEYCOMB",
+      "Description": "RSB-CBA325HS5-325 HS CENTER BRG BKT. ASSY.",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "CBA325HS5",
-      "Description": "RSB-CBA325HS5-325JTHSCBASSY.DOUBLEROWHONEYCOMB",
+      "Description": "RSB-CBA325HS5-325 HS CENTER BRG BKT. ASSY.",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBA325HS5",
-      "Description": "RSB-CBA325HS5-325JTHSCBASSY.DOUBLEROWHONEYCOMB",
+      "Description": "RSB-CBA325HS5-325 HS CENTER BRG BKT. ASSY.",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -109898,49 +109923,49 @@
     },
     {
       "PartNumber": "CBA490002",
-      "Description": "RSB-CBA490002-490CB ASSY.3118.2518,SOLID",
+      "Description": "RSB-CBA490002-490 CENTRE BEARING ASSY.3118,2518,SOLID RUBBER HSG (65 DIA BRG)",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "CBA490002",
-      "Description": "RSB-CBA490002-490CB ASSY.3118.2518,SOLID",
+      "Description": "RSB-CBA490002-490 CENTRE BEARING ASSY.3118,2518,SOLID RUBBER HSG (65 DIA BRG)",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CBA590003",
-      "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)-590",
+      "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)",
       "Location": "Raipur",
       "AvailableQty": 17
     },
     {
       "PartNumber": "CBA590003",
-      "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)-590",
+      "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)",
       "Location": "Indore",
       "AvailableQty": 17
     },
@@ -109952,19 +109977,19 @@
     },
     {
       "PartNumber": "CBA620004",
-      "Description": "RSB-CBA620004-620 JT CB ASSY.-620",
+      "Description": "RSB-CBA620004-620 JT CB ASSY.",
       "Location": "Raipur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "CBA620004",
-      "Description": "RSB-CBA620004-620 JT CB ASSY.-620",
+      "Description": "RSB-CBA620004-620 JT CB ASSY.",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBA620004",
-      "Description": "RSB-CBA620004-620 JT CB ASSY.-620",
+      "Description": "RSB-CBA620004-620 JT CB ASSY.",
       "Location": "Indore",
       "AvailableQty": 8
     },
@@ -109976,31 +110001,31 @@
     },
     {
       "PartNumber": "CBA680001",
-      "Description": "RSB-CBA680001-680 JT Bearing Kit 62132RSR/CENTER BEARING ASSY 680JT-680",
+      "Description": "RSB-CBA680001-680 JT Bearing Kit 62132RSR/CENTER BEARING ASSY 680JT",
       "Location": "Raipur",
       "AvailableQty": 28
     },
     {
       "PartNumber": "CBA680001",
-      "Description": "RSB-CBA680001-680 JT Bearing Kit 62132RSR/CENTER BEARING ASSY 680JT-680",
+      "Description": "RSB-CBA680001-680 JT Bearing Kit 62132RSR/CENTER BEARING ASSY 680JT",
       "Location": "Indore",
       "AvailableQty": 21
     },
     {
       "PartNumber": "CBK325001",
-      "Description": "RSB-CBK325001-325JOINTCENTERBRG.UBKT.",
+      "Description": "RSB-CBK325001-325 JOINT CENTER BRG. U BKT.",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "CBK325001",
-      "Description": "RSB-CBK325001-325JOINTCENTERBRG.UBKT.",
+      "Description": "RSB-CBK325001-325 JOINT CENTER BRG. U BKT.",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBK325001",
-      "Description": "RSB-CBK325001-325JOINTCENTERBRG.UBKT.",
+      "Description": "RSB-CBK325001-325 JOINT CENTER BRG. U BKT.",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -110012,43 +110037,43 @@
     },
     {
       "PartNumber": "CBK403002",
-      "Description": "RSB-CBK403002-403JOINTCENTERBRG.UBKT.",
+      "Description": "RSB-CBK403002-403 JOINT CENTER BRG. U BKT.",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CBK403002",
-      "Description": "RSB-CBK403002-403JOINTCENTERBRG.UBKT.",
+      "Description": "RSB-CBK403002-403 JOINT CENTER BRG. U BKT.",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBK490001",
-      "Description": "RSB-CBK490001-490CENTERBRGUBKTALL",
+      "Description": "RSB-CBK490001-490 JOINT CENTER BRG. U BKT. Ashok Leyland",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBK490001",
-      "Description": "RSB-CBK490001-490CENTERBRGUBKTALL",
+      "Description": "RSB-CBK490001-490 JOINT CENTER BRG. U BKT. Ashok Leyland",
       "Location": "Indore",
       "AvailableQty": 7
     },
     {
       "PartNumber": "CBK490003",
-      "Description": "RSB-CBK490003-490JOINTCENTERBRG.UBKT",
+      "Description": "RSB-CBK490003-490 JOINT CENTER BRG. U BKT.",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CBK490003",
-      "Description": "RSB-CBK490003-490JOINTCENTERBRG.UBKT",
+      "Description": "RSB-CBK490003-490 JOINT CENTER BRG. U BKT.",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBK490003",
-      "Description": "RSB-CBK490003-490JOINTCENTERBRG.UBKT",
+      "Description": "RSB-CBK490003-490 JOINT CENTER BRG. U BKT.",
       "Location": "Indore",
       "AvailableQty": 13
     },
@@ -110060,25 +110085,25 @@
     },
     {
       "PartNumber": "CBK590NG4",
-      "Description": "RSB-CBK590NG4-C.B.BRACKET",
+      "Description": "RSB-CBK590NG4-590 NG U bracket",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBK590NG4",
-      "Description": "RSB-CBK590NG4-C.B.BRACKET",
+      "Description": "RSB-CBK590NG4-590 NG U bracket",
       "Location": "Indore",
       "AvailableQty": 9
     },
     {
       "PartNumber": "CBK620005",
-      "Description": "RSB-CBK620005-620 JOINT CENTER BRG. U BKT. ASSY.-620",
+      "Description": "RSB-CBK620005-620 JOINT CENTER BRG. U BKT. ASSY.",
       "Location": "Raipur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "CBK620005",
-      "Description": "RSB-CBK620005-620 JOINT CENTER BRG. U BKT. ASSY.-620",
+      "Description": "RSB-CBK620005-620 JOINT CENTER BRG. U BKT. ASSY.",
       "Location": "Indore",
       "AvailableQty": 11
     },
@@ -110090,13 +110115,13 @@
     },
     {
       "PartNumber": "CBK680001",
-      "Description": "RSB-CBK680001-680CENTERBRG(U)BKT",
+      "Description": "RSB-CBK680001-680 CENTER BRG.(U) BKT.",
       "Location": "Raipur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CBK680001",
-      "Description": "RSB-CBK680001-680CENTERBRG(U)BKT",
+      "Description": "RSB-CBK680001-680 CENTER BRG.(U) BKT.",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -110114,67 +110139,67 @@
     },
     {
       "PartNumber": "CBS325003",
-      "Description": "RSB-CBS325003-325JT.R/HSG.SUBASSYALL(BRG.55D)",
+      "Description": "RSB-CBS325003-325 JT. RUBBER HSG. SUB ASSY. ASHOK LEYLAND (DIA 55 Bearing)",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS325003",
-      "Description": "RSB-CBS325003-325JT.R/HSG.SUBASSYALL(BRG.55D)",
+      "Description": "RSB-CBS325003-325 JT. RUBBER HSG. SUB ASSY. ASHOK LEYLAND (DIA 55 Bearing)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS325003",
-      "Description": "RSB-CBS325003-325JT.R/HSG.SUBASSYALL(BRG.55D)",
+      "Description": "RSB-CBS325003-325 JT. RUBBER HSG. SUB ASSY. ASHOK LEYLAND (DIA 55 Bearing)",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CBS325HS1",
-      "Description": "RSB-CBS325HS1-325JT.R/HSG.SUBASSYALL(BRG.45D)",
+      "Description": "RSB-CBS325HS1-325 HS RUBBER HSG. SUB ASSY. (DIA 45 Bearing)",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS325HS1",
-      "Description": "RSB-CBS325HS1-325JT.R/HSG.SUBASSYALL(BRG.45D)",
+      "Description": "RSB-CBS325HS1-325 HS RUBBER HSG. SUB ASSY. (DIA 45 Bearing)",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS490004",
-      "Description": "RSB-CBS490004-490JtSolidRubberHousing",
+      "Description": "RSB-CBS490004-490 JT. SOLID RUBBER HSG. SUB ASSY. (DIA 65 Bearing)",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBS490004",
-      "Description": "RSB-CBS490004-490JtSolidRubberHousing",
+      "Description": "RSB-CBS490004-490 JT. SOLID RUBBER HSG. SUB ASSY. (DIA 65 Bearing)",
       "Location": "Indore",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CBS490005",
-      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)-490",
+      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
       "Location": "Raipur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CBS490005",
-      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)-490",
+      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS490005",
-      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)-490",
+      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CBS490005",
-      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)-490",
+      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -110186,13 +110211,13 @@
     },
     {
       "PartNumber": "CBS620007",
-      "Description": "RSB-CBS620007-620 JT R/HSG.SUB ASSY(BRG.75D)",
+      "Description": "RSB-CBS620007-620 JT. RUBBER HSG. SUB ASSY. (DIA 75 Bearing)",
       "Location": "Raipur",
       "AvailableQty": 31
     },
     {
       "PartNumber": "CBS620007",
-      "Description": "RSB-CBS620007-620 JT R/HSG.SUB ASSY(BRG.75D)",
+      "Description": "RSB-CBS620007-620 JT. RUBBER HSG. SUB ASSY. (DIA 75 Bearing)",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -110204,13 +110229,13 @@
     },
     {
       "PartNumber": "CBS680001",
-      "Description": "RSB-CBS680001-680JTCBSUBASSY",
+      "Description": "RSB-CBS680001-680 JT CB Sub Assy.",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CBS680001",
-      "Description": "RSB-CBS680001-680JTCBSUBASSY",
+      "Description": "RSB-CBS680001-680 JT CB Sub Assy.",
       "Location": "Indore",
       "AvailableQty": 12
     },
@@ -110218,7 +110243,7 @@
       "PartNumber": "CES90004",
       "Description": "CCC-CES90004-BSVI FILTER KIT (SET OF 1)",
       "Location": "Raipur",
-      "AvailableQty": 111
+      "AvailableQty": 100
     },
     {
       "PartNumber": "CES90004",
@@ -110258,151 +110283,151 @@
     },
     {
       "PartNumber": "CPF325001",
-      "Description": "RSB-CPF325001-325JT.COUPLINGFLANGE-29L",
+      "Description": "RSB-CPF325001-325 JT. COUPLING FLANGE(29 length/Dia90)",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CPF325001",
-      "Description": "RSB-CPF325001-325JT.COUPLINGFLANGE-29L",
+      "Description": "RSB-CPF325001-325 JT. COUPLING FLANGE(29 length/Dia90)",
       "Location": "Indore",
       "AvailableQty": 3
     },
     {
       "PartNumber": "CPF325002",
-      "Description": "RSB-CPF325002-325JT.COUPLINGFLANGE",
+      "Description": "RSB-CPF325002-325 JT. COUPLING FLANGE (14 LENGTH)",
       "Location": "Raipur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "CPF325002",
-      "Description": "RSB-CPF325002-325JT.COUPLINGFLANGE",
+      "Description": "RSB-CPF325002-325 JT. COUPLING FLANGE (14 LENGTH)",
       "Location": "Indore",
       "AvailableQty": 3
     },
     {
       "PartNumber": "CPF325003",
-      "Description": "RSB-CPF325003-325HSCOUPLINGFLANGE8HOLE",
+      "Description": "RSB-CPF325003-325HS COUPLING FLANGE (8 HOLE) 130 DIA",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CPF325003",
-      "Description": "RSB-CPF325003-325HSCOUPLINGFLANGE8HOLE",
+      "Description": "RSB-CPF325003-325HS COUPLING FLANGE (8 HOLE) 130 DIA",
       "Location": "Indore",
       "AvailableQty": 1
     },
     {
       "PartNumber": "CPF325HS1",
-      "Description": "RSB-CPF325HS1-325HSCOUPLINGFLANGE150D",
+      "Description": "RSB-CPF325HS1-325HS COUPLING FLANGE 150 DIA",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CPF325HS1",
-      "Description": "RSB-CPF325HS1-325HSCOUPLINGFLANGE150D",
+      "Description": "RSB-CPF325HS1-325HS COUPLING FLANGE 150 DIA",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CPF403001",
-      "Description": "RSB-CPF403001-403JT.COUPLINGFLANGE",
+      "Description": "RSB-CPF403001-403 JT. COUPLING FLANGE",
       "Location": "Raipur",
       "AvailableQty": 11
     },
     {
       "PartNumber": "CPF403001",
-      "Description": "RSB-CPF403001-403JT.COUPLINGFLANGE",
+      "Description": "RSB-CPF403001-403 JT. COUPLING FLANGE",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CPF403001",
-      "Description": "RSB-CPF403001-403JT.COUPLINGFLANGE",
+      "Description": "RSB-CPF403001-403 JT. COUPLING FLANGE",
       "Location": "Indore",
       "AvailableQty": 3
     },
     {
       "PartNumber": "CPF490002",
-      "Description": "RSB-CPF490002-490JT.COUPLINGFLANGE(3118)",
+      "Description": "RSB-CPF490002-490 JT. COUPLING FLANGE(3118)",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "CPF490002",
-      "Description": "RSB-CPF490002-490JT.COUPLINGFLANGE(3118)",
+      "Description": "RSB-CPF490002-490 JT. COUPLING FLANGE(3118)",
       "Location": "Korba",
       "AvailableQty": 1
     },
     {
       "PartNumber": "CPF490002",
-      "Description": "RSB-CPF490002-490JT.COUPLINGFLANGE(3118)",
+      "Description": "RSB-CPF490002-490 JT. COUPLING FLANGE(3118)",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CPF490002",
-      "Description": "RSB-CPF490002-490JT.COUPLINGFLANGE(3118)",
+      "Description": "RSB-CPF490002-490 JT. COUPLING FLANGE(3118)",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "CPF490007",
-      "Description": "RSB-CPF490007-490L- COUPLING FLANGE-490L",
+      "Description": "RSB-CPF490007-490L- COUPLING FLANGE",
       "Location": "Raipur",
       "AvailableQty": 9
     },
     {
       "PartNumber": "CPF490007",
-      "Description": "RSB-CPF490007-490L- COUPLING FLANGE-490L",
+      "Description": "RSB-CPF490007-490L- COUPLING FLANGE",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "CPF590001",
-      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D-590",
+      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D",
       "Location": "Raipur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CPF590001",
-      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D-590",
+      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "CPF590001",
-      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D-590",
+      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "CPF590001",
-      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D-590",
+      "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D",
       "Location": "Indore",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CPF620004",
-      "Description": "RSB-CPF620004-620 JT. COUPLING FLANGE (NEW)-620",
+      "Description": "RSB-CPF620004-620 JT. COUPLING FLANGE (NEW)",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "CPF620004",
-      "Description": "RSB-CPF620004-620 JT. COUPLING FLANGE (NEW)-620",
+      "Description": "RSB-CPF620004-620 JT. COUPLING FLANGE (NEW)",
       "Location": "Indore",
       "AvailableQty": 10
     },
     {
       "PartNumber": "CPF680001",
-      "Description": "RSB-CPF680001-680 COUPLING FLANGE (DIA 180)-680",
+      "Description": "RSB-CPF680001-680 COUPLING FLANGE (DIA 180)",
       "Location": "Raipur",
       "AvailableQty": 9
     },
     {
       "PartNumber": "CPF680001",
-      "Description": "RSB-CPF680001-680 COUPLING FLANGE (DIA 180)-680",
+      "Description": "RSB-CPF680001-680 COUPLING FLANGE (DIA 180)",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -110492,175 +110517,175 @@
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Bilaspur",
       "AvailableQty": 160
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Ambikapur",
       "AvailableQty": 160
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Jagdalpur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Korba",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Raigarh",
       "AvailableQty": 120
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Indore",
       "AvailableQty": 640
     },
     {
       "PartNumber": "FBC025-1",
-      "Description": "TN-FBC025-1-FERODO Brake Fluid DOT3 -250 ML",
+      "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Jabalpur",
       "AvailableQty": 130
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Raipur",
       "AvailableQty": 40
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Bilaspur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Ambikapur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Jagdalpur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Korba",
       "AvailableQty": 40
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Raigarh",
       "AvailableQty": 40
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Indore",
       "AvailableQty": 199
     },
     {
       "PartNumber": "FBC050-1",
-      "Description": "TN-FBC050-1-FERODO Brake Fluid DOT3 -500 ML",
+      "Description": "TN-FBC050-1-BRAKE FLUID-DOT 3 500ML",
       "Location": "Jabalpur",
       "AvailableQty": 200
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Bilaspur",
       "AvailableQty": 160
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Ambikapur",
       "AvailableQty": 160
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Jagdalpur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Korba",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Raigarh",
       "AvailableQty": 400
     },
     {
       "PartNumber": "FBX025-1",
-      "Description": "TN-FBX025-1-FERODO Brake Fluid DOT4 -250 ML",
+      "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Jabalpur",
       "AvailableQty": 390
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Raipur",
       "AvailableQty": 180
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Bilaspur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Ambikapur",
       "AvailableQty": 80
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Jagdalpur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Korba",
       "AvailableQty": 28
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Raigarh",
       "AvailableQty": 160
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Indore",
       "AvailableQty": 100
     },
     {
       "PartNumber": "FBX050-1",
-      "Description": "TN-FBX050-1-FERODO Brake Fluid DOT4 -500 ML",
+      "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Jabalpur",
       "AvailableQty": 200
     },
@@ -110744,13 +110769,13 @@
     },
     {
       "PartNumber": "FEP325HS1",
-      "Description": "RSB-FEP325HS1-325HSFRONTENDPIECE(100*3)",
+      "Description": "RSB-FEP325HS1-325HS FRONT END PIECE (100x3)",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "FEP325HS1",
-      "Description": "RSB-FEP325HS1-325HSFRONTENDPIECE(100*3)",
+      "Description": "RSB-FEP325HS1-325HS FRONT END PIECE (100x3)",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -110840,13 +110865,13 @@
     },
     {
       "PartNumber": "FEP592001",
-      "Description": "RSB-FEP592001-FRONTENDPIECE592JT.",
+      "Description": "RSB-FEP592001-592 JT. FRONT END PIECE",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "FEP592001",
-      "Description": "RSB-FEP592001-FRONTENDPIECE592JT.",
+      "Description": "RSB-FEP592001-592 JT. FRONT END PIECE",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -110858,13 +110883,13 @@
     },
     {
       "PartNumber": "FEP620007",
-      "Description": "RSB-FEP620007-620 JT. FRONT END PIECE (NEW)-620",
+      "Description": "RSB-FEP620007-620 JT. FRONT END PIECE (NEW)",
       "Location": "Korba",
       "AvailableQty": 1
     },
     {
       "PartNumber": "FEP620007",
-      "Description": "RSB-FEP620007-620 JT. FRONT END PIECE (NEW)-620",
+      "Description": "RSB-FEP620007-620 JT. FRONT END PIECE (NEW)",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -110882,103 +110907,103 @@
     },
     {
       "PartNumber": "FFBHST1109.0-1A2M",
-      "Description": "FRD-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT-FFBHST1109.0-1A2M",
+      "Description": "TN-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT",
       "Location": "Bilaspur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FFBHST1109.0-1A2M",
-      "Description": "FRD-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT-FFBHST1109.0-1A2M",
+      "Description": "TN-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT",
       "Location": "Ambikapur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FFBHST1109.0-1A2M",
-      "Description": "FRD-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT-FFBHST1109.0-1A2M",
+      "Description": "TN-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST1109.0-1A2M",
-      "Description": "FRD-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT-FFBHST1109.0-1A2M",
+      "Description": "TN-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST1109.0-1A2M",
-      "Description": "FRD-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT-FFBHST1109.0-1A2M",
+      "Description": "TN-FFBHST1109.0-1A2M-CVL-TATA 1109(STD) WITH RIVETS-FRONT",
       "Location": "Jabalpur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FFBHST709.0-1A2M",
-      "Description": "FRD-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT-FFBHST709.0-1A2M",
+      "Description": "TN-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT",
       "Location": "Bilaspur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST709.0-1A2M",
-      "Description": "FRD-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT-FFBHST709.0-1A2M",
+      "Description": "TN-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT",
       "Location": "Ambikapur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST709.0-1A2M",
-      "Description": "FRD-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT-FFBHST709.0-1A2M",
+      "Description": "TN-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST709.0-1A2M",
-      "Description": "FRD-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT-FFBHST709.0-1A2M",
+      "Description": "TN-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT",
       "Location": "Indore",
       "AvailableQty": 16
     },
     {
       "PartNumber": "FFBHST709.0-1A2M",
-      "Description": "FRD-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT-FFBHST709.0-1A2M",
+      "Description": "TN-FFBHST709.0-1A2M-CVL-TATA 709(STD) WITH RIVETS-FRONT",
       "Location": "Jabalpur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "FFBHST909.0-1A2M",
-      "Description": "FRD-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT-FFBHST909.0-1A2M",
+      "Description": "TN-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT",
       "Location": "Bilaspur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FFBHST909.0-1A2M",
-      "Description": "FRD-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT-FFBHST909.0-1A2M",
+      "Description": "TN-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT",
       "Location": "Ambikapur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FFBHST909.0-1A2M",
-      "Description": "FRD-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT-FFBHST909.0-1A2M",
+      "Description": "TN-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT",
       "Location": "Indore",
       "AvailableQty": 26
     },
     {
       "PartNumber": "FFBHST909.0-1A2M",
-      "Description": "FRD-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT-FFBHST909.0-1A2M",
+      "Description": "TN-FFBHST909.0-1A2M-CVL-TATA 909(STD) WITH RIVETS-FRONT",
       "Location": "Jabalpur",
       "AvailableQty": 28
     },
     {
       "PartNumber": "FHB-K46-AL.0-SM-7",
-      "Description": "FRD-FHB-K46-AL.0-SM-7-CV Linings - Ashok Leyland 7\\\\-FHB-K46-AL.0-SM-7",
+      "Description": "TN-FHB-K46-AL.0-SM-7-CV LININGS - ASHOK LEYLAND 7",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHB-K46-AL.0-SM-7",
-      "Description": "FRD-FHB-K46-AL.0-SM-7-CV Linings - Ashok Leyland 7\\\\-FHB-K46-AL.0-SM-7",
+      "Description": "TN-FHB-K46-AL.0-SM-7-CV LININGS - ASHOK LEYLAND 7",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHB-K46-AL.0-SM-7",
-      "Description": "FRD-FHB-K46-AL.0-SM-7-CV Linings - Ashok Leyland 7\\\\-FHB-K46-AL.0-SM-7",
+      "Description": "TN-FHB-K46-AL.0-SM-7-CV LININGS - ASHOK LEYLAND 7",
       "Location": "Jabalpur",
       "AvailableQty": 12
     },
@@ -110990,367 +111015,355 @@
     },
     {
       "PartNumber": "FHB-K46-TT.0-SM-2",
-      "Description": "FRD-FHB-K46-TT.0-SM-2-CV Linings - Tata 180mm-FHB-K46-TT.0-SM-2",
+      "Description": "TN-FHB-K46-TT.0-SM-2-CV LININGS - TATA 180MM",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHB-K46-TT.0-SM-2",
-      "Description": "FRD-FHB-K46-TT.0-SM-2-CV Linings - Tata 180mm-FHB-K46-TT.0-SM-2",
+      "Description": "TN-FHB-K46-TT.0-SM-2-CV LININGS - TATA 180MM",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHB-K46-TT.0-SM-2",
-      "Description": "FRD-FHB-K46-TT.0-SM-2-CV Linings - Tata 180mm-FHB-K46-TT.0-SM-2",
+      "Description": "TN-FHB-K46-TT.0-SM-2-CV LININGS - TATA 180MM",
       "Location": "Jabalpur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Raipur",
       "AvailableQty": 62
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Bilaspur",
       "AvailableQty": 18
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Ambikapur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Korba",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Raigarh",
       "AvailableQty": 26
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Indore",
       "AvailableQty": 76
     },
     {
       "PartNumber": "FHBHSBB180.0A2",
-      "Description": "FRD-FHBHSBB180.0A2-Bharat Benz /Eicher 180 NGT (12 Holes)-FHBHSBB180.0A2",
+      "Description": "TN-FHBHSBB180.0A2-BHARAT BENZ /EICHER 180 NGT (12 HOLES)",
       "Location": "Jabalpur",
       "AvailableQty": 46
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Raipur",
       "AvailableQty": 52
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Bilaspur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Ambikapur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Indore",
       "AvailableQty": 31
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Jabalpur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP6.0A2",
-      "Description": "FRD-FHBHSHLP6.0A2-Ashok Leyland HLP 6”/U Truck 6” /STD",
+      "Description": "TN-FHBHSHLP6.0A2-ASHOK LEYLAND HLP 6”/U TRUCK 6”",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Raipur",
       "AvailableQty": 104
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Ambikapur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Indore",
       "AvailableQty": 91
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Jabalpur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "FHBHSHLP7.0A2",
-      "Description": "FRD-FHBHSHLP7.0A2-Ashok Leyland HLP 7”/U Truck 7” /STD",
+      "Description": "TN-FHBHSHLP7.0A2-ASHOK LEYLAND HLP 7”/U TRUCK 7”",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSHLP8A.0A2",
-      "Description": "FRD-FHBHSHLP8A.0A2-Ashok Leyland HLP Meritor 8\\\\-FHBHSHLP8A.0A2",
+      "Description": "TN-FHBHSHLP8A.0A2-ASHOK LEYLAND HLP MERITOR 8",
       "Location": "Raipur",
       "AvailableQty": 18
     },
     {
       "PartNumber": "FHBHSHLP8A.0A2",
-      "Description": "FRD-FHBHSHLP8A.0A2-Ashok Leyland HLP Meritor 8\\\\-FHBHSHLP8A.0A2",
+      "Description": "TN-FHBHSHLP8A.0A2-ASHOK LEYLAND HLP MERITOR 8",
       "Location": "Ambikapur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSHLP8A.0A2",
-      "Description": "FRD-FHBHSHLP8A.0A2-Ashok Leyland HLP Meritor 8\\\\-FHBHSHLP8A.0A2",
+      "Description": "TN-FHBHSHLP8A.0A2-ASHOK LEYLAND HLP MERITOR 8",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP8A.0A2",
-      "Description": "FRD-FHBHSHLP8A.0A2-Ashok Leyland HLP Meritor 8\\\\-FHBHSHLP8A.0A2",
+      "Description": "TN-FHBHSHLP8A.0A2-ASHOK LEYLAND HLP MERITOR 8",
       "Location": "Indore",
       "AvailableQty": 20
     },
     {
       "PartNumber": "FHBHSHLP8A.0A2",
-      "Description": "FRD-FHBHSHLP8A.0A2-Ashok Leyland HLP Meritor 8\\\\-FHBHSHLP8A.0A2",
+      "Description": "TN-FHBHSHLP8A.0A2-ASHOK LEYLAND HLP MERITOR 8",
       "Location": "Jabalpur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Raipur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Bilaspur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Ambikapur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Indore",
       "AvailableQty": 22
     },
     {
       "PartNumber": "FHBHSHLP8B.0A2",
-      "Description": "FRD-FHBHSHLP8B.0A2- Ashok Leyland HLP 8”/U Truck 8” /STD",
+      "Description": "TN-FHBHSHLP8B.0A2-ASHOK LEYLAND HLP 8”/U TRUCK 8”",
       "Location": "Jabalpur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Raipur",
       "AvailableQty": 20
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 36
     },
     {
       "PartNumber": "FHBHSM1.0A2",
-      "Description": "FRD-FHBHSM1.0A2-STD TATA/AMW/SML/Eicher- FR with Rivet-FHBHSM1.0A2",
+      "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSM1.1A2",
-      "Description": "FRD-FHBHSM1.1A2-FRD-1 O/S TATA/AMW/SML/Eicher- FR with Rivet /010",
+      "Description": "TN-FHBHSM1.1A2-1 O/S TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM1.1A2",
-      "Description": "FRD-FHBHSM1.1A2-FRD-1 O/S TATA/AMW/SML/Eicher- FR with Rivet /010",
+      "Description": "TN-FHBHSM1.1A2-1 O/S TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
+      "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Raipur",
-      "AvailableQty": 325
+      "AvailableQty": 240
     },
     {
       "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
+      "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 163
     },
     {
       "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
+      "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 178
     },
     {
       "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
-      "Location": "Korba",
-      "AvailableQty": 142
-    },
-    {
-      "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
-      "Location": "Raigarh",
-      "AvailableQty": 330
-    },
-    {
-      "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
+      "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 326
     },
     {
       "PartNumber": "FHBHSM2.0A2",
-      "Description": "FRD-FHBHSM2.0A2-STD TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.0A2",
+      "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 39
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Raipur",
-      "AvailableQty": 18
+      "AvailableQty": 16
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 32
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 34
     },
     {
       "PartNumber": "FHBHSM2.1A2",
-      "Description": "FRD-FHBHSM2.1A2-1 O/S TATA/Eicher-RR /MAN-FR with Rivet-FHBHSM2.1A2",
+      "Description": "TN-FHBHSM2.1A2-1 O/S TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 9
     },
@@ -111362,409 +111375,409 @@
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM6.0A2",
-      "Description": "FRD-FHBHSM6.0A2-STD Ashok Leyland 6\\\\ FR/RR with Rivet-FHBHSM6.0A2",
+      "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 24
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM6.1A2",
-      "Description": "TN-FHBHSM6.1A2-1 O/S Ashok Leyland 6\\\" FR/RR with Rivet",
+      "Description": "TN-FHBHSM6.1A2-1 O/S ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Raipur",
       "AvailableQty": 38
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 48
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 78
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 26
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 42
     },
     {
       "PartNumber": "FHBHSM7.0A2",
-      "Description": "FRD-FHBHSM7.0A2-STD Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.0A2",
+      "Description": "TN-FHBHSM7.0A2-STD ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 22
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Bilaspur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Ambikapur",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Korba",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Raigarh",
       "AvailableQty": 8
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Indore",
       "AvailableQty": 28
     },
     {
       "PartNumber": "FHBHSM7.1A2",
-      "Description": "FRD-FHBHSM7.1A2-1 O/S Ashok Leyland 7\\\\ FR/RR with Rivet-FHBHSM7.1A2",
+      "Description": "TN-FHBHSM7.1A2-1 O/S ASHOK LEYLAND 7 FR/RR WITH RIVET",
       "Location": "Jabalpur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSV1.0A2",
-      "Description": "FRD-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175) /STD",
+      "Description": "TN-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175)",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSV1.0A2",
-      "Description": "FRD-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175) /STD",
+      "Description": "TN-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175)",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV1.0A2",
-      "Description": "FRD-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175) /STD",
+      "Description": "TN-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175)",
       "Location": "Ambikapur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV1.0A2",
-      "Description": "FRD-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175) /STD",
+      "Description": "TN-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV1.0A2",
-      "Description": "FRD-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175) /STD",
+      "Description": "TN-FHBHSV1.0A2-VOLVO TIPPER (8N) - FRONT (WIDTH 175)",
       "Location": "Indore",
       "AvailableQty": 10
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Ambikapur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Korba",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSV2.0A2",
-      "Description": "FRD-FHBHSV2.0A2 -VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200) /STD",
+      "Description": "TN-FHBHSV2.0A2-VOLVO BUS/TIPPER (8N) - REAR (WIDTH 200)",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Raipur",
-      "AvailableQty": 34
+      "AvailableQty": 36
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Ambikapur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Indore",
       "AvailableQty": 10
     },
     {
       "PartNumber": "FHBHSWTP1.0A2",
-      "Description": "FRD-FHBHSWTP1.0A2-TATA 200/U Truck 200 / Navistar-FHBHSWTP1.0A2",
+      "Description": "TN-FHBHSWTP1.0A2-TATA 200/U TRUCK 200 / NAVISTAR",
       "Location": "Jabalpur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "FHBHSWTP1.1A2",
-      "Description": "TN-FHBHSWTP1.1A2-CV Linings - tata prima / World truck/STD",
+      "Description": "TN-FHBHSWTP1.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSWTP1.1A2",
-      "Description": "TN-FHBHSWTP1.1A2-CV Linings - tata prima / World truck/STD",
+      "Description": "TN-FHBHSWTP1.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Ambikapur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSWTP1.1A2",
-      "Description": "TN-FHBHSWTP1.1A2-CV Linings - tata prima / World truck/STD",
+      "Description": "TN-FHBHSWTP1.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Indore",
       "AvailableQty": 6
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Raipur",
       "AvailableQty": 34
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Ambikapur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Indore",
       "AvailableQty": 76
     },
     {
       "PartNumber": "FHBHSWTP2.0A2",
-      "Description": "FRD-FHBHSWTP2.0A2-TATA 220/U Truck 220 / Navistar-FHBHSWTP2.0A2",
+      "Description": "TN-FHBHSWTP2.0A2-TATA 220/U TRUCK 220 / NAVISTAR",
       "Location": "Jabalpur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Bilaspur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Ambikapur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Raigarh",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSWTP2.1A2",
-      "Description": "TN-FHBHSWTP2.1A2-CV Linings - Tata Prima / World Truck STD",
+      "Description": "TN-FHBHSWTP2.1A2-CV LININGS -TATA PRIMA/ WORLD TRUCK",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Raipur",
       "AvailableQty": 100
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Bilaspur",
       "AvailableQty": 42
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Ambikapur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Korba",
       "AvailableQty": 24
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Raigarh",
       "AvailableQty": 56
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Indore",
       "AvailableQty": 170
     },
     {
       "PartNumber": "FHBHSY1.0A2",
-      "Description": "FRD-FHBHSY1.0A2-YORK AXLE (8N) - Width 178-FHBHSY1.0A2",
+      "Description": "TN-FHBHSY1.0A2-YORK AXLE (8N) - WIDTH 178",
       "Location": "Jabalpur",
       "AvailableQty": 71
     },
@@ -111806,13 +111819,13 @@
     },
     {
       "PartNumber": "FLY490006",
-      "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)-490",
+      "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)",
       "Location": "Raipur",
       "AvailableQty": 13
     },
     {
       "PartNumber": "FLY490006",
-      "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)-490",
+      "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)",
       "Location": "Indore",
       "AvailableQty": 10
     },
@@ -111872,43 +111885,43 @@
     },
     {
       "PartNumber": "FLY590008",
-      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)-590",
+      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)",
       "Location": "Raipur",
       "AvailableQty": 11
     },
     {
       "PartNumber": "FLY590008",
-      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)-590",
+      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)",
       "Location": "Korba",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FLY590008",
-      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)-590",
+      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FLY590008",
-      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)-590",
+      "Description": "RSB-FLY590008-590 JT. FLANGE YOKE (DIA 150)",
       "Location": "Indore",
       "AvailableQty": 13
     },
     {
       "PartNumber": "FLY590H13",
-      "Description": "RSB-FLY590H13-590H FLANGE YOKE-590H",
+      "Description": "RSB-FLY590H13-590H FLANGE YOKE",
       "Location": "Raipur",
       "AvailableQty": 10
     },
     {
       "PartNumber": "FLY590H13",
-      "Description": "RSB-FLY590H13-590H FLANGE YOKE-590H",
+      "Description": "RSB-FLY590H13-590H FLANGE YOKE",
       "Location": "Korba",
       "AvailableQty": 1
     },
     {
       "PartNumber": "FLY590H13",
-      "Description": "RSB-FLY590H13-590H FLANGE YOKE-590H",
+      "Description": "RSB-FLY590H13-590H FLANGE YOKE",
       "Location": "Indore",
       "AvailableQty": 14
     },
@@ -111920,13 +111933,13 @@
     },
     {
       "PartNumber": "FLY620009",
-      "Description": "RSB-FLY620009-620 JT. FLANGE YOKE-620",
+      "Description": "RSB-FLY620009-620 JT. FLANGE YOKE",
       "Location": "Raipur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "FLY620009",
-      "Description": "RSB-FLY620009-620 JT. FLANGE YOKE-620",
+      "Description": "RSB-FLY620009-620 JT. FLANGE YOKE",
       "Location": "Indore",
       "AvailableQty": 11
     },
@@ -111938,13 +111951,13 @@
     },
     {
       "PartNumber": "FPAT01CV0977",
-      "Description": "TN-FPAT01CV0977-ASHOK LEYLAND U-3518, U-4019, U-4023, U-4023, U-4923, N4923",
+      "Description": "TN-FPAT01CV0977-ASHOK LEYLAND U-3518, U-4019, U-4023, U-",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPAT01CV0977",
-      "Description": "TN-FPAT01CV0977-ASHOK LEYLAND U-3518, U-4019, U-4023, U-4023, U-4923, N4923",
+      "Description": "TN-FPAT01CV0977-ASHOK LEYLAND U-3518, U-4019, U-4023, U-",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -111956,13 +111969,13 @@
     },
     {
       "PartNumber": "FPAT02CV1138",
-      "Description": "TN-FPAT02CV1138-TATA MOTORS - CUMMINS 6BT-12V / LPT 1615 TCL",
+      "Description": "TN-FPAT02CV1138-TATA MOTORS - CUMMINS 6BT-12V / LPT 1615",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "FPAT02CV1138",
-      "Description": "TN-FPAT02CV1138-TATA MOTORS - CUMMINS 6BT-12V / LPT 1615 TCL",
+      "Description": "TN-FPAT02CV1138-TATA MOTORS - CUMMINS 6BT-12V / LPT 1615",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -112022,13 +112035,13 @@
     },
     {
       "PartNumber": "FPAT02CV1580",
-      "Description": "TN-FPAT02CV1580-TATA CUMMINS 6 BT - ESCORTS JCB EXCAVATOR",
+      "Description": "TN-FPAT02CV1580-TATA CUMMINS 6 BT - ESCORTS JCB EXCAVATO",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPAT02CV1580",
-      "Description": "TN-FPAT02CV1580-TATA CUMMINS 6 BT - ESCORTS JCB EXCAVATOR",
+      "Description": "TN-FPAT02CV1580-TATA CUMMINS 6 BT - ESCORTS JCB EXCAVATO",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -112058,25 +112071,25 @@
     },
     {
       "PartNumber": "FPAT02CV1669",
-      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS / 28 LP 1312 TC / LP 1512 TC / LP",
+      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPAT02CV1669",
-      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS / 28 LP 1312 TC / LP 1512 TC / LP",
+      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR01CV0092",
-      "Description": "TN-FPSR01CV0092-ASHOKE LEYLAND - HX87 / JCB",
+      "Description": "TN-FPSR01CV0092-ASHOK LEYLAND - HX87 / JCB",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR01CV0092",
-      "Description": "TN-FPSR01CV0092-ASHOKE LEYLAND - HX87 / JCB",
+      "Description": "TN-FPSR01CV0092-ASHOK LEYLAND - HX87 / JCB",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -112106,13 +112119,13 @@
     },
     {
       "PartNumber": "FPSR02CV4347",
-      "Description": "TN-FPSR02CV4347-ASHOK LEYLAND - HINO H SERIES - 6 CYL (WITH RELAY THERMAL CUTOUT)",
+      "Description": "TN-FPSR02CV4347-ASHOK LEYLAND - HINO H SERIES - 6 CYL (",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV4347",
-      "Description": "TN-FPSR02CV4347-ASHOK LEYLAND - HINO H SERIES - 6 CYL (WITH RELAY THERMAL CUTOUT)",
+      "Description": "TN-FPSR02CV4347-ASHOK LEYLAND - HINO H SERIES - 6 CYL (",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -112142,13 +112155,13 @@
     },
     {
       "PartNumber": "FPSR02CV5100",
-      "Description": "TN-FPSR02CV5100-TATA CUMMINS 1210/1612/1213 WITH 697 ENGINE (OLD MODEL)",
+      "Description": "TN-FPSR02CV5100-TATA CUMMINS 1210/1612/1213 WITH 697 ENG",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5100",
-      "Description": "TN-FPSR02CV5100-TATA CUMMINS 1210/1612/1213 WITH 697 ENGINE (OLD MODEL)",
+      "Description": "TN-FPSR02CV5100-TATA CUMMINS 1210/1612/1213 WITH 697 ENG",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -112172,49 +112185,49 @@
     },
     {
       "PartNumber": "FPSR02CV5127",
-      "Description": "TN-FPSR02CV5127-TATA 608",
+      "Description": "TN-FPSR02CV5127-TATA SK 1613 TCHD/SK 1615 TC CREAVES 6YD",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5127",
-      "Description": "TN-FPSR02CV5127-TATA 608",
+      "Description": "TN-FPSR02CV5127-TATA SK 1613 TCHD/SK 1615 TC CREAVES 6YD",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5237",
-      "Description": "TN-FPSR02CV5237-TATA 1210",
+      "Description": "TN-FPSR02CV5237-TATA CUMMINS LP1210 BUS / LP 1312TCL",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5237",
-      "Description": "TN-FPSR02CV5237-TATA 1210",
+      "Description": "TN-FPSR02CV5237-TATA CUMMINS LP1210 BUS / LP 1312TCL",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5296",
-      "Description": "TN-FPSR02CV5296-TC-12 N/M HYWA",
+      "Description": "TN-FPSR02CV5296-TATA CUMMINS -12 N/M HYWA",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV5296",
-      "Description": "TN-FPSR02CV5296-TC-12 N/M HYWA",
+      "Description": "TN-FPSR02CV5296-TATA CUMMINS -12 N/M HYWA",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR05CV1210",
-      "Description": "TN-FPSR05CV1210-TATA1210/1612/1213 WITH 697 ENGINE 1 8200 (SMALL BKT)",
+      "Description": "TN-FPSR05CV1210-TATA 1210/1612/1213 WITH 697 ENGINE 1 82",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR05CV1210",
-      "Description": "TN-FPSR05CV1210-TATA1210/1612/1213 WITH 697 ENGINE 1 8200 (SMALL BKT)",
+      "Description": "TN-FPSR05CV1210-TATA 1210/1612/1213 WITH 697 ENGINE 1 82",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -112258,7 +112271,7 @@
       "PartNumber": "GBB63/22C",
       "Description": "TN-GBB63/22C-BALL BEARING 63/22C",
       "Location": "Korba",
-      "AvailableQty": 160
+      "AvailableQty": 144
     },
     {
       "PartNumber": "GBB6304KIT",
@@ -112270,7 +112283,7 @@
       "PartNumber": "GBB6304KIT",
       "Description": "TN-GBB6304KIT-BALL BEARING 6304 KIT",
       "Location": "Korba",
-      "AvailableQty": 420
+      "AvailableQty": 380
     },
     {
       "PartNumber": "GV01097T04-SD",
@@ -112348,7 +112361,7 @@
       "PartNumber": "GV1003K",
       "Description": "TN-GV1003K-CALIBER/KB4S/CT-100/PLATINA/DSCVR/CROMA",
       "Location": "Raipur",
-      "AvailableQty": 45
+      "AvailableQty": 35
     },
     {
       "PartNumber": "GV1003K",
@@ -112360,7 +112373,7 @@
       "PartNumber": "GV1011K",
       "Description": "TN-GV1011K-ENGINE VALVE HONDA ACTIVA/PLSR",
       "Location": "Raipur",
-      "AvailableQty": 48
+      "AvailableQty": 40
     },
     {
       "PartNumber": "GV1011K",
@@ -112372,7 +112385,7 @@
       "PartNumber": "GV1019K",
       "Description": "TN-GV1019K-ENGINE VALVE-HH CD100/SPLENDORTUFFTRIDED",
       "Location": "Raipur",
-      "AvailableQty": 338
+      "AvailableQty": 308
     },
     {
       "PartNumber": "GV1019K",
@@ -112508,19 +112521,19 @@
     },
     {
       "PartNumber": "GYCR1010-AD",
-      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL-0.25",
+      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Raipur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "GYCR1010-AD",
-      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL-0.25",
+      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Indore",
       "AvailableQty": 6
     },
     {
       "PartNumber": "GYCR1010-AD",
-      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL-0.25",
+      "Description": "TN-GYCR1010-AD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112532,37 +112545,37 @@
     },
     {
       "PartNumber": "GYCR1010-SD",
-      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL-STD",
+      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Raipur",
       "AvailableQty": 11
     },
     {
       "PartNumber": "GYCR1010-SD",
-      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL-STD",
+      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Indore",
       "AvailableQty": 49
     },
     {
       "PartNumber": "GYCR1010-SD",
-      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL-STD",
+      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "GYCR1010-SD",
-      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL-STD",
+      "Description": "TN-GYCR1010-SD-BRG CON ROD CUMMINS EURO 2 CL",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
       "PartNumber": "GYCR1020-AD",
-      "Description": "TN-GYCR1020-AD-BRG CON ROD CUMMINS EURO 3 CL-0.25",
+      "Description": "TN-GYCR1020-AD-BRG CON ROD CUMMINS EURO 3 CL",
       "Location": "Raipur",
       "AvailableQty": 11
     },
     {
       "PartNumber": "GYCR1020-AD",
-      "Description": "TN-GYCR1020-AD-BRG CON ROD CUMMINS EURO 3 CL-0.25",
+      "Description": "TN-GYCR1020-AD-BRG CON ROD CUMMINS EURO 3 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112574,31 +112587,31 @@
     },
     {
       "PartNumber": "GYCR1020-SD",
-      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL-STD",
+      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL",
       "Location": "Raipur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "GYCR1020-SD",
-      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL-STD",
+      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL",
       "Location": "Indore",
       "AvailableQty": 51
     },
     {
       "PartNumber": "GYCR1020-SD",
-      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL-STD",
+      "Description": "TN-GYCR1020-SD-BRG CON ROD CUMMINS EURO 3 CL",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
       "PartNumber": "GYCR1030-AD",
-      "Description": "TN-GYCR1030-AD-BRG CON ROD HINO WO6D CL-0.25",
+      "Description": "TN-GYCR1030-AD-BRG CON ROD HINO WO6D CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYCR1030-AD",
-      "Description": "TN-GYCR1030-AD-BRG CON ROD HINO WO6D CL-0.25",
+      "Description": "TN-GYCR1030-AD-BRG CON ROD HINO WO6D CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112616,13 +112629,13 @@
     },
     {
       "PartNumber": "GYCR1040-AD",
-      "Description": "TN-GYCR1040-AD-HINO EURO III(H SERIES 6DTI) CL /0.25",
+      "Description": "TN-GYCR1040-AD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "GYCR1040-AD",
-      "Description": "TN-GYCR1040-AD-HINO EURO III(H SERIES 6DTI) CL /0.25",
+      "Description": "TN-GYCR1040-AD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -112634,37 +112647,37 @@
     },
     {
       "PartNumber": "GYCR1040-SD",
-      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL /STD",
+      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYCR1040-SD",
-      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL /STD",
+      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "GYCR1040-SD",
-      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL /STD",
+      "Description": "TN-GYCR1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
       "PartNumber": "GYCR1050-AD",
-      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL-0.25",
+      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYCR1050-AD",
-      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL-0.25",
+      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "GYCR1050-AD",
-      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL-0.25",
+      "Description": "TN-GYCR1050-AD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112676,19 +112689,19 @@
     },
     {
       "PartNumber": "GYCR1050-SD",
-      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL-STD",
+      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYCR1050-SD",
-      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL-STD",
+      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Indore",
       "AvailableQty": 24
     },
     {
       "PartNumber": "GYCR1050-SD",
-      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL-STD",
+      "Description": "TN-GYCR1050-SD-BRG CON ROD 407/807, 609/709 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112736,13 +112749,13 @@
     },
     {
       "PartNumber": "GYMB1010-AD",
-      "Description": "TN-GYMB1010-AD-TN-BRG MAIN TATA CUMMINS AT /0.25",
+      "Description": "TN-GYMB1010-AD-BRG MAIN TATA CUMMINS AT",
       "Location": "Raipur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "GYMB1010-AD",
-      "Description": "TN-GYMB1010-AD-TN-BRG MAIN TATA CUMMINS AT /0.25",
+      "Description": "TN-GYMB1010-AD-BRG MAIN TATA CUMMINS AT",
       "Location": "Indore",
       "AvailableQty": 12
     },
@@ -112754,73 +112767,73 @@
     },
     {
       "PartNumber": "GYMB1010-SD",
-      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT /STD",
+      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT",
       "Location": "Raipur",
       "AvailableQty": 15
     },
     {
       "PartNumber": "GYMB1010-SD",
-      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT /STD",
+      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT",
       "Location": "Indore",
       "AvailableQty": 35
     },
     {
       "PartNumber": "GYMB1010-SD",
-      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT /STD",
+      "Description": "TN-GYMB1010-SD-BRG MAIN TATA CUMMINS AT",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
       "PartNumber": "GYMB1040-AD",
-      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL-0.25",
+      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1040-AD",
-      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL-0.25",
+      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Indore",
       "AvailableQty": 6
     },
     {
       "PartNumber": "GYMB1040-AD",
-      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL-0.25",
+      "Description": "TN-GYMB1040-AD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "GYMB1040-BD",
-      "Description": "TN-GYMB1040-BD-HINO EURO III(H SERIES 6DTI) CL-0.50",
+      "Description": "TN-GYMB1040-BD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1040-BD",
-      "Description": "TN-GYMB1040-BD-HINO EURO III(H SERIES 6DTI) CL-0.50",
+      "Description": "TN-GYMB1040-BD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "GYMB1040-SD",
-      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL-STD",
+      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1040-SD",
-      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL-STD",
+      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Indore",
       "AvailableQty": 3
     },
     {
       "PartNumber": "GYMB1040-SD",
-      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL-STD",
+      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "GYMB1040-SD",
-      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL-STD",
+      "Description": "TN-GYMB1040-SD-HINO EURO III(H SERIES 6DTI) CL",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
@@ -112844,19 +112857,19 @@
     },
     {
       "PartNumber": "GYMB1060-AD",
-      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL-0.25",
+      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1060-AD",
-      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL-0.25",
+      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL",
       "Location": "Indore",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1060-AD",
-      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL-0.25",
+      "Description": "TN-GYMB1060-AD-BRG MAIN 609/709/909 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -112868,19 +112881,19 @@
     },
     {
       "PartNumber": "GYMB1060-SD",
-      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL-STD",
+      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "GYMB1060-SD",
-      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL-STD",
+      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL",
       "Location": "Indore",
       "AvailableQty": 12
     },
     {
       "PartNumber": "GYMB1060-SD",
-      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL-STD",
+      "Description": "TN-GYMB1060-SD-BRG MAIN 609/709/909 CL",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -113062,13 +113075,13 @@
       "PartNumber": "IA260103584",
       "Description": "3M-IA260103584 -3M AUTO ACCESSRIES TAPE 12MM X 10MM",
       "Location": "Raipur",
-      "AvailableQty": 87
+      "AvailableQty": 85
     },
     {
       "PartNumber": "IA260103592",
       "Description": "3M-IA260103592 -3 M AUTO ACCERRIIES TAP 12 MM X 4MM",
       "Location": "Raipur",
-      "AvailableQty": 77
+      "AvailableQty": 75
     },
     {
       "PartNumber": "IA260103998",
@@ -113192,25 +113205,25 @@
     },
     {
       "PartNumber": "INA590H01",
-      "Description": "RSB-INA590H01-ASSYPROPSHAFT590HJT41I/A",
+      "Description": "RSB-INA590H01-ASSY.PROP.SHAFT 590H JT.41 I/A",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "INA590H01",
-      "Description": "RSB-INA590H01-ASSYPROPSHAFT590HJT41I/A",
+      "Description": "RSB-INA590H01-ASSY.PROP.SHAFT 590H JT.41 I/A",
       "Location": "Korba",
       "AvailableQty": 1
     },
     {
       "PartNumber": "INA590H01",
-      "Description": "RSB-INA590H01-ASSYPROPSHAFT590HJT41I/A",
+      "Description": "RSB-INA590H01-ASSY.PROP.SHAFT 590H JT.41 I/A",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "INA590H01",
-      "Description": "RSB-INA590H01-ASSYPROPSHAFT590HJT41I/A",
+      "Description": "RSB-INA590H01-ASSY.PROP.SHAFT 590H JT.41 I/A",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -113522,13 +113535,13 @@
     },
     {
       "PartNumber": "LFS325001",
-      "Description": "RSB-LFS325001-325LONGFORKSUBASSY110SL",
+      "Description": "RSB-LFS325001-325 JT. LONG FORK Sub Assy(110 slip)",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "LFS325001",
-      "Description": "RSB-LFS325001-325LONGFORKSUBASSY110SL",
+      "Description": "RSB-LFS325001-325 JT. LONG FORK Sub Assy(110 slip)",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -113558,31 +113571,31 @@
     },
     {
       "PartNumber": "LFS490010",
-      "Description": "RSB-LFS490010-490LFORKSUBASSY490180SL",
+      "Description": "RSB-LFS490010-490 LONG FORK SUB ASSY 490 180 SLIP",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "LFS490010",
-      "Description": "RSB-LFS490010-490LFORKSUBASSY490180SL",
+      "Description": "RSB-LFS490010-490 LONG FORK SUB ASSY 490 180 SLIP",
       "Location": "Bilaspur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS490010",
-      "Description": "RSB-LFS490010-490LFORKSUBASSY490180SL",
+      "Description": "RSB-LFS490010-490 LONG FORK SUB ASSY 490 180 SLIP",
       "Location": "Korba",
       "AvailableQty": 3
     },
     {
       "PartNumber": "LFS490010",
-      "Description": "RSB-LFS490010-490LFORKSUBASSY490180SL",
+      "Description": "RSB-LFS490010-490 LONG FORK SUB ASSY 490 180 SLIP",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS490010",
-      "Description": "RSB-LFS490010-490LFORKSUBASSY490180SL",
+      "Description": "RSB-LFS490010-490 LONG FORK SUB ASSY 490 180 SLIP",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -113594,37 +113607,37 @@
     },
     {
       "PartNumber": "LFS590007",
-      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP-590",
+      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "LFS590007",
-      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP-590",
+      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590007",
-      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP-590",
+      "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "LFS590008",
-      "Description": "RSB-LFS590008-LONGFORKSUBASY590-140S",
+      "Description": "RSB-LFS590008-590 LONG FORK SUB ASSY FOR 140SLIP",
       "Location": "Raipur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "LFS590008",
-      "Description": "RSB-LFS590008-LONGFORKSUBASY590-140S",
+      "Description": "RSB-LFS590008-590 LONG FORK SUB ASSY FOR 140SLIP",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590008",
-      "Description": "RSB-LFS590008-LONGFORKSUBASY590-140S",
+      "Description": "RSB-LFS590008-590 LONG FORK SUB ASSY FOR 140SLIP",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -113636,49 +113649,49 @@
     },
     {
       "PartNumber": "LFS590H01",
-      "Description": "RSB-LFS590H01-590XLONGFORKSUBASSY140SL",
+      "Description": "RSB-LFS590H01-590X LONG FORK SUB ASSY 140 SLIP",
       "Location": "Raipur",
       "AvailableQty": 3
     },
     {
       "PartNumber": "LFS590H01",
-      "Description": "RSB-LFS590H01-590XLONGFORKSUBASSY140SL",
+      "Description": "RSB-LFS590H01-590X LONG FORK SUB ASSY 140 SLIP",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590H01",
-      "Description": "RSB-LFS590H01-590XLONGFORKSUBASSY140SL",
+      "Description": "RSB-LFS590H01-590X LONG FORK SUB ASSY 140 SLIP",
       "Location": "Indore",
       "AvailableQty": 2
     },
     {
       "PartNumber": "LFS590H02",
-      "Description": "RSB-LFS590H02-LONG FORK SUB ASSY -180MM SLIP",
+      "Description": "RSB-LFS590H02-590-H Long Fork Sub Assy-180 mm slip",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590H02",
-      "Description": "RSB-LFS590H02-LONG FORK SUB ASSY -180MM SLIP",
+      "Description": "RSB-LFS590H02-590-H Long Fork Sub Assy-180 mm slip",
       "Location": "Indore",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590H09",
-      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY-590H",
+      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "LFS590H09",
-      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY-590H",
+      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY",
       "Location": "Raigarh",
       "AvailableQty": 3
     },
     {
       "PartNumber": "LFS590H09",
-      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY-590H",
+      "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -113835,6 +113848,12 @@
     {
       "PartNumber": "M16280127",
       "Description": "TN-M16280127-Tata ACE Vebture / STD",
+      "Location": "Indore",
+      "AvailableQty": 6
+    },
+    {
+      "PartNumber": "M16280129",
+      "Description": "TN-M16280129-TATA SUPER ACR FRONT/STD",
       "Location": "Indore",
       "AvailableQty": 6
     },
@@ -114140,19 +114159,19 @@
     },
     {
       "PartNumber": "RH0403002",
-      "Description": "RSB-RH0403002-403JT.REARHOUSING-110S",
+      "Description": "RSB-RH0403002-403 JT. REAR HOUSING(110 SLIP)95 DIA",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "RH0403002",
-      "Description": "RSB-RH0403002-403JT.REARHOUSING-110S",
+      "Description": "RSB-RH0403002-403 JT. REAR HOUSING(110 SLIP)95 DIA",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "RH0403002",
-      "Description": "RSB-RH0403002-403JT.REARHOUSING-110S",
+      "Description": "RSB-RH0403002-403 JT. REAR HOUSING(110 SLIP)95 DIA",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -114224,19 +114243,19 @@
     },
     {
       "PartNumber": "RH0490I14",
-      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)-490IA",
+      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)",
       "Location": "Raipur",
       "AvailableQty": 4
     },
     {
       "PartNumber": "RH0490I14",
-      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)-490IA",
+      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)",
       "Location": "Raigarh",
       "AvailableQty": 5
     },
     {
       "PartNumber": "RH0490I14",
-      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)-490IA",
+      "Description": "RSB-RH0490I14-490 JT. I/A REAR HOUSING(140 SLIP DIA 95)",
       "Location": "Indore",
       "AvailableQty": 7
     },
@@ -114254,13 +114273,13 @@
     },
     {
       "PartNumber": "RH0490M01",
-      "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP-490M",
+      "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "RH0490M01",
-      "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP-490M",
+      "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP",
       "Location": "Indore",
       "AvailableQty": 8
     },
@@ -114272,19 +114291,19 @@
     },
     {
       "PartNumber": "RH0585017",
-      "Description": "RSB-RH0585017-REARHOSUING585JT140SLIP",
+      "Description": "RSB-RH0585017-585 REAR HOUSING-140 SLIP (TATA)",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "RH0585017",
-      "Description": "RSB-RH0585017-REARHOSUING585JT140SLIP",
+      "Description": "RSB-RH0585017-585 REAR HOUSING-140 SLIP (TATA)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "RH0585017",
-      "Description": "RSB-RH0585017-REARHOSUING585JT140SLIP",
+      "Description": "RSB-RH0585017-585 REAR HOUSING-140 SLIP (TATA)",
       "Location": "Indore",
       "AvailableQty": 5
     },
@@ -114302,55 +114321,55 @@
     },
     {
       "PartNumber": "RH0590008",
-      "Description": "RSB-RH0590008-590Jt.REARHOUSING-110SLIP",
+      "Description": "RSB-RH0590008-590 JT. REAR HOUSING-110 slip",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "RH0590008",
-      "Description": "RSB-RH0590008-590Jt.REARHOUSING-110SLIP",
+      "Description": "RSB-RH0590008-590 JT. REAR HOUSING-110 slip",
       "Location": "Raigarh",
       "AvailableQty": 6
     },
     {
       "PartNumber": "RH0590008",
-      "Description": "RSB-RH0590008-590Jt.REARHOUSING-110SLIP",
+      "Description": "RSB-RH0590008-590 JT. REAR HOUSING-110 slip",
       "Location": "Indore",
       "AvailableQty": 7
     },
     {
       "PartNumber": "RH0590009",
-      "Description": "RSB-RH0590009-590JT.REARHOUSIN-140SLIP",
+      "Description": "RSB-RH0590009-590 JT. REAR HOUSING-140 slip",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "RH0590009",
-      "Description": "RSB-RH0590009-590JT.REARHOUSIN-140SLIP",
+      "Description": "RSB-RH0590009-590 JT. REAR HOUSING-140 slip",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "RH0590009",
-      "Description": "RSB-RH0590009-590JT.REARHOUSIN-140SLIP",
+      "Description": "RSB-RH0590009-590 JT. REAR HOUSING-140 slip",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "RH0590H07",
-      "Description": "RSB-RH0590H07-REAR HOUSING, CAVITY 590H",
+      "Description": "RSB-RH0590H07-590H 170 Slip Rear housing ZERO LENGTH",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "RH0590H07",
-      "Description": "RSB-RH0590H07-REAR HOUSING, CAVITY 590H",
+      "Description": "RSB-RH0590H07-590H 170 Slip Rear housing ZERO LENGTH",
       "Location": "Raigarh",
       "AvailableQty": 7
     },
     {
       "PartNumber": "RH0590H07",
-      "Description": "RSB-RH0590H07-REAR HOUSING, CAVITY 590H",
+      "Description": "RSB-RH0590H07-590H 170 Slip Rear housing ZERO LENGTH",
       "Location": "Indore",
       "AvailableQty": 5
     },
@@ -114410,13 +114429,13 @@
     },
     {
       "PartNumber": "RHC490M08",
-      "Description": "RSB-RHC490M08-490M REAR HOUSING",
+      "Description": "RSB-RHC490M08-490M Ser 180 Slip Rear housing With Protective Cap",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "RHC490M08",
-      "Description": "RSB-RHC490M08-490M REAR HOUSING",
+      "Description": "RSB-RHC490M08-490M Ser 180 Slip Rear housing With Protective Cap",
       "Location": "Indore",
       "AvailableQty": 5
     },
@@ -114428,13 +114447,13 @@
     },
     {
       "PartNumber": "RHC590012",
-      "Description": "RSB-RHC590012-REAR HOUSING",
+      "Description": "RSB-RHC590012-590 JT. REAR HOUSING-140 slip with protective cap",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "RHC590012",
-      "Description": "RSB-RHC590012-REAR HOUSING",
+      "Description": "RSB-RHC590012-590 JT. REAR HOUSING-140 slip with protective cap",
       "Location": "Indore",
       "AvailableQty": 5
     },
@@ -114536,25 +114555,25 @@
     },
     {
       "PartNumber": "SHF490004",
-      "Description": "RSB-SHF490004-490JT.SHORTFORK(95Dia)",
+      "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "SHF490004",
-      "Description": "RSB-SHF490004-490JT.SHORTFORK(95Dia)",
+      "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
       "Location": "Korba",
       "AvailableQty": 4
     },
     {
       "PartNumber": "SHF490004",
-      "Description": "RSB-SHF490004-490JT.SHORTFORK(95Dia)",
+      "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
       "PartNumber": "SHF490004",
-      "Description": "RSB-SHF490004-490JT.SHORTFORK(95Dia)",
+      "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -114584,13 +114603,13 @@
     },
     {
       "PartNumber": "SHF590006",
-      "Description": "RSB-SHF590006-590 JT. SHORT FORK-590",
+      "Description": "RSB-SHF590006-590 JT. SHORT FORK",
       "Location": "Raipur",
       "AvailableQty": 7
     },
     {
       "PartNumber": "SHF590006",
-      "Description": "RSB-SHF590006-590 JT. SHORT FORK-590",
+      "Description": "RSB-SHF590006-590 JT. SHORT FORK",
       "Location": "Indore",
       "AvailableQty": 6
     },
@@ -114602,13 +114621,13 @@
     },
     {
       "PartNumber": "SHF590L01",
-      "Description": "RSB-SHF590L01-590L SHORT FORK",
+      "Description": "RSB-SHF590L01-590 L SHORT FORK",
       "Location": "Raipur",
       "AvailableQty": 5
     },
     {
       "PartNumber": "SHF590L01",
-      "Description": "RSB-SHF590L01-590L SHORT FORK",
+      "Description": "RSB-SHF590L01-590 L SHORT FORK",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -114772,7 +114791,7 @@
       "PartNumber": "SK8101-204",
       "Description": "JOST-SK8101-204-Rubber Bush",
       "Location": "Raigarh",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "PartNumber": "SK8101-205",
@@ -115114,7 +115133,7 @@
       "PartNumber": "TMGOCI4P15W40",
       "Description": "TMGO Diesel Engine Oil CI4 Plus 15W40",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "PartNumber": "TMGOCI4P15W40",
@@ -115151,6 +115170,12 @@
       "Description": "TMGO Diesel Engine Oil CI4 Plus 15W40",
       "Location": "Indore",
       "AvailableQty": 630000
+    },
+    {
+      "PartNumber": "TMGOCI4P15W40",
+      "Description": "TMGO Diesel Engine Oil CI4 Plus 15W40",
+      "Location": "Indore Tata Motors",
+      "AvailableQty": 18
     },
     {
       "PartNumber": "TMGOCK410W30",
@@ -115315,6 +115340,12 @@
       "AvailableQty": 8
     },
     {
+      "PartNumber": "TMGOCK415W40027C",
+      "Description": "TM-TMGOCK415W40027C-TMGO Engine Oil CK415W40 27 Litres PROMO",
+      "Location": "Indore Tata Motors",
+      "AvailableQty": 100
+    },
+    {
       "PartNumber": "TMGOCK415W40050",
       "Description": "TMGO Diesel Engine Oil CK4 15W40 50 Litr",
       "Location": "Indore",
@@ -115451,6 +115482,12 @@
       "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
       "Location": "Indore",
       "AvailableQty": 40
+    },
+    {
+      "PartNumber": "TMGOEOCI4P015C",
+      "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
+      "Location": "Indore Tata Motors",
+      "AvailableQty": 100
     },
     {
       "PartNumber": "TMGOEOCI4P015C",
@@ -115718,37 +115755,37 @@
     },
     {
       "PartNumber": "UVJ590005",
-      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)-590",
+      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)",
       "Location": "Raipur",
       "AvailableQty": 1
     },
     {
       "PartNumber": "UVJ590005",
-      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)-590",
+      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)",
       "Location": "Raigarh",
       "AvailableQty": 9
     },
     {
       "PartNumber": "UVJ590005",
-      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)-590",
+      "Description": "RSB-UVJ590005-590 Jt UJ Cross (Life Time)",
       "Location": "Indore",
       "AvailableQty": 6
     },
     {
       "PartNumber": "UVJ590008",
-      "Description": "RSB-UVJ590008-590JTUJCROSS(GREASEABLE)",
+      "Description": "RSB-UVJ590008-590 Jt UJ Cross (Greasable)",
       "Location": "Raipur",
       "AvailableQty": 12
     },
     {
       "PartNumber": "UVJ590008",
-      "Description": "RSB-UVJ590008-590JTUJCROSS(GREASEABLE)",
+      "Description": "RSB-UVJ590008-590 Jt UJ Cross (Greasable)",
       "Location": "Raigarh",
       "AvailableQty": 1
     },
     {
       "PartNumber": "UVJ590008",
-      "Description": "RSB-UVJ590008-590JTUJCROSS(GREASEABLE)",
+      "Description": "RSB-UVJ590008-590 Jt UJ Cross (Greasable)",
       "Location": "Indore",
       "AvailableQty": 18
     },
@@ -115766,49 +115803,49 @@
     },
     {
       "PartNumber": "UVJ620002",
-      "Description": "RSB-UVJ620002-680JT.UJ CROSS ASSY-NG",
+      "Description": "RSB-UVJ620002-620 JT. UJ CROSS ASSY.-NG",
       "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "PartNumber": "UVJ620002",
-      "Description": "RSB-UVJ620002-680JT.UJ CROSS ASSY-NG",
+      "Description": "RSB-UVJ620002-620 JT. UJ CROSS ASSY.-NG",
       "Location": "Korba",
       "AvailableQty": 3
     },
     {
       "PartNumber": "UVJ620002",
-      "Description": "RSB-UVJ620002-680JT.UJ CROSS ASSY-NG",
+      "Description": "RSB-UVJ620002-620 JT. UJ CROSS ASSY.-NG",
       "Location": "Indore",
       "AvailableQty": 5
     },
     {
       "PartNumber": "UVJ620006",
-      "Description": "RSB-UVJ620006-620JTUJCROSSASSYLPS",
+      "Description": "RSB-UVJ620006-620 JT UJ CROSS ASSY LPS 4923",
       "Location": "Raipur",
       "AvailableQty": 14
     },
     {
       "PartNumber": "UVJ620006",
-      "Description": "RSB-UVJ620006-620JTUJCROSSASSYLPS",
+      "Description": "RSB-UVJ620006-620 JT UJ CROSS ASSY LPS 4923",
       "Location": "Indore",
       "AvailableQty": 14
     },
     {
       "PartNumber": "UVJ680001",
-      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.-680",
+      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.",
       "Location": "Raipur",
       "AvailableQty": 6
     },
     {
       "PartNumber": "UVJ680001",
-      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.-680",
+      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.",
       "Location": "Korba",
       "AvailableQty": 10
     },
     {
       "PartNumber": "UVJ680001",
-      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.-680",
+      "Description": "RSB-UVJ680001-680 JT. UJ CROSS ASSY.",
       "Location": "Indore",
       "AvailableQty": 2
     },
