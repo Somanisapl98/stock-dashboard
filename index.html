@@ -1,9 +1,496 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#101722"><title>Somani Auto Stock Dashboard</title><link rel="stylesheet" href="dashboard.css"></head>
-<body><header class="masthead"><div><p class="eyebrow">SOMANI AUTO · CV TATA</p><h1>Stock Availability Dashboard</h1><p class="subtitle">Search and compare stock across all locations</p></div><div class="sync-box"><span id="syncStatus">Loading stock…</span><span id="lastUpdated">Last updated: —</span><button id="refreshButton" class="btn primary">Refresh now</button></div></header>
-<main>
-<section class="panel search-row"><div class="field search-wrap"><label>Search part number or description</label><input id="searchInput" type="search" autocomplete="off" placeholder="Type a part number or description"><div id="suggestions" class="suggestions" hidden></div></div><div class="field"><label>Rows per page</label><select id="pageSize"><option>25</option><option selected>50</option><option>100</option><option>250</option></select></div><button id="clearSearch" class="btn secondary">Clear search</button></section>
-<section class="panel multi-panel"><div class="multi-head"><div><h2>Search multiple part numbers</h2><p>Type or paste part numbers. Select a suggestion and a comma is added automatically.</p></div><div class="actions"><button id="applyMulti" class="btn primary">Apply list</button><button id="clearMulti" class="btn secondary">Clear list</button></div></div><div class="multi-wrap"><textarea id="multiInput" rows="3" autocomplete="off" placeholder="Example: 252318130182, 885433014018, "></textarea><div id="multiSuggestions" class="suggestions multi-suggestions" hidden></div></div><p id="multiSummary" class="helper"></p></section>
-<section class="stats"><article><span>Parts shown</span><strong id="partCount">0</strong></article><article><span>Locations with stock</span><strong id="locationCount">0</strong></article><article><span>Total quantity</span><strong id="totalQty">0</strong></article><article><span>Page</span><strong id="pageStat">0 / 0</strong></article></section>
-<section class="panel"><div class="toolbar"><div><h2>Location-wise stock</h2><p id="resultText">Loading inventory…</p></div><div class="export-wrap"><button id="exportToggle" class="btn secondary">Export ▾</button><div id="exportMenu" class="export-menu" hidden><label>Export password</label><input id="exportPassword" type="password"><div class="export-buttons"><button id="exportCsv" class="btn primary">CSV</button><button id="exportExcel" class="btn primary">Excel</button></div><p id="exportStatus" class="helper"></p></div></div></div><div class="table-scroll"><table><thead id="tableHead"></thead><tbody id="tableBody"></tbody></table></div><div class="pagination"><button id="prevPage" class="btn secondary">Previous</button><span id="pageInfo">Page 0 of 0</span><button id="nextPage" class="btn secondary">Next</button></div></section>
-</main><footer>Somani Auto stock dashboard · Read-only inventory view</footer><script src="dashboard.js"></script></body></html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  >
+
+  <meta
+    name="theme-color"
+    content="#101722"
+  >
+
+  <title>Somani Auto Stock Dashboard</title>
+
+  <link
+    rel="stylesheet"
+    href="dashboard.css"
+  >
+</head>
+
+<body>
+
+  <header class="masthead">
+
+    <div>
+      <p class="eyebrow">
+        SOMANI AUTO · CV TATA
+      </p>
+
+      <h1>
+        Stock Availability Dashboard
+      </h1>
+
+      <p class="subtitle">
+        Search and compare stock across all locations
+      </p>
+    </div>
+
+    <div class="sync-box">
+
+      <span id="syncStatus">
+        Loading stock…
+      </span>
+
+      <span id="lastUpdated">
+        Last updated: —
+      </span>
+
+      <button
+        id="refreshButton"
+        class="btn primary"
+        type="button"
+      >
+        Refresh now
+      </button>
+
+    </div>
+
+  </header>
+
+  <main>
+
+    <!-- Single part-number or description search -->
+    <section class="panel search-row">
+
+      <div class="field search-wrap">
+
+        <label for="searchInput">
+          Search part number or description
+        </label>
+
+        <input
+          id="searchInput"
+          name="stock_part_number_search"
+          type="search"
+          value=""
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          data-lpignore="true"
+          data-form-type="other"
+          placeholder="Type a part number or description"
+          readonly
+        >
+
+        <div
+          id="suggestions"
+          class="suggestions"
+          hidden
+        ></div>
+
+      </div>
+
+      <div class="field">
+
+        <label for="pageSize">
+          Rows per page
+        </label>
+
+        <select id="pageSize">
+          <option>25</option>
+          <option selected>50</option>
+          <option>100</option>
+          <option>250</option>
+        </select>
+
+      </div>
+
+      <button
+        id="clearSearch"
+        class="btn secondary"
+        type="button"
+      >
+        Clear search
+      </button>
+
+    </section>
+
+    <!-- Multiple part-number search -->
+    <section class="panel multi-panel">
+
+      <div class="multi-head">
+
+        <div>
+
+          <h2>
+            Search multiple part numbers
+          </h2>
+
+          <p>
+            Type or paste any number of part numbers.
+            Use commas, new lines, semicolons, or an Excel column.
+            Select a suggestion and a comma is added automatically.
+          </p>
+
+        </div>
+
+        <div class="actions">
+
+          <button
+            id="applyMulti"
+            class="btn primary"
+            type="button"
+          >
+            Apply list
+          </button>
+
+          <button
+            id="clearMulti"
+            class="btn secondary"
+            type="button"
+          >
+            Clear list
+          </button>
+
+        </div>
+
+      </div>
+
+      <div class="multi-wrap">
+
+        <textarea
+          id="multiInput"
+          name="multiple_stock_part_numbers"
+          rows="3"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          data-lpignore="true"
+          data-form-type="other"
+          placeholder="Example:
+252318130182
+885433014018
+252318130183"
+        ></textarea>
+
+        <div
+          id="multiSuggestions"
+          class="suggestions multi-suggestions"
+          hidden
+        ></div>
+
+      </div>
+
+      <p
+        id="multiSummary"
+        class="helper"
+      ></p>
+
+    </section>
+
+    <!-- Dashboard KPI cards -->
+    <section class="stats">
+
+      <article>
+        <span>Parts shown</span>
+        <strong id="partCount">0</strong>
+      </article>
+
+      <article>
+        <span>Locations with stock</span>
+        <strong id="locationCount">0</strong>
+      </article>
+
+      <article>
+        <span>Total quantity</span>
+        <strong id="totalQty">0</strong>
+      </article>
+
+      <article>
+        <span>Page</span>
+        <strong id="pageStat">0 / 0</strong>
+      </article>
+
+    </section>
+
+    <!-- Stock results -->
+    <section class="panel">
+
+      <div class="toolbar">
+
+        <div>
+
+          <h2>
+            Location-wise stock
+          </h2>
+
+          <p id="resultText">
+            Loading inventory…
+          </p>
+
+        </div>
+
+        <div class="export-wrap">
+
+          <button
+            id="exportToggle"
+            class="btn secondary"
+            type="button"
+          >
+            Export ▾
+          </button>
+
+          <div
+            id="exportMenu"
+            class="export-menu"
+            hidden
+          >
+
+            <label for="exportPassword">
+              Export password
+            </label>
+
+            <input
+              id="exportPassword"
+              name="stock_export_password"
+              type="password"
+              autocomplete="new-password"
+              data-lpignore="true"
+            >
+
+            <div class="export-buttons">
+
+              <button
+                id="exportCsv"
+                class="btn primary"
+                type="button"
+              >
+                CSV
+              </button>
+
+              <button
+                id="exportExcel"
+                class="btn primary"
+                type="button"
+              >
+                Excel
+              </button>
+
+            </div>
+
+            <p
+              id="exportStatus"
+              class="helper"
+            ></p>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="table-scroll">
+
+        <table>
+
+          <thead id="tableHead"></thead>
+
+          <tbody id="tableBody"></tbody>
+
+        </table>
+
+      </div>
+
+      <div class="pagination">
+
+        <button
+          id="prevPage"
+          class="btn secondary"
+          type="button"
+        >
+          Previous
+        </button>
+
+        <span id="pageInfo">
+          Page 0 of 0
+        </span>
+
+        <button
+          id="nextPage"
+          class="btn secondary"
+          type="button"
+        >
+          Next
+        </button>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer>
+    Somani Auto stock dashboard · Read-only inventory view
+  </footer>
+
+  <!-- Main dashboard functionality -->
+  <script src="dashboard.js"></script>
+
+  <!-- Prevent browser-restored email or saved text in stock search -->
+  <script>
+    (() => {
+      "use strict";
+
+      const getSearchInput = () =>
+        document.getElementById("searchInput");
+
+      const clearSingleSearch = (triggerDashboardUpdate = true) => {
+        const searchInput = getSearchInput();
+
+        if (!searchInput) {
+          return;
+        }
+
+        const hadValue = searchInput.value !== "";
+
+        searchInput.value = "";
+        searchInput.defaultValue = "";
+
+        searchInput.setAttribute("autocomplete", "off");
+        searchInput.setAttribute("autocapitalize", "off");
+        searchInput.setAttribute("spellcheck", "false");
+        searchInput.setAttribute("data-lpignore", "true");
+        searchInput.setAttribute("data-form-type", "other");
+
+        if (hadValue && triggerDashboardUpdate) {
+          searchInput.dispatchEvent(
+            new Event("input", {
+              bubbles: true
+            })
+          );
+        }
+      };
+
+      const enableSearchInput = () => {
+        const searchInput = getSearchInput();
+
+        if (!searchInput) {
+          return;
+        }
+
+        searchInput.removeAttribute("readonly");
+      };
+
+      const initializeSearchProtection = () => {
+        clearSingleSearch(false);
+
+        const searchInput = getSearchInput();
+
+        if (!searchInput) {
+          return;
+        }
+
+        /*
+          The field starts as readonly to prevent Chrome from inserting
+          saved contact information before the dashboard finishes loading.
+
+          It becomes editable as soon as the user interacts with it.
+        */
+        searchInput.addEventListener(
+          "pointerdown",
+          enableSearchInput,
+          {
+            once: true
+          }
+        );
+
+        searchInput.addEventListener(
+          "keydown",
+          enableSearchInput,
+          {
+            once: true
+          }
+        );
+
+        searchInput.addEventListener(
+          "focus",
+          enableSearchInput,
+          {
+            once: true
+          }
+        );
+
+        /*
+          Browsers can restore form values after initial HTML parsing.
+          These checks remove a restored value and notify dashboard.js.
+        */
+        requestAnimationFrame(() => {
+          clearSingleSearch(true);
+        });
+
+        setTimeout(() => {
+          clearSingleSearch(true);
+        }, 100);
+
+        setTimeout(() => {
+          clearSingleSearch(true);
+        }, 500);
+
+        setTimeout(() => {
+          clearSingleSearch(true);
+        }, 1500);
+      };
+
+      if (document.readyState === "loading") {
+        document.addEventListener(
+          "DOMContentLoaded",
+          initializeSearchProtection,
+          {
+            once: true
+          }
+        );
+      } else {
+        initializeSearchProtection();
+      }
+
+      /*
+        pageshow also runs when the browser restores the page using
+        back-forward cache.
+      */
+      window.addEventListener("pageshow", () => {
+        clearSingleSearch(true);
+      });
+
+      /*
+        Clear only possible old dashboard search keys.
+        Do not clear unrelated website storage.
+      */
+      try {
+        const possibleSearchKeys = [
+          "search",
+          "searchValue",
+          "stockSearch",
+          "stock_search",
+          "dashboardSearch",
+          "dashboard_search"
+        ];
+
+        for (const key of possibleSearchKeys) {
+          localStorage.removeItem(key);
+          sessionStorage.removeItem(key);
+        }
+      } catch (error) {
+        console.warn(
+          "Saved search storage could not be cleared.",
+          error
+        );
+      }
+    })();
+  </script>
+
+</body>
+</html>
