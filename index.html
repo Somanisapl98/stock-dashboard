@@ -19,9 +19,12 @@
     rel="stylesheet"
     href="dashboard.css"
   >
+  <link rel="stylesheet" href="simple-login.css">
 </head>
 
 <body>
+<div id="loginGate" aria-label="Dashboard login"><form id="loginForm" class="login-card"><h1>Stock Dashboard Login</h1><p>Enter the authorized user ID and password.</p><label for="loginUser">User ID</label><input id="loginUser" name="username" type="email" autocomplete="username" required><label for="loginPassword">Password</label><input id="loginPassword" name="password" type="password" autocomplete="current-password" required><button type="submit">Open dashboard</button><div id="loginMessage" role="alert"></div></form></div>
+
 
   <header class="masthead">
 
@@ -327,6 +330,7 @@
 
   <!-- Main dashboard functionality -->
   <script src="dashboard.js"></script>
+<script src="simple-login.js"></script>
 
 </body>
 </html>
