@@ -1,14 +1,190 @@
 (() => {
-"use strict";
-const UH="12749146f02b40aa456848e6cd78d5d08c502d9da84761cd8c2936869e9376fd";
-const PH="d6cd340d97238ce8ad5fd4c9a6af8e2fea43c46845da6f76e06486c47c77226c";
-const KEY="somani_stock_login";
-async function h(v){const b=new TextEncoder().encode(v);const d=await crypto.subtle.digest("SHA-256",b);return [...new Uint8Array(d)].map(x=>x.toString(16).padStart(2,"0")).join("");}
-function valid(){try{const s=JSON.parse(sessionStorage.getItem(KEY)||"null");return !!(s&&Date.now()<s.exp);}catch{return false;}}
-function unlock(){document.documentElement.classList.remove("login-locked");const g=document.getElementById("loginGate");if(g)g.hidden=true;}
-function lock(){document.documentElement.classList.add("login-locked");const g=document.getElementById("loginGate");if(g)g.hidden=false;}
-async function login(e){e.preventDefault();const m=document.getElementById("loginMessage");const u=document.getElementById("loginUser").value.trim().toLowerCase();const p=document.getElementById("loginPassword").value;m.textContent="Checking credentials...";if(await h(u)===UH&&await h(p)===PH){sessionStorage.setItem(KEY,JSON.stringify({exp:Date.now()+12*60*60*1000}));m.textContent="";document.getElementById("loginPassword").value="";unlock();}else{m.textContent="Invalid user ID or password.";}}
-function logout(){sessionStorage.removeItem(KEY);lock();}
-function init(){document.getElementById("loginForm")?.addEventListener("submit",login);document.getElementById("dashboardLogout")?.addEventListener("click",logout);valid()?unlock():lock();}
-document.readyState==="loading"?document.addEventListener("DOMContentLoaded",init,{once:true}):init();
+  "use strict";
+
+  const EXPECTED_USER_HASH =
+    "77d3ef3c99674cc101136bb23870fb36f5452646315477364b65f91aa22e64fa";
+
+  const EXPECTED_PASSWORD_HASH =
+    "2db900efc1dbfc129984337cc7b6e3db82f0021568213120406255584893f003";
+
+  let authenticated = false;
+
+  async function sha256(value) {
+    const bytes = new TextEncoder().encode(value);
+
+    const digest = await crypto.subtle.digest(
+      "SHA-256",
+      bytes
+    );
+
+    return Array.from(new Uint8Array(digest))
+      .map(byte => byte.toString(16).padStart(2, "0"))
+      .join("");
+  }
+
+  function showLogin() {
+    authenticated = false;
+
+    document.documentElement.classList.add("login-locked");
+
+    const loginGate =
+      document.getElementById("loginGate");
+
+    const loginForm =
+      document.getElementById("loginForm");
+
+    const loginMessage =
+      document.getElementById("loginMessage");
+
+    if (loginGate) {
+      loginGate.hidden = false;
+    }
+
+    if (loginForm) {
+      loginForm.reset();
+    }
+
+    if (loginMessage) {
+      loginMessage.textContent = "";
+    }
+
+    setTimeout(() => {
+      document.getElementById("loginUser")?.focus();
+    }, 50);
+  }
+
+  function showDashboard() {
+    authenticated = true;
+
+    document.documentElement.classList.remove(
+      "login-locked"
+    );
+
+    const loginGate =
+      document.getElementById("loginGate");
+
+    if (loginGate) {
+      loginGate.hidden = true;
+    }
+  }
+
+  async function handleLogin(event) {
+    event.preventDefault();
+
+    const loginButton =
+      document.getElementById("loginButton");
+
+    const loginMessage =
+      document.getElementById("loginMessage");
+
+    const userId =
+      document
+        .getElementById("loginUser")
+        .value
+        .trim()
+        .toLowerCase();
+
+    const password =
+      document.getElementById("loginPassword").value;
+
+    loginButton.disabled = true;
+    loginMessage.textContent = "Checking credentials...";
+
+    try {
+      const userHash = await sha256(userId);
+      const passwordHash = await sha256(password);
+
+      if (
+        userHash === EXPECTED_USER_HASH &&
+        passwordHash === EXPECTED_PASSWORD_HASH
+      ) {
+        document.getElementById(
+          "loginPassword"
+        ).value = "";
+
+        loginMessage.textContent = "";
+
+        showDashboard();
+      } else {
+        loginMessage.textContent =
+          "Invalid user ID or password.";
+      }
+    } catch (error) {
+      loginMessage.textContent =
+        "Login could not be checked in this browser.";
+    } finally {
+      loginButton.disabled = false;
+    }
+  }
+
+  function handleLogout() {
+    showLogin();
+  }
+
+  function initializeLogin() {
+    /*
+      Remove login data created by previous versions.
+    */
+    localStorage.removeItem(
+      "somani_stock_dashboard_login"
+    );
+
+    localStorage.removeItem(
+      "somani_stock_login"
+    );
+
+    sessionStorage.removeItem(
+      "somani_stock_dashboard_login"
+    );
+
+    sessionStorage.removeItem(
+      "somani_stock_login"
+    );
+
+    const loginForm =
+      document.getElementById("loginForm");
+
+    const logoutButton =
+      document.getElementById("dashboardLogout");
+
+    if (loginForm) {
+      loginForm.addEventListener(
+        "submit",
+        handleLogin
+      );
+    }
+
+    if (logoutButton) {
+      logoutButton.addEventListener(
+        "click",
+        handleLogout
+      );
+    }
+
+    /*
+      Always begin with the login screen.
+      No login session is stored.
+    */
+    showLogin();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener(
+      "DOMContentLoaded",
+      initializeLogin,
+      { once: true }
+    );
+  } else {
+    initializeLogin();
+  }
+
+  /*
+    Hide the dashboard again when the page is restored
+    from the browser back-forward cache.
+  */
+  window.addEventListener("pageshow", event => {
+    if (event.persisted || !authenticated) {
+      showLogin();
+    }
+  });
 })();
