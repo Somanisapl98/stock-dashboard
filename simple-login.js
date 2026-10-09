@@ -1,190 +1,88 @@
 (() => {
   "use strict";
 
-  const EXPECTED_USER_HASH =
-    "77d3ef3c99674cc101136bb23870fb36f5452646315477364b65f91aa22e64fa";
-
-  const EXPECTED_PASSWORD_HASH =
-    "2db900efc1dbfc129984337cc7b6e3db82f0021568213120406255584893f003";
-
+  const USER_HASH = "12749146f02b40aa456848e6cd78d5d08c502d9da84761cd8c2936869e9376fd";
+  const PASSWORD_HASH = "d6cd340d97238ce8ad5fd4c9a6af8e2fea43c46845da6f76e06486c47c77226c";
   let authenticated = false;
 
   async function sha256(value) {
-    const bytes = new TextEncoder().encode(value);
-
-    const digest = await crypto.subtle.digest(
-      "SHA-256",
-      bytes
-    );
-
-    return Array.from(new Uint8Array(digest))
-      .map(byte => byte.toString(16).padStart(2, "0"))
-      .join("");
+    const data = new TextEncoder().encode(value);
+    const digest = await crypto.subtle.digest("SHA-256", data);
+    return Array.from(new Uint8Array(digest), b => b.toString(16).padStart(2, "0")).join("");
   }
 
   function showLogin() {
     authenticated = false;
-
     document.documentElement.classList.add("login-locked");
-
-    const loginGate =
-      document.getElementById("loginGate");
-
-    const loginForm =
-      document.getElementById("loginForm");
-
-    const loginMessage =
-      document.getElementById("loginMessage");
-
-    if (loginGate) {
-      loginGate.hidden = false;
-    }
-
-    if (loginForm) {
-      loginForm.reset();
-    }
-
-    if (loginMessage) {
-      loginMessage.textContent = "";
-    }
-
-    setTimeout(() => {
-      document.getElementById("loginUser")?.focus();
-    }, 50);
+    const gate = document.getElementById("loginGate");
+    if (gate) gate.hidden = false;
   }
 
   function showDashboard() {
     authenticated = true;
-
-    document.documentElement.classList.remove(
-      "login-locked"
-    );
-
-    const loginGate =
-      document.getElementById("loginGate");
-
-    if (loginGate) {
-      loginGate.hidden = true;
-    }
+    document.documentElement.classList.remove("login-locked");
+    const gate = document.getElementById("loginGate");
+    if (gate) gate.hidden = true;
   }
 
   async function handleLogin(event) {
     event.preventDefault();
 
-    const loginButton =
-      document.getElementById("loginButton");
+    const userInput = document.getElementById("loginUser");
+    const passwordInput = document.getElementById("loginPassword");
+    const message = document.getElementById("loginMessage");
+    const button = event.submitter || event.currentTarget.querySelector('button[type="submit"]');
 
-    const loginMessage =
-      document.getElementById("loginMessage");
+    if (!userInput || !passwordInput || !message) return;
 
-    const userId =
-      document
-        .getElementById("loginUser")
-        .value
-        .trim()
-        .toLowerCase();
-
-    const password =
-      document.getElementById("loginPassword").value;
-
-    loginButton.disabled = true;
-    loginMessage.textContent = "Checking credentials...";
+    if (button) button.disabled = true;
+    message.textContent = "Checking credentials...";
 
     try {
-      const userHash = await sha256(userId);
-      const passwordHash = await sha256(password);
+      const user = userInput.value.trim().toLowerCase();
+      const password = passwordInput.value;
+      const [userHash, passwordHash] = await Promise.all([
+        sha256(user),
+        sha256(password)
+      ]);
 
-      if (
-        userHash === EXPECTED_USER_HASH &&
-        passwordHash === EXPECTED_PASSWORD_HASH
-      ) {
-        document.getElementById(
-          "loginPassword"
-        ).value = "";
-
-        loginMessage.textContent = "";
-
+      if (userHash === USER_HASH && passwordHash === PASSWORD_HASH) {
+        passwordInput.value = "";
+        message.textContent = "";
         showDashboard();
       } else {
-        loginMessage.textContent =
-          "Invalid user ID or password.";
+        message.textContent = "Invalid user ID or password.";
       }
     } catch (error) {
-      loginMessage.textContent =
-        "Login could not be checked in this browser.";
+      console.error("Login error", error);
+      message.textContent = "Login check failed. Reload and try again.";
     } finally {
-      loginButton.disabled = false;
+      if (button) button.disabled = false;
     }
   }
 
-  function handleLogout() {
-    showLogin();
-  }
+  function initialize() {
+    localStorage.removeItem("somani_stock_login");
+    localStorage.removeItem("somani_stock_dashboard_login");
+    sessionStorage.removeItem("somani_stock_login");
+    sessionStorage.removeItem("somani_stock_dashboard_login");
 
-  function initializeLogin() {
-    /*
-      Remove login data created by previous versions.
-    */
-    localStorage.removeItem(
-      "somani_stock_dashboard_login"
-    );
+    const form = document.getElementById("loginForm");
+    const logout = document.getElementById("dashboardLogout");
 
-    localStorage.removeItem(
-      "somani_stock_login"
-    );
+    if (form) form.addEventListener("submit", handleLogin);
+    if (logout) logout.addEventListener("click", showLogin);
 
-    sessionStorage.removeItem(
-      "somani_stock_dashboard_login"
-    );
-
-    sessionStorage.removeItem(
-      "somani_stock_login"
-    );
-
-    const loginForm =
-      document.getElementById("loginForm");
-
-    const logoutButton =
-      document.getElementById("dashboardLogout");
-
-    if (loginForm) {
-      loginForm.addEventListener(
-        "submit",
-        handleLogin
-      );
-    }
-
-    if (logoutButton) {
-      logoutButton.addEventListener(
-        "click",
-        handleLogout
-      );
-    }
-
-    /*
-      Always begin with the login screen.
-      No login session is stored.
-    */
     showLogin();
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener(
-      "DOMContentLoaded",
-      initializeLogin,
-      { once: true }
-    );
+    document.addEventListener("DOMContentLoaded", initialize, { once: true });
   } else {
-    initializeLogin();
+    initialize();
   }
 
-  /*
-    Hide the dashboard again when the page is restored
-    from the browser back-forward cache.
-  */
   window.addEventListener("pageshow", event => {
-    if (event.persisted || !authenticated) {
-      showLogin();
-    }
+    if (event.persisted && !authenticated) showLogin();
   });
 })();
