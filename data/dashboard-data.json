@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "18-10-2026 02:00:28 PM",
+  "lastUpdated": "19-10-2026 11:45:16 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -442,7 +442,7 @@
       "PartNumber": "01016MPKAD0000C1",
       "Description": "TN-01016MPKAD0000C1-HERO HONDA SUPER SPLENDOR (10)",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 17
     },
     {
       "PartNumber": "01016MPKAD0000C1",
@@ -454,7 +454,7 @@
       "PartNumber": "01016MPKBD0000C1",
       "Description": "TN-01016MPKBD0000C1-HERO HONDA SUPER SPLENDOR (20)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 20
     },
     {
       "PartNumber": "01016MPKBD0000C1",
@@ -478,7 +478,7 @@
       "PartNumber": "01016MPKDD0000C1",
       "Description": "TN-01016MPKDD0000C1-HERO HONDA SUPER SPLENDOR (40)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01016MPKDD0000C1",
@@ -490,7 +490,7 @@
       "PartNumber": "01016MPKSD0000C1",
       "Description": "TN-01016MPKSD0000C1-HERO HONDA SUPER SPLENDOR (STD)",
       "Location": "Raipur",
-      "AvailableQty": 16
+      "AvailableQty": 26
     },
     {
       "PartNumber": "01016MPKSD0000C1",
@@ -514,7 +514,7 @@
       "PartNumber": "01018MPKAD0000C1",
       "Description": "TN-01018MPKAD0000C1-HONDA SHINE (10)",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01018MPKAD0000C1",
@@ -526,7 +526,7 @@
       "PartNumber": "01018MPKBD0000C1",
       "Description": "TN-01018MPKBD0000C1-HONDA SHINE (20)",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 18
     },
     {
       "PartNumber": "01018MPKBD0000C1",
@@ -562,7 +562,7 @@
       "PartNumber": "01018MPKSD0000C1",
       "Description": "TN-01018MPKSD0000C1-HONDA SHINE (STD)",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 30
     },
     {
       "PartNumber": "01018MPKSD0000C1",
@@ -682,7 +682,7 @@
       "PartNumber": "01021MPKCD0000C1",
       "Description": "TN-01021MPKCD0000C1-BAJAJ PULSAR 150 DIGITAL METER (30)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 20
     },
     {
       "PartNumber": "01021MPKCD0000C1",
@@ -718,7 +718,7 @@
       "PartNumber": "01022MPKAD0000C1",
       "Description": "TN-01022MPKAD0000C1-BAJAJ PULSAR 180CC (10)",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 18
     },
     {
       "PartNumber": "01022MPKAD0000C1",
@@ -730,7 +730,7 @@
       "PartNumber": "01022MPKBD0000C1",
       "Description": "TN-01022MPKBD0000C1-BAJAJ PULSAR 180CC (20)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01022MPKBD0000C1",
@@ -766,7 +766,7 @@
       "PartNumber": "01022MPKSD0000C1",
       "Description": "TN-01022MPKSD0000C1-BAJAJ PULSAR 180CC (STD)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01022MPKSD0000C1",
@@ -778,7 +778,7 @@
       "PartNumber": "01023MPKAD0000C1",
       "Description": "TN-01023MPKAD0000C1-TVS SCOOTY PEP PLUS (10)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01023MPKAD0000C1",
@@ -813,6 +813,12 @@
     {
       "PartNumber": "01023MPKDD0000C1",
       "Description": "TN-01023MPKDD0000C1-TVS SCOOTY PEP PLUS (40)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01023MPKDD0000C1",
+      "Description": "TN-01023MPKDD0000C1-TVS SCOOTY PEP PLUS (40)",
       "Location": "Korba",
       "AvailableQty": 10
     },
@@ -832,7 +838,7 @@
       "PartNumber": "01024MPKAD0000C1",
       "Description": "TN-01024MPKAD0000C1-TVS STAR 110CC (10)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 7
     },
     {
       "PartNumber": "01024MPKAD0000C1",
@@ -964,7 +970,7 @@
       "PartNumber": "01032MPKBD0000C1",
       "Description": "TN-01032MPKBD0000C1-SUZUKI ACCESS 125CC OLD MODEL (20)",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 17
     },
     {
       "PartNumber": "01032MPKBD0000C1",
@@ -976,7 +982,7 @@
       "PartNumber": "01032MPKCD0000C1",
       "Description": "TN-01032MPKCD0000C1-SUZUKI ACCESS 125CC OLD MODEL (30)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01032MPKCD0000C1",
@@ -1192,7 +1198,7 @@
       "PartNumber": "01043MPKAD0000C1",
       "Description": "TN-01043MPKAD0000C1-HONDA DREAM YUGA/ NEO (10)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01043MPKAD0000C1",
@@ -1251,6 +1257,12 @@
     {
       "PartNumber": "01044MKLSD0000C1",
       "Description": "TN-01044MKLSD0000C1-TVS JUPITER/WEGO/ZEST",
+      "Location": "Raipur",
+      "AvailableQty": 12
+    },
+    {
+      "PartNumber": "01044MKLSD0000C1",
+      "Description": "TN-01044MKLSD0000C1-TVS JUPITER/WEGO/ZEST",
       "Location": "Korba",
       "AvailableQty": 12
     },
@@ -1258,7 +1270,7 @@
       "PartNumber": "01044MPKAD0000C1",
       "Description": "TN-01044MPKAD0000C1-TVS WEGO/JUPITER 010 O/S (10)",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 25
     },
     {
       "PartNumber": "01044MPKAD0000C1",
@@ -1270,7 +1282,7 @@
       "PartNumber": "01044MPKBD0000C1",
       "Description": "TN-01044MPKBD0000C1-TVS WEGO/JUPITER 020 O/S (20)",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 23
     },
     {
       "PartNumber": "01044MPKBD0000C1",
@@ -1353,6 +1365,12 @@
     {
       "PartNumber": "01046MPKDD0000C1",
       "Description": "TN-01046MPKDD0000C1-TVS VICTOR 3V/NTORQ (40)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01046MPKDD0000C1",
+      "Description": "TN-01046MPKDD0000C1-TVS VICTOR 3V/NTORQ (40)",
       "Location": "Korba",
       "AvailableQty": 10
     },
@@ -1408,7 +1426,7 @@
       "PartNumber": "01050MPKDD0000C1",
       "Description": "TN-01050MPKDD0000C1-BAJAJ DISCOVER 100CC (40)",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 22
     },
     {
       "PartNumber": "01050MPKDD0000C1",
@@ -1420,7 +1438,7 @@
       "PartNumber": "01050MPKSD0000C1",
       "Description": "TN-01050MPKSD0000C1-BAJAJ DISCOVER 100CC (STD)",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 17
     },
     {
       "PartNumber": "01050MPKSD0000C1",
@@ -1480,7 +1498,7 @@
       "PartNumber": "01052MPKSD0000C1",
       "Description": "TN-01052MPKSD0000C1-BAJAJ DISC. 100 CC 4V (STD)",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 17
     },
     {
       "PartNumber": "01052MPKSD0000C1",
@@ -1503,6 +1521,12 @@
     {
       "PartNumber": "01055MPKAD000MC1",
       "Description": "TN-01055MPKAD000MC1-BAJAJ PLATINA ES 100CC-MOLY (10)",
+      "Location": "Raipur",
+      "AvailableQty": 20
+    },
+    {
+      "PartNumber": "01055MPKAD000MC1",
+      "Description": "TN-01055MPKAD000MC1-BAJAJ PLATINA ES 100CC-MOLY (10)",
       "Location": "Korba",
       "AvailableQty": 30
     },
@@ -1510,7 +1534,7 @@
       "PartNumber": "01055MPKBD000MC1",
       "Description": "TN-01055MPKBD000MC1-BAJAJ PLATINA ES 100CC-MOLY (20)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 22
     },
     {
       "PartNumber": "01055MPKBD000MC1",
@@ -1690,7 +1714,7 @@
       "PartNumber": "01064MPKAD0000C1",
       "Description": "TN-01064MPKAD0000C1-HONDA SHINE/SHINE SP125 BSVI - PPCR (10)",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 21
     },
     {
       "PartNumber": "01064MPKAD0000C1",
@@ -1726,7 +1750,7 @@
       "PartNumber": "01064MPKDD0000C1",
       "Description": "TN-01064MPKDD0000C1-HONDA SHINE/SHINE SP125 BSVI - PPCR (40)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01064MPKDD0000C1",
@@ -1843,6 +1867,12 @@
       "AvailableQty": 18
     },
     {
+      "PartNumber": "01068MPKCD0000C1",
+      "Description": "TN-01068MPKCD0000C1-HERO GLAMOUR I3S 52.4MM DIA. (30)",
+      "Location": "Raipur",
+      "AvailableQty": 100
+    },
+    {
       "PartNumber": "01068MPKDD0000C1",
       "Description": "TN-01068MPKDD0000C1-HERO GLAMOUR I3S 52.4MM DIA. (40)",
       "Location": "Raipur",
@@ -1852,6 +1882,12 @@
       "PartNumber": "01068MPKDD0000C1",
       "Description": "TN-01068MPKDD0000C1-HERO GLAMOUR I3S 52.4MM DIA. (40)",
       "Location": "Korba",
+      "AvailableQty": 20
+    },
+    {
+      "PartNumber": "01068MPKSD0000C1",
+      "Description": "TN-01068MPKSD0000C1-HERO GLAMOUR I3S 52.4MM DIA. (STD)",
+      "Location": "Raipur",
       "AvailableQty": 20
     },
     {
@@ -2074,7 +2110,7 @@
       "PartNumber": "01082MPKAD0000C1",
       "Description": "TN-01082MPKAD0000C1-TVS STAR CITY BS6-PISTON (10)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 16
     },
     {
       "PartNumber": "01082MPKAD0000C1",
@@ -2086,7 +2122,7 @@
       "PartNumber": "01082MPKBD0000C1",
       "Description": "TN-01082MPKBD0000C1-TVS STAR CITY BS6-PISTON (20)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 16
     },
     {
       "PartNumber": "01082MPKBD0000C1",
@@ -2181,6 +2217,12 @@
     {
       "PartNumber": "01083MPKDD0000C1",
       "Description": "TN-01083MPKDD0000C1-TVS JUPITER 125CC BS6-PISTON (40)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01083MPKDD0000C1",
+      "Description": "TN-01083MPKDD0000C1-TVS JUPITER 125CC BS6-PISTON (40)",
       "Location": "Korba",
       "AvailableQty": 10
     },
@@ -2199,6 +2241,12 @@
     {
       "PartNumber": "01085MPKAD0000C1",
       "Description": "TN-01085MPKAD0000C1-YAMAHA R15 (10)",
+      "Location": "Raipur",
+      "AvailableQty": 40
+    },
+    {
+      "PartNumber": "01085MPKAD0000C1",
+      "Description": "TN-01085MPKAD0000C1-YAMAHA R15 (10)",
       "Location": "Korba",
       "AvailableQty": 40
     },
@@ -2213,6 +2261,12 @@
       "Description": "TN-01085MPKBD0000C1-YAMAHA R15 (20)",
       "Location": "Korba",
       "AvailableQty": 18
+    },
+    {
+      "PartNumber": "01086MPKAD0000C1",
+      "Description": "TN-01086MPKAD0000C1-ACTIVA 110CC BS6-PISTON (10)",
+      "Location": "Raipur",
+      "AvailableQty": 10
     },
     {
       "PartNumber": "01086MPKAD0000C1",
@@ -2355,13 +2409,31 @@
     {
       "PartNumber": "01088MPKAD0000C1",
       "Description": "TN-01088MPKAD0000C1-HONDA UNICORN/CBZ BSVI-PPCR (10)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01088MPKAD0000C1",
+      "Description": "TN-01088MPKAD0000C1-HONDA UNICORN/CBZ BSVI-PPCR (10)",
       "Location": "Korba",
       "AvailableQty": 10
     },
     {
       "PartNumber": "01088MPKBD0000C1",
       "Description": "TN-01088MPKBD0000C1-HONDA UNICORN/CBZ BSVI-PPCR (20)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01088MPKBD0000C1",
+      "Description": "TN-01088MPKBD0000C1-HONDA UNICORN/CBZ BSVI-PPCR (20)",
       "Location": "Korba",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01088MPKCD0000C1",
+      "Description": "TN-01088MPKCD0000C1-HONDA UNICORN/CBZ BSVI-PPCR (30)",
+      "Location": "Raipur",
       "AvailableQty": 10
     },
     {
@@ -2518,7 +2590,7 @@
       "PartNumber": "01095MPKBD0000C1",
       "Description": "TN-01095MPKBD0000C1-ROYAL ENFIELD BULLET ELECTRA 350CC (20)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 20
     },
     {
       "PartNumber": "01095MPKBD0000C1",
@@ -2620,6 +2692,12 @@
       "PartNumber": "01125MPKBD0000C1",
       "Description": "TN-01125MPKBD0000C1-TVS APACHE 160 BS6 (4V) (20)",
       "Location": "Korba",
+      "AvailableQty": 20
+    },
+    {
+      "PartNumber": "01125MPKCD0000C1",
+      "Description": "TN-01125MPKCD0000C1-TVS APACHE 160 BS6 (4V) (30)",
+      "Location": "Raipur",
       "AvailableQty": 20
     },
     {
@@ -2992,7 +3070,7 @@
       "PartNumber": "01651MPKBD0000C1",
       "Description": "TN-01651MPKBD0000C1-BAJAJ CT 100 (20)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01651MPKBD0000C1",
@@ -3004,7 +3082,7 @@
       "PartNumber": "01651MPKCD0000C1",
       "Description": "TN-01651MPKCD0000C1-BAJAJ CT 100 (30)",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 21
     },
     {
       "PartNumber": "01651MPKCD0000C1",
@@ -3159,6 +3237,12 @@
     {
       "PartNumber": "01789MPKCD0000C1",
       "Description": "TN-01789MPKCD0000C1-TVS SUPER XL 4S (30)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01789MPKCD0000C1",
+      "Description": "TN-01789MPKCD0000C1-TVS SUPER XL 4S (30)",
       "Location": "Korba",
       "AvailableQty": 21
     },
@@ -3202,7 +3286,7 @@
       "PartNumber": "01790MPKAD0000C1",
       "Description": "TN-01790MPKAD0000C1-TVS SUPER XLN (10)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 29
     },
     {
       "PartNumber": "01790MPKAD0000C1",
@@ -3214,7 +3298,7 @@
       "PartNumber": "01790MPKBD0000C1",
       "Description": "TN-01790MPKBD0000C1-TVS SUPER XLN (20)",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 19
     },
     {
       "PartNumber": "01790MPKBD0000C1",
@@ -3226,7 +3310,7 @@
       "PartNumber": "01790MPKCD0000C1",
       "Description": "TN-01790MPKCD0000C1-TVS SUPER XLN (30)",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "PartNumber": "01790MPKCD0000C1",
@@ -3263,6 +3347,12 @@
       "Description": "FICOSA-01791301XS02F-GEAR CABLE NEXON BSVI",
       "Location": "Raipur",
       "AvailableQty": 2
+    },
+    {
+      "PartNumber": "01791MKLSD0000C1",
+      "Description": "TN-01791MKLSD0000C1-TVS SUPER XLN KIT + TYPE",
+      "Location": "Raipur",
+      "AvailableQty": 16
     },
     {
       "PartNumber": "01791MKLSD0000C1",
@@ -3718,7 +3808,7 @@
       "PartNumber": "01860MPKAD0000C1",
       "Description": "TN-01860MPKAD0000C1-HERO SPLENDOR (10)",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 13
     },
     {
       "PartNumber": "01860MPKAD0000C1",
@@ -3730,7 +3820,7 @@
       "PartNumber": "01860MPKBD0000C1",
       "Description": "TN-01860MPKBD0000C1-HERO SPLENDOR (20)",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 13
     },
     {
       "PartNumber": "01860MPKBD0000C1",
@@ -3789,6 +3879,12 @@
     {
       "PartNumber": "01862MPKSD0000C1",
       "Description": "TN-01862MPKSD0000C1-MASTRO/PLEASURE 100CC BS6 (STD)",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01862MPKSD0000C1",
+      "Description": "TN-01862MPKSD0000C1-MASTRO/PLEASURE 100CC BS6 (STD)",
       "Location": "Korba",
       "AvailableQty": 10
     },
@@ -3808,7 +3904,7 @@
       "PartNumber": "01864MPKAD0000C1",
       "Description": "TN-01864MPKAD0000C1-HF DELUXE/ SPLENDOR PLUS BS6 (10)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 12
     },
     {
       "PartNumber": "01864MPKAD0000C1",
@@ -3910,7 +4006,7 @@
       "PartNumber": "01872MKLSD0000C1",
       "Description": "TN-01872MKLSD0000C1-PASSION PRO BS6-BLOCK KIT",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 11
     },
     {
       "PartNumber": "01872MKLSD0000C1",
@@ -3934,7 +4030,7 @@
       "PartNumber": "01872MPKBD0000C1",
       "Description": "TN-01872MPKBD0000C1-PASSION EX PRO/SPLENDOR 100CC BS6 (20)",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 14
     },
     {
       "PartNumber": "01872MPKBD0000C1",
@@ -4432,7 +4528,7 @@
       "PartNumber": "01984BTSAD0000C1",
       "Description": "TN-01984BTSAD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (10)",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 52
     },
     {
       "PartNumber": "01984BTSAD0000C1",
@@ -4444,7 +4540,7 @@
       "PartNumber": "01984BTSBD0000C1",
       "Description": "TN-01984BTSBD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (20)",
       "Location": "Raipur",
-      "AvailableQty": 30
+      "AvailableQty": 70
     },
     {
       "PartNumber": "01984BTSBD0000C1",
@@ -4468,7 +4564,7 @@
       "PartNumber": "01984BTSDD0000C1",
       "Description": "TN-01984BTSDD0000C1-HONDA ACTIVA 3G/I/DIO 110CC-NICKEL (40)",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 33
     },
     {
       "PartNumber": "01984BTSDD0000C1",
@@ -4901,6 +4997,12 @@
       "Description": "TN-02043MPKDD0000C1-BAJAJ DISCOVER 110 (MC) (40)",
       "Location": "Korba",
       "AvailableQty": 13
+    },
+    {
+      "PartNumber": "02043MPKSD0000C1",
+      "Description": "TN-02043MPKSD0000C1-BAJAJ DISCOVER 110 (MC) (STD)",
+      "Location": "Raipur",
+      "AvailableQty": 10
     },
     {
       "PartNumber": "02043MPKSD0000C1",
@@ -5518,7 +5620,7 @@
       "PartNumber": "0423530172J",
       "Description": "HEX NUT (MACHINED) BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "PartNumber": "0424020771J",
@@ -6670,7 +6772,7 @@
       "PartNumber": "07309PPCSD0000C1",
       "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 12
     },
     {
       "PartNumber": "07309PPCSD0000C1",
@@ -9658,7 +9760,7 @@
       "PartNumber": "216349003601",
       "Description": "AIR OIL SEPARATOR ELEMENT SPINON BS4",
       "Location": "Indore",
-      "AvailableQty": 26
+      "AvailableQty": 25
     },
     {
       "PartNumber": "216349003601",
@@ -10858,7 +10960,7 @@
       "PartNumber": "220747709902",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS3/4",
       "Location": "Neemuch",
-      "AvailableQty": 15
+      "AvailableQty": 13
     },
     {
       "PartNumber": "220747709902",
@@ -13957,6 +14059,12 @@
       "AvailableQty": 6
     },
     {
+      "PartNumber": "252503110157",
+      "Description": "ASSY. FLYWHEEL W/RING GEAR BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
       "PartNumber": "252503113719",
       "Description": "HOUSING FLYWHEEL 697TC",
       "Location": "Raipur DS CW",
@@ -16099,12 +16207,6 @@
       "AvailableQty": 2
     },
     {
-      "PartNumber": "252703990261",
-      "Description": "KIT-BAREPISTON BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
       "PartNumber": "252703990270",
       "Description": "SET-BUSH CONNECTING ROD BS6",
       "Location": "Jabalpur",
@@ -16234,7 +16336,7 @@
       "PartNumber": "252707140210",
       "Description": "KIT-HP LINES CLAMPS & SUPPORT BKT BS3",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 3
     },
     {
       "PartNumber": "252707140230",
@@ -16673,12 +16775,6 @@
       "Description": "HOSE-AIR INLET DUCT TO AIR FILTER LP709E",
       "Location": "Raipur DS CW",
       "AvailableQty": 1
-    },
-    {
-      "PartNumber": "252709135859",
-      "Description": "HOSE-INTAKE PIPE TO TC",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "PartNumber": "252709135867",
@@ -20656,7 +20752,7 @@
       "PartNumber": "257624100101",
       "Description": "ENGINE MOUNT PAD FRONT BS1/2/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 19
+      "AvailableQty": 18
     },
     {
       "PartNumber": "257624100101",
@@ -20692,7 +20788,7 @@
       "PartNumber": "257624200118",
       "Description": "ENGINE MOUNTING REAR BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 19
+      "AvailableQty": 18
     },
     {
       "PartNumber": "257624200118",
@@ -24825,12 +24921,6 @@
     {
       "PartNumber": "265135603101",
       "Description": "TAPER ROLLER BEARING INNER-33111-BS3/4/6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "PartNumber": "265135603101",
-      "Description": "TAPER ROLLER BEARING INNER-33111-BS3/4/6",
       "Location": "Jabalpur",
       "AvailableQty": 10
     },
@@ -26134,7 +26224,7 @@
       "PartNumber": "265472300162",
       "Description": "ASSY. HANDLE [WINDOW REGULATOR]",
       "Location": "Raipur",
-      "AvailableQty": 30
+      "AvailableQty": 40
     },
     {
       "PartNumber": "265472300212",
@@ -27745,6 +27835,12 @@
       "AvailableQty": 4
     },
     {
+      "PartNumber": "268062508239",
+      "Description": "OUTER PANEL SIDE WINDSHIELD RH BS6",
+      "Location": "Raipur",
+      "AvailableQty": 8
+    },
+    {
       "PartNumber": "268062508240",
       "Description": "OUTER PANEL WINDSHIELD BOTTOM BS6",
       "Location": "Raipur",
@@ -28435,12 +28531,6 @@
       "AvailableQty": 16
     },
     {
-      "PartNumber": "268088100116",
-      "Description": "FENDER FRONT LH BS3/4/6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "268088100117",
       "Description": "FENDER FRONT RH BS3/4/6",
       "Location": "Raipur",
@@ -28522,7 +28612,7 @@
       "PartNumber": "268088200104",
       "Description": "ASSY. REAR FENDER RH BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 4
     },
     {
       "PartNumber": "268088200109",
@@ -30310,7 +30400,7 @@
       "PartNumber": "269126204630",
       "Description": "SYNC RING 5TH/6TH SPD 23T/51T",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "269126204635",
@@ -30383,6 +30473,12 @@
       "Description": "SYNCHRO RING(1ST/2ND/3RD)LOOSE RIG BS2/3",
       "Location": "Indore",
       "AvailableQty": 6
+    },
+    {
+      "PartNumber": "269126204644",
+      "Description": "SYNCHRO RING (45T) (4TH SPD) LOOSE BS2/3",
+      "Location": "Raipur",
+      "AvailableQty": 2
     },
     {
       "PartNumber": "269126204644",
@@ -30520,13 +30616,13 @@
       "PartNumber": "269126204655",
       "Description": "SYNCHRO CONE 1/2/3/4/5/6 51T/132D G750",
       "Location": "Indore",
-      "AvailableQty": 84
+      "AvailableQty": 64
     },
     {
       "PartNumber": "269126204655",
       "Description": "SYNCHRO CONE 1/2/3/4/5/6 51T/132D G750",
       "Location": "Neemuch",
-      "AvailableQty": 7
+      "AvailableQty": 1
     },
     {
       "PartNumber": "269126204655",
@@ -30652,7 +30748,7 @@
       "PartNumber": "269126204670",
       "Description": "SHIFTER SLEEVE 51T 1/2/3/4/5/6 SPD-G750",
       "Location": "Neemuch",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "PartNumber": "269126204675",
@@ -30730,7 +30826,7 @@
       "PartNumber": "269126205428",
       "Description": "GEAR 4TH SPD MAIN SHAFT 23T/45T G750",
       "Location": "Indore",
-      "AvailableQty": 45
+      "AvailableQty": 44
     },
     {
       "PartNumber": "269126205429",
@@ -30754,7 +30850,7 @@
       "PartNumber": "269126205433",
       "Description": "GEAR 5TH SPD OD MAIN SHAFT 18T/23T G750",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "PartNumber": "269126205434",
@@ -30940,7 +31036,7 @@
       "PartNumber": "269126205462",
       "Description": "GEAR 5TH SPD MAIN SHAFT 19T/23T G750",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "269126205463",
@@ -30970,7 +31066,7 @@
       "PartNumber": "269126206501",
       "Description": "LOCK NUT BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 19
+      "AvailableQty": 18
     },
     {
       "PartNumber": "269126206702",
@@ -31000,7 +31096,7 @@
       "PartNumber": "269126207805",
       "Description": "OIL SEAL BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 30
+      "AvailableQty": 29
     },
     {
       "PartNumber": "269126207805",
@@ -31516,7 +31612,7 @@
       "PartNumber": "269126250173",
       "Description": "DRIVE SHAFT 17T/23T/10SPL/L322/R9.19 G75",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "269126250173",
@@ -31600,13 +31696,7 @@
       "PartNumber": "269126253113",
       "Description": "ROLLER THRUST BRG 25.40X7.93X7.93 G600 B",
       "Location": "Indore",
-      "AvailableQty": 315
-    },
-    {
-      "PartNumber": "269126253113",
-      "Description": "ROLLER THRUST BRG 25.40X7.93X7.93 G600 B",
-      "Location": "Neemuch",
-      "AvailableQty": 30
+      "AvailableQty": 240
     },
     {
       "PartNumber": "269126253704",
@@ -31702,7 +31792,7 @@
       "PartNumber": "269126257808",
       "Description": "OIL SEAL BS1/2/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 81
+      "AvailableQty": 66
     },
     {
       "PartNumber": "269126257808",
@@ -31951,12 +32041,6 @@
       "AvailableQty": 4
     },
     {
-      "PartNumber": "269126305420",
-      "Description": "GEAR 4TH SPD COUNTER SHAFT 28T G750",
-      "Location": "Neemuch",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "269126305421",
       "Description": "GEAR 5TH SPD COUNTER SHAFT 32T G750",
       "Location": "Raipur",
@@ -32164,7 +32248,7 @@
       "PartNumber": "269126307906",
       "Description": "COUNTER SHAFT 17T/11T/L468 G750",
       "Location": "Indore",
-      "AvailableQty": 34
+      "AvailableQty": 32
     },
     {
       "PartNumber": "269126307906",
@@ -32704,7 +32788,7 @@
       "PartNumber": "269126517916",
       "Description": "SHIFTER SHAFT 5TH/6TH SPD G750",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "PartNumber": "269126517916",
@@ -34324,7 +34408,7 @@
       "PartNumber": "271526204604",
       "Description": "ENGAGING RING REVERSE 38T/51T SPD G1150",
       "Location": "Indore",
-      "AvailableQty": 20
+      "AvailableQty": 12
     },
     {
       "PartNumber": "271526204604",
@@ -35410,7 +35494,7 @@
       "PartNumber": "271526208617",
       "Description": "SPACER (PLANET CARRIER)",
       "Location": "Indore",
-      "AvailableQty": 29
+      "AvailableQty": 28
     },
     {
       "PartNumber": "271526208619",
@@ -35494,7 +35578,7 @@
       "PartNumber": "271526209202",
       "Description": "THRUST WASHER (PLANET)",
       "Location": "Indore",
-      "AvailableQty": 3789
+      "AvailableQty": 3788
     },
     {
       "PartNumber": "271526209203",
@@ -35506,7 +35590,7 @@
       "PartNumber": "271526209203",
       "Description": "THRUST WASHER (PLANET)",
       "Location": "Indore",
-      "AvailableQty": 3610
+      "AvailableQty": 3609
     },
     {
       "PartNumber": "271526250129",
@@ -35554,7 +35638,7 @@
       "PartNumber": "271526253703",
       "Description": "FRONT COVER ( UPPER ) BS2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 9
     },
     {
       "PartNumber": "271526253703",
@@ -36178,7 +36262,7 @@
       "PartNumber": "271526517920",
       "Description": "SHIFTER SHAFT RANGE G1150",
       "Location": "Indore",
-      "AvailableQty": 20
+      "AvailableQty": 12
     },
     {
       "PartNumber": "271526518701",
@@ -36513,6 +36597,12 @@
     {
       "PartNumber": "271526800118",
       "Description": "TURNING TUBE ASSY BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "PartNumber": "271526800118",
+      "Description": "TURNING TUBE ASSY BS6",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -36838,7 +36928,7 @@
       "PartNumber": "271526909901",
       "Description": "INNER ROTOR",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 4
     },
     {
       "PartNumber": "271526909901",
@@ -36988,7 +37078,7 @@
       "PartNumber": "272425000267",
       "Description": "SET-CLUTCH ASSY DIA 380 BS6-PH2",
       "Location": "Indore",
-      "AvailableQty": 42
+      "AvailableQty": 40
     },
     {
       "PartNumber": "272425000267",
@@ -37012,6 +37102,12 @@
       "PartNumber": "272425103713",
       "Description": "ADAPTER - SAE1 TO SAE2 (FW HSG & CLUTCH)",
       "Location": "Indore",
+      "AvailableQty": 2
+    },
+    {
+      "PartNumber": "272425103722",
+      "Description": "CLUTCH HSG. RH-BOOSTER-G1150 BS3/4/6",
+      "Location": "Raipur",
       "AvailableQty": 2
     },
     {
@@ -37240,7 +37336,7 @@
       "PartNumber": "272425200215",
       "Description": "CLUTCH DISC 380 DIA. BS2/3/4/6",
       "Location": "Khandwa",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "PartNumber": "272425200216",
@@ -37312,7 +37408,7 @@
       "PartNumber": "272425200247",
       "Description": "CLUTCH DISC ASSY DIA 395 BS6",
       "Location": "Indore",
-      "AvailableQty": 16
+      "AvailableQty": 15
     },
     {
       "PartNumber": "272425200247",
@@ -37713,12 +37809,6 @@
     {
       "PartNumber": "272425400215",
       "Description": "CLUTCH COVER 380 DIA. BS2/3/4/6",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
-      "PartNumber": "272425400215",
-      "Description": "CLUTCH COVER 380 DIA. BS2/3/4/6",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
@@ -38092,7 +38182,7 @@
       "PartNumber": "272425600187",
       "Description": "ASSY. CROSS SHAFT WITH LEVER",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 5
     },
     {
       "PartNumber": "272425600187",
@@ -38254,7 +38344,7 @@
       "PartNumber": "272425600284",
       "Description": "CLUTCH RELEASE BEARING ASSY BS6",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "PartNumber": "272425600284",
@@ -38422,7 +38512,7 @@
       "PartNumber": "272425605123",
       "Description": "CLUTCH RELEASE FORK (RATIO -2) BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 20
     },
     {
       "PartNumber": "272425605123",
@@ -38512,7 +38602,7 @@
       "PartNumber": "272425606705",
       "Description": "BALL PIN (ADJUSTER TYPE) BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 44
+      "AvailableQty": 43
     },
     {
       "PartNumber": "272425606705",
@@ -39331,12 +39421,6 @@
       "AvailableQty": 1
     },
     {
-      "PartNumber": "272635303103",
-      "Description": "TAPER ROLLER BRG-100X155X36-I30600J-BS4",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
       "PartNumber": "272635303703",
       "Description": "OIL SEAL HOUSING",
       "Location": "Raipur",
@@ -39376,7 +39460,7 @@
       "PartNumber": "272635306503",
       "Description": "THREADED RING(M160X1.5) BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "PartNumber": "272635306503",
@@ -39496,7 +39580,7 @@
       "PartNumber": "272635707902",
       "Description": "REAR AXLE SHAFT BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "272635707903",
@@ -39694,7 +39778,7 @@
       "PartNumber": "272735306503",
       "Description": "HEX COLLER NUT (COUPLING FLANGE)",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "PartNumber": "272735307701",
@@ -40174,7 +40258,7 @@
       "PartNumber": "273235300249",
       "Description": "CROWN PINION 39/7 RA109/RA109SRT RWD",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "PartNumber": "273235300254",
@@ -40217,6 +40301,12 @@
       "Description": "SPIDER DIFFERENTIAL 2515/3516/3015",
       "Location": "Raipur DS CW",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "273235305113",
+      "Description": "DIFF. SPIDER(LOCKABLE SPH WASHER) BS1-4",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "PartNumber": "273235305113",
@@ -40325,6 +40415,12 @@
       "Description": "DIFF. BEVEL PINION 9X14(CONIFLEX) BS1- 4",
       "Location": "Indore",
       "AvailableQty": 4
+    },
+    {
+      "PartNumber": "273235305444",
+      "Description": "PINION 43/7 (6.142) OER-SPIRAC/SPIROFLEX",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "PartNumber": "273235305451",
@@ -40804,7 +40900,7 @@
       "PartNumber": "273935307702",
       "Description": "OIL SEAL OUTER (I/P SHAFT) BS1/2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 6
     },
     {
       "PartNumber": "273935307702",
@@ -41128,7 +41224,7 @@
       "PartNumber": "275029100102",
       "Description": "CLUTCH MASTER CYL. 19.05X36 DIA. BS1- 4",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "PartNumber": "275029100102",
@@ -41542,7 +41638,7 @@
       "PartNumber": "275225000105",
       "Description": "ASSY. CLUTCH DISC & COVER 352 DIA. BS3/4",
       "Location": "Indore",
-      "AvailableQty": 11
+      "AvailableQty": 10
     },
     {
       "PartNumber": "275225000105",
@@ -44014,7 +44110,7 @@
       "PartNumber": "278601990364",
       "Description": "KIT FULL ENGINE GASKET W/O GASKET INTEG",
       "Location": "Indore",
-      "AvailableQty": 13
+      "AvailableQty": 11
     },
     {
       "PartNumber": "278601993303",
@@ -44248,7 +44344,7 @@
       "PartNumber": "278601998002",
       "Description": "SCREW H.FM8X1.25X25 BS4",
       "Location": "Raipur",
-      "AvailableQty": 72
+      "AvailableQty": 96
     },
     {
       "PartNumber": "278601998002",
@@ -44411,6 +44507,12 @@
       "Description": "TUBE DIPSTICK BS1/2/3/4/6",
       "Location": "Neemuch",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "278601999809",
+      "Description": "DIPSTICK BS1/2/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 2
     },
     {
       "PartNumber": "278601999809",
@@ -44752,7 +44854,7 @@
       "PartNumber": "278601999993",
       "Description": "SET-LOWER ENGINE GASKET BS1/2/3",
       "Location": "Raipur",
-      "AvailableQty": 28
+      "AvailableQty": 33
     },
     {
       "PartNumber": "278601999993",
@@ -45202,7 +45304,7 @@
       "PartNumber": "278603997702",
       "Description": "SEAL OIL BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 23
+      "AvailableQty": 21
     },
     {
       "PartNumber": "278603997702",
@@ -45226,7 +45328,7 @@
       "PartNumber": "278603998002",
       "Description": "SCREW CONNECTING ROD CAP",
       "Location": "Raipur",
-      "AvailableQty": 16
+      "AvailableQty": 24
     },
     {
       "PartNumber": "278603998002",
@@ -45298,7 +45400,7 @@
       "PartNumber": "278603999827",
       "Description": "RING GEAR FLYWHEEL",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "PartNumber": "278603999827",
@@ -45513,6 +45615,12 @@
     {
       "PartNumber": "278603999944",
       "Description": "PILOT BEARING BS1/2/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 4
+    },
+    {
+      "PartNumber": "278603999944",
+      "Description": "PILOT BEARING BS1/2/3/4",
       "Location": "Raigarh",
       "AvailableQty": 3
     },
@@ -45712,7 +45820,7 @@
       "PartNumber": "278605993704",
       "Description": "HOUSING GEAR ISBE5.9 BS4",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "PartNumber": "278605993704",
@@ -45850,7 +45958,7 @@
       "PartNumber": "278605997905",
       "Description": "CAMSHAFT ISBe 5.9 CNG BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "PartNumber": "278605997905",
@@ -45928,7 +46036,7 @@
       "PartNumber": "278605999833",
       "Description": "GASKET INTEGRATED WIRING BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "278605999833",
@@ -46126,7 +46234,7 @@
       "PartNumber": "278605999926",
       "Description": "ROD PUSH BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 18
     },
     {
       "PartNumber": "278605999926",
@@ -46330,13 +46438,19 @@
       "PartNumber": "278605999970",
       "Description": "COLLECT VALVE BS1/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 288
+      "AvailableQty": 1056
     },
     {
       "PartNumber": "278605999970",
       "Description": "COLLECT VALVE BS1/3/4/6",
       "Location": "Raigarh",
       "AvailableQty": 480
+    },
+    {
+      "PartNumber": "278605999973",
+      "Description": "SEAL VALVE STEEM BS1/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 18
     },
     {
       "PartNumber": "278605999973",
@@ -46402,7 +46516,7 @@
       "PartNumber": "278605999979",
       "Description": "ROD PUSH BS1/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 36
+      "AvailableQty": 42
     },
     {
       "PartNumber": "278605999979",
@@ -46498,7 +46612,7 @@
       "PartNumber": "278607989916",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS1/2/3",
       "Location": "Indore",
-      "AvailableQty": 49
+      "AvailableQty": 37
     },
     {
       "PartNumber": "278607989916",
@@ -46510,7 +46624,7 @@
       "PartNumber": "278607989916",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS1/2/3",
       "Location": "Khandwa",
-      "AvailableQty": 20
+      "AvailableQty": 12
     },
     {
       "PartNumber": "278607989921",
@@ -46636,7 +46750,7 @@
       "PartNumber": "278607989967",
       "Description": "FUEL FILTER BS3",
       "Location": "Indore",
-      "AvailableQty": 96
+      "AvailableQty": 84
     },
     {
       "PartNumber": "278607989967",
@@ -46816,7 +46930,7 @@
       "PartNumber": "278607996933",
       "Description": "TUBE FUEL SUPPLY BS4",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "278607996933",
@@ -47008,7 +47122,7 @@
       "PartNumber": "278607998801",
       "Description": "STUD",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 30
     },
     {
       "PartNumber": "278607998801",
@@ -47584,7 +47698,7 @@
       "PartNumber": "278609119910",
       "Description": "FUEL FILTER ELEMENT BS4/6",
       "Location": "Indore",
-      "AvailableQty": 91
+      "AvailableQty": 89
     },
     {
       "PartNumber": "278609119910",
@@ -47596,7 +47710,7 @@
       "PartNumber": "278609119910",
       "Description": "FUEL FILTER ELEMENT BS4/6",
       "Location": "Khandwa",
-      "AvailableQty": 12
+      "AvailableQty": 11
     },
     {
       "PartNumber": "278609119914",
@@ -48039,6 +48153,12 @@
     {
       "PartNumber": "278609135857",
       "Description": "HOSE-FLEXIBLE",
+      "Location": "Raipur",
+      "AvailableQty": 5
+    },
+    {
+      "PartNumber": "278609135857",
+      "Description": "HOSE-FLEXIBLE",
       "Location": "Raigarh",
       "AvailableQty": 13
     },
@@ -48214,7 +48334,7 @@
       "PartNumber": "278609139908",
       "Description": "AIR FILTER PRIMARY ELEMENT BS1/2/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 154
+      "AvailableQty": 142
     },
     {
       "PartNumber": "278609139908",
@@ -48226,7 +48346,7 @@
       "PartNumber": "278609139908",
       "Description": "AIR FILTER PRIMARY ELEMENT BS1/2/3/4/6",
       "Location": "Khandwa",
-      "AvailableQty": 13
+      "AvailableQty": 9
     },
     {
       "PartNumber": "278609139909",
@@ -48628,7 +48748,7 @@
       "PartNumber": "278609990141",
       "Description": "FUEL FILTER SPINON BS4",
       "Location": "Khandwa",
-      "AvailableQty": 21
+      "AvailableQty": 17
     },
     {
       "PartNumber": "278609993702",
@@ -48694,19 +48814,19 @@
       "PartNumber": "278609999822",
       "Description": "FUEL FILTER ELEMENT BS3/4",
       "Location": "Indore",
-      "AvailableQty": 139
+      "AvailableQty": 137
     },
     {
       "PartNumber": "278609999822",
       "Description": "FUEL FILTER ELEMENT BS3/4",
       "Location": "Neemuch",
-      "AvailableQty": 28
+      "AvailableQty": 26
     },
     {
       "PartNumber": "278609999822",
       "Description": "FUEL FILTER ELEMENT BS3/4",
       "Location": "Khandwa",
-      "AvailableQty": 16
+      "AvailableQty": 14
     },
     {
       "PartNumber": "278609999829",
@@ -48736,7 +48856,7 @@
       "PartNumber": "278609999835",
       "Description": "HEAD FUEL FILTER",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "278609999901",
@@ -48928,7 +49048,7 @@
       "PartNumber": "278609999951",
       "Description": "FUEL STRAINER BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 27
+      "AvailableQty": 26
     },
     {
       "PartNumber": "278609999951",
@@ -48958,13 +49078,13 @@
       "PartNumber": "278609999962",
       "Description": "GASKET FILTER HEAD BS4",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 6
     },
     {
       "PartNumber": "278609999963",
       "Description": "HEAD FUEL FILTER",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "278609999963",
@@ -49211,6 +49331,12 @@
       "Description": "TUBE CPR WATER OUTLET",
       "Location": "Indore",
       "AvailableQty": 3
+    },
+    {
+      "PartNumber": "278613996917",
+      "Description": "TUBE CPR WATER INLET",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "PartNumber": "278613996918",
@@ -50176,7 +50302,7 @@
       "PartNumber": "278614999965",
       "Description": "SPACER MOUNTING",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 20
     },
     {
       "PartNumber": "278614999965",
@@ -50398,7 +50524,7 @@
       "PartNumber": "278618139902",
       "Description": "OIL FILTER ELEMENT SPINON BS1/2/3/4",
       "Location": "Khandwa",
-      "AvailableQty": 26
+      "AvailableQty": 21
     },
     {
       "PartNumber": "278618179901",
@@ -50625,6 +50751,12 @@
     {
       "PartNumber": "278618999949",
       "Description": "VALVE BYPASS",
+      "Location": "Raipur",
+      "AvailableQty": 4
+    },
+    {
+      "PartNumber": "278618999949",
+      "Description": "VALVE BYPASS",
       "Location": "Indore",
       "AvailableQty": 9
     },
@@ -50728,7 +50860,7 @@
       "PartNumber": "278618999994",
       "Description": "OIL FILTER ELEMENT SPINON BS4",
       "Location": "Indore",
-      "AvailableQty": 30
+      "AvailableQty": 26
     },
     {
       "PartNumber": "278618999994",
@@ -50740,7 +50872,7 @@
       "PartNumber": "278618999994",
       "Description": "OIL FILTER ELEMENT SPINON BS4",
       "Location": "Khandwa",
-      "AvailableQty": 20
+      "AvailableQty": 19
     },
     {
       "PartNumber": "278618999995",
@@ -50837,6 +50969,12 @@
       "Description": "SUPPORT FAN",
       "Location": "Raipur",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "278620990150",
+      "Description": "CONNECTION WATER OUTLET",
+      "Location": "Raipur",
+      "AvailableQty": 4
     },
     {
       "PartNumber": "278620990150",
@@ -51101,6 +51239,12 @@
       "Description": "FAN ENGINE ISBE5.9 24INCH 9 BLADE BS4",
       "Location": "Raigarh",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "278620999838",
+      "Description": "CLUTCH FAN BS4",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "PartNumber": "278620999838",
@@ -52120,7 +52264,7 @@
       "PartNumber": "278650115871",
       "Description": "REDUCER HOSE (ID28.6 TO ID20)",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 11
     },
     {
       "PartNumber": "278650115871",
@@ -54383,6 +54527,12 @@
       "Description": "DOOR (RH) WIRING HARNESS",
       "Location": "Raipur DS CW",
       "AvailableQty": 12
+    },
+    {
+      "PartNumber": "281654601621",
+      "Description": "AUXILIARY FUSE BOX WIRING HARNESS",
+      "Location": "Raipur",
+      "AvailableQty": 4
     },
     {
       "PartNumber": "281654601690",
@@ -57321,6 +57471,12 @@
     {
       "PartNumber": "284188107701",
       "Description": "BEADING FENDER LH",
+      "Location": "Raipur",
+      "AvailableQty": 6
+    },
+    {
+      "PartNumber": "284188107701",
+      "Description": "BEADING FENDER LH",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -58645,12 +58801,6 @@
       "AvailableQty": 5
     },
     {
-      "PartNumber": "284633209201",
-      "Description": "THRUST WASHER STUBAXLE T=3.5",
-      "Location": "Indore",
-      "AvailableQty": 7
-    },
-    {
       "PartNumber": "284633209202",
       "Description": "THRUST WASHER STUBAXLE T=3.2",
       "Location": "Raigarh",
@@ -59758,7 +59908,7 @@
       "PartNumber": "284649200117",
       "Description": "ASSY EXHAUST FIRST PIPE (TC COWL BS III)",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 5
     },
     {
       "PartNumber": "284649200117",
@@ -62009,12 +62159,6 @@
       "Description": "SHIFTER SHAFT 5TH/REVERSE BS6",
       "Location": "Neemuch",
       "AvailableQty": 2
-    },
-    {
-      "PartNumber": "285526519901",
-      "Description": "BRASS PAD",
-      "Location": "Indore",
-      "AvailableQty": 10
     },
     {
       "PartNumber": "285526519901",
@@ -65722,7 +65866,7 @@
       "PartNumber": "3212600846",
       "Description": "STOP PLATE BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "PartNumber": "3212620073",
@@ -65903,12 +66047,6 @@
       "Description": "SYNCHRO RING 5TH SPEED BS3/4",
       "Location": "Raipur DS CW",
       "AvailableQty": 1
-    },
-    {
-      "PartNumber": "3222620034",
-      "Description": "SYNCHRO RING 5TH SPEED BS3/4",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "PartNumber": "3222620045",
@@ -67726,7 +67864,7 @@
       "PartNumber": "500632409214",
       "Description": "THRUST WASHER OUTER BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "PartNumber": "500632600103",
@@ -70171,16 +70309,10 @@
       "AvailableQty": 1
     },
     {
-      "PartNumber": "503931700171",
-      "Description": "BRACKET ASSY RAIDATOR MTG RH BS6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "503931700172",
       "Description": "BRACKET ASSY RAIDATOR MTG LH BS6",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "PartNumber": "503932100109",
@@ -70511,6 +70643,12 @@
       "Description": "POWER STEERING PUMP ASSY",
       "Location": "Raipur",
       "AvailableQty": 2
+    },
+    {
+      "PartNumber": "503946703305",
+      "Description": "BRACKET STG GEAR BOX MTG BS4/6",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "PartNumber": "503946800117",
@@ -71359,6 +71497,12 @@
       "AvailableQty": 8
     },
     {
+      "PartNumber": "505029100101",
+      "Description": "HOSE FROM M/CYL TO CLUTCH SERVO(TYPE-1)",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
       "PartNumber": "505324200103",
       "Description": "RUBBER MOUNT REAR BS3/4",
       "Location": "Raipur",
@@ -71638,7 +71782,7 @@
       "PartNumber": "506429300102",
       "Description": "ASSY. CLUTCH MASTER CYLINDER BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 90
     },
     {
       "PartNumber": "506429300105",
@@ -73165,12 +73309,6 @@
       "AvailableQty": 4
     },
     {
-      "PartNumber": "515849200143",
-      "Description": "SUCTION LINE TANK TO SM BS6-PH2",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "515854904901",
       "Description": "PRESSURE SENSOR BS6-PH2",
       "Location": "Raipur",
@@ -73321,10 +73459,22 @@
       "AvailableQty": 1
     },
     {
+      "PartNumber": "51776250M10166",
+      "Description": "PANEL ASSY FACE SIDE BOTTOM-RH BS6-PH2",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
       "PartNumber": "518146305105",
       "Description": "PITMAN ARM BS6-PH2",
       "Location": "Raipur",
       "AvailableQty": 2
+    },
+    {
+      "PartNumber": "518446800114",
+      "Description": "PRESSURE LINE ASSY STG GEAR BOX END BS6-",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "PartNumber": "518447600101",
@@ -74224,7 +74374,7 @@
       "PartNumber": "550732403402",
       "Description": "NUT",
       "Location": "Indore",
-      "AvailableQty": 10
+      "AvailableQty": 8
     },
     {
       "PartNumber": "550732403710",
@@ -74242,7 +74392,7 @@
       "PartNumber": "550732406709",
       "Description": "SPRING PIN (FOR RUBBER BUSH) BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "PartNumber": "550732807501",
@@ -74752,6 +74902,12 @@
       "PartNumber": "551788100104",
       "Description": "ASSY BEZEL RH",
       "Location": "Jabalpur",
+      "AvailableQty": 1
+    },
+    {
+      "PartNumber": "551945300101",
+      "Description": "SOLENOID VALVE BS1/2/3/4",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -76519,6 +76675,12 @@
       "AvailableQty": 1
     },
     {
+      "PartNumber": "570101990226",
+      "Description": "HEAD CYLINDER BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
       "PartNumber": "570101993307",
       "Description": "BRACE BRACKET BS6-PH2",
       "Location": "Raipur",
@@ -76695,6 +76857,12 @@
     {
       "PartNumber": "570101999815",
       "Description": "PAN OIL BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "PartNumber": "570101999815",
+      "Description": "PAN OIL BS6",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -76795,6 +76963,12 @@
       "AvailableQty": 2
     },
     {
+      "PartNumber": "570101999932",
+      "Description": "CYLINDER BLOCK BS6",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
       "PartNumber": "570103990101",
       "Description": "SET-PISTON RING (STD) ISBE6.7 BS2/3/4",
       "Location": "Raipur",
@@ -76864,7 +77038,7 @@
       "PartNumber": "570103990176",
       "Description": "BARE PISTON SET STD ISBE6.7 BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "570103990176",
@@ -77050,7 +77224,7 @@
       "PartNumber": "570105997702",
       "Description": "SEAL OIL BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 9
     },
     {
       "PartNumber": "570105997702",
@@ -77195,6 +77369,12 @@
       "Description": "ROCKER LEVER BS6-PH2",
       "Location": "Indore",
       "AvailableQty": 14
+    },
+    {
+      "PartNumber": "570105999906",
+      "Description": "TAPPET VALVE",
+      "Location": "Raipur",
+      "AvailableQty": 20
     },
     {
       "PartNumber": "570105999906",
@@ -77668,7 +77848,7 @@
       "PartNumber": "570109130319",
       "Description": "AIR CLEANER ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "PartNumber": "570109130319",
@@ -77992,7 +78172,7 @@
       "PartNumber": "570109139908",
       "Description": "AIR FILTER ELEMENT (PRIMARY) BS6",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 4
     },
     {
       "PartNumber": "570109139908",
@@ -78225,6 +78405,12 @@
     {
       "PartNumber": "570113996905",
       "Description": "TUBE CPR WATER OUTLET",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "PartNumber": "570113996905",
+      "Description": "TUBE CPR WATER OUTLET",
       "Location": "Indore",
       "AvailableQty": 7
     },
@@ -78394,7 +78580,7 @@
       "PartNumber": "570114995304",
       "Description": "GASKET EXHAUST MANIFOLD BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 12
     },
     {
       "PartNumber": "570114995304",
@@ -78442,7 +78628,7 @@
       "PartNumber": "570114996904",
       "Description": "TUBE TUR COOLANT DRAIN BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "PartNumber": "570114996905",
@@ -78754,6 +78940,12 @@
       "PartNumber": "570120990133",
       "Description": "FAN ENGINE ISBe5.9/6.7 BS3/4",
       "Location": "Indore",
+      "AvailableQty": 1
+    },
+    {
+      "PartNumber": "570120990137",
+      "Description": "FAN ENGINE BS4/6",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -79543,12 +79735,6 @@
       "AvailableQty": 2
     },
     {
-      "PartNumber": "570603107802",
-      "Description": "CRANKSHAFT REAR SEAL",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
       "PartNumber": "570603107901",
       "Description": "CRANKSHAFT",
       "Location": "Raipur",
@@ -80037,12 +80223,6 @@
     {
       "PartNumber": "570607140134",
       "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
-      "Location": "Indore",
-      "AvailableQty": 3
-    },
-    {
-      "PartNumber": "570607140134",
-      "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
       "Location": "Neemuch",
       "AvailableQty": 2
     },
@@ -80062,18 +80242,6 @@
       "PartNumber": "570607140136",
       "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "PartNumber": "570607140136",
-      "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
-      "Location": "Indore",
-      "AvailableQty": 3
-    },
-    {
-      "PartNumber": "570607140137",
-      "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
-      "Location": "Indore",
       "AvailableQty": 1
     },
     {
@@ -80309,12 +80477,6 @@
       "Description": "LEAK OFF PIPE ASSY INJECTOR BS6",
       "Location": "Raigarh",
       "AvailableQty": 2
-    },
-    {
-      "PartNumber": "570609120108",
-      "Description": "LEAK OFF PIPE ASSY INJECTOR BS6",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "PartNumber": "570609120108",
@@ -80709,6 +80871,12 @@
     {
       "PartNumber": "570618130102",
       "Description": "OIL FILTER ELEMENT (SPINON) BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 11
+    },
+    {
+      "PartNumber": "570618130102",
+      "Description": "OIL FILTER ELEMENT (SPINON) BS3/4",
       "Location": "Jagdalpur",
       "AvailableQty": 4
     },
@@ -80968,7 +81136,7 @@
       "PartNumber": "570620140147",
       "Description": "BEARING HOUSING ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "PartNumber": "570620140147",
@@ -81313,22 +81481,10 @@
       "AvailableQty": 5
     },
     {
-      "PartNumber": "570901150110",
-      "Description": "DECOUPLING ELEMENT (SHORT)",
-      "Location": "Indore",
-      "AvailableQty": 3
-    },
-    {
       "PartNumber": "570901150111",
       "Description": "DECOUPLING ELEMENT LONG",
       "Location": "Raipur",
       "AvailableQty": 6
-    },
-    {
-      "PartNumber": "570901150111",
-      "Description": "DECOUPLING ELEMENT LONG",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "PartNumber": "570901150113",
@@ -82678,7 +82834,7 @@
       "PartNumber": "570914110109",
       "Description": "TUBE ASSY WITH CRIMPED RUBBER HOSE (EGR",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "570914110113",
@@ -82723,12 +82879,6 @@
       "AvailableQty": 35
     },
     {
-      "PartNumber": "570914115306",
-      "Description": "GASKET EXHAUST MANIFOLD",
-      "Location": "Indore",
-      "AvailableQty": 32
-    },
-    {
       "PartNumber": "570914115307",
       "Description": "GASKET EXH MANIFOLD TO TURBOCHARGER",
       "Location": "Raipur",
@@ -82762,7 +82912,7 @@
       "PartNumber": "570914115801",
       "Description": "RUBBER HOSE(WATER DIST.RAIL TO EGRVALVE)",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "PartNumber": "570914115803",
@@ -82774,7 +82924,7 @@
       "PartNumber": "570914115803",
       "Description": "RUBBER HOSE (ASSY TUBE TO T.S)",
       "Location": "Indore",
-      "AvailableQty": 127
+      "AvailableQty": 126
     },
     {
       "PartNumber": "570914115803",
@@ -83401,12 +83551,6 @@
       "AvailableQty": 5
     },
     {
-      "PartNumber": "570950106954",
-      "Description": "PIPE RADIATOR TO WATER PUMP",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "570950115813",
       "Description": "HOSE FILLER PIPE TO RADIATOR",
       "Location": "Indore",
@@ -83435,12 +83579,6 @@
       "Description": "VENT HOSE ENGINE TO AUX TANK",
       "Location": "Indore",
       "AvailableQty": 10
-    },
-    {
-      "PartNumber": "570950115839",
-      "Description": "HOSE RADIATOR TO WATER PUMP",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "PartNumber": "570950115841",
@@ -85173,6 +85311,12 @@
     {
       "PartNumber": "573701999818",
       "Description": "SENSOR PRESSURE BS6",
+      "Location": "Raipur",
+      "AvailableQty": 3
+    },
+    {
+      "PartNumber": "573701999818",
+      "Description": "SENSOR PRESSURE BS6",
       "Location": "Jagdalpur",
       "AvailableQty": 1
     },
@@ -85795,6 +85939,12 @@
       "AvailableQty": 2
     },
     {
+      "PartNumber": "573714609906",
+      "Description": "INTERCOOLER ASSY BS6",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
       "PartNumber": "573714990101",
       "Description": "MANIFOLD EXHAUST BS6",
       "Location": "Raipur",
@@ -85990,13 +86140,19 @@
       "PartNumber": "573715999802",
       "Description": "SENSOR PRESSURE BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 8
     },
     {
       "PartNumber": "573715999802",
       "Description": "SENSOR PRESSURE BS6",
       "Location": "Raigarh",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "573715999804",
+      "Description": "SENSOR POSITION BS6",
+      "Location": "Raipur",
+      "AvailableQty": 5
     },
     {
       "PartNumber": "573715999804",
@@ -86050,7 +86206,7 @@
       "PartNumber": "573715999896",
       "Description": "SENSOR PRS TEMPERATURE BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 5
     },
     {
       "PartNumber": "573715999896",
@@ -86134,7 +86290,7 @@
       "PartNumber": "573718999815",
       "Description": "CARTRIDGE LUBRICATION OIL FILTER BS6",
       "Location": "Indore",
-      "AvailableQty": 102
+      "AvailableQty": 96
     },
     {
       "PartNumber": "573718999815",
@@ -86443,6 +86599,12 @@
       "AvailableQty": 4
     },
     {
+      "PartNumber": "573750110124",
+      "Description": "RADIATOR ASSY",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
       "PartNumber": "573750115802",
       "Description": "HOSE BS6",
       "Location": "Raipur",
@@ -86500,7 +86662,7 @@
       "PartNumber": "573750506302",
       "Description": "FAN SHROUD (MAHLE) BS6",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "PartNumber": "573750506303",
@@ -86968,7 +87130,7 @@
       "PartNumber": "580525200108",
       "Description": "CLUTCH DISC 430 DIA. BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 11
+      "AvailableQty": 10
     },
     {
       "PartNumber": "580525200108",
@@ -87622,13 +87784,13 @@
       "PartNumber": "581035306102",
       "Description": "LOCKING PLATE",
       "Location": "Indore",
-      "AvailableQty": 65
+      "AvailableQty": 30
     },
     {
       "PartNumber": "581035306501",
       "Description": "THREADED RING (PINION)",
       "Location": "Indore",
-      "AvailableQty": 16
+      "AvailableQty": 15
     },
     {
       "PartNumber": "581035307701",
@@ -87903,6 +88065,12 @@
     {
       "PartNumber": "581035707907",
       "Description": "RA SHAFT L923/SPL37/H10 RA109SRT",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "PartNumber": "581035707907",
+      "Description": "RA SHAFT L923/SPL37/H10 RA109SRT",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -87952,7 +88120,7 @@
       "PartNumber": "581035905101",
       "Description": "FORK (INTERAXLE DIFF LOCK)",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "581035906701",
@@ -90568,7 +90736,7 @@
       "PartNumber": "6154CKS-SD",
       "Description": "TN-6154CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
       "Location": "Raipur",
-      "AvailableQty": 57
+      "AvailableQty": 56
     },
     {
       "PartNumber": "6154CKS-SD",
@@ -91867,12 +92035,6 @@
       "AvailableQty": 1
     },
     {
-      "PartNumber": "882225400129",
-      "Description": "ASSY. PROLIFE 380DIA. CL.COVER",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "882225400138",
       "Description": "PROLIFE 330DIA CLUTCH COVER ASSY.(SHEET)",
       "Location": "Raipur",
@@ -92314,7 +92476,7 @@
       "PartNumber": "885403142786",
       "Description": "PISTON & RING KIT 5.9L UMB BS4",
       "Location": "Indore",
-      "AvailableQty": 11
+      "AvailableQty": 9
     },
     {
       "PartNumber": "885403142786",
@@ -93124,7 +93286,7 @@
       "PartNumber": "885418032516",
       "Description": "SET OF 3 FILTER (9902+9904+9916)",
       "Location": "Khandwa",
-      "AvailableQty": 20
+      "AvailableQty": 16
     },
     {
       "PartNumber": "885418052516",
@@ -93597,12 +93759,6 @@
     {
       "PartNumber": "885426012516",
       "Description": "DETENT PIN KIT G600/750",
-      "Location": "Indore",
-      "AvailableQty": 47
-    },
-    {
-      "PartNumber": "885426012516",
-      "Description": "DETENT PIN KIT G600/750",
       "Location": "Neemuch",
       "AvailableQty": 6
     },
@@ -93634,7 +93790,7 @@
       "PartNumber": "885426012518",
       "Description": "SYNCHRO KIT G750",
       "Location": "Neemuch",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "PartNumber": "885426012518",
@@ -93754,7 +93910,7 @@
       "PartNumber": "885426014021",
       "Description": "GASKET KIT G1150",
       "Location": "Indore",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "PartNumber": "885426014021",
@@ -93928,7 +94084,7 @@
       "PartNumber": "885426032518",
       "Description": "CIRCLIP KIT G750",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "PartNumber": "885426032518",
@@ -94036,7 +94192,7 @@
       "PartNumber": "885426045830",
       "Description": "GAKET KIT G950",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "PartNumber": "885426045830",
@@ -94126,7 +94282,7 @@
       "PartNumber": "885433000001",
       "Description": "SET BOLT AND NUT M30X2x260L GRD10.9",
       "Location": "Indore",
-      "AvailableQty": 60
+      "AvailableQty": 52
     },
     {
       "PartNumber": "885433010407",
@@ -95002,7 +95158,7 @@
       "PartNumber": "885442111618",
       "Description": "BRAKE LINING REAR-STD-W/RIVET-410X180-MB",
       "Location": "Indore",
-      "AvailableQty": 228
+      "AvailableQty": 176
     },
     {
       "PartNumber": "885442111618",
@@ -95854,7 +96010,7 @@
       "PartNumber": "886325400147",
       "Description": "380 RELEASE LEVER WITH NEEDLE BEARING (3",
       "Location": "Neemuch",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "PartNumber": "886329000006",
@@ -96094,7 +96250,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Indore",
-      "AvailableQty": 150
+      "AvailableQty": 140
     },
     {
       "PartNumber": "886399000003",
@@ -96106,7 +96262,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Neemuch",
-      "AvailableQty": 229
+      "AvailableQty": 79
     },
     {
       "PartNumber": "886399000003",
@@ -96910,7 +97066,7 @@
       "PartNumber": "886399000133",
       "Description": "ULTRA GREASE 5 KG",
       "Location": "Indore",
-      "AvailableQty": 148
+      "AvailableQty": 144
     },
     {
       "PartNumber": "886399000133",
@@ -99634,7 +99790,7 @@
       "PartNumber": "886709000022",
       "Description": "OIL SEAL INNER 109RR METAL CASING BS3/4/",
       "Location": "Raipur",
-      "AvailableQty": 189
+      "AvailableQty": 369
     },
     {
       "PartNumber": "886709000022",
@@ -99665,6 +99821,12 @@
       "Description": "OIL SEAL INNER 109RR METAL CASING BS3/4/",
       "Location": "Khandwa",
       "AvailableQty": 47
+    },
+    {
+      "PartNumber": "886709000023",
+      "Description": "OILSEAL OUTER 109RR METAL CASING BS3/4/6",
+      "Location": "Raipur",
+      "AvailableQty": 75
     },
     {
       "PartNumber": "886709000023",
@@ -100126,7 +100288,7 @@
       "PartNumber": "886720000004",
       "Description": "WATER PUMP 2518-E3 MOD. HIGH FLOW",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "PartNumber": "886720000004",
@@ -100795,12 +100957,6 @@
       "AvailableQty": 3
     },
     {
-      "PartNumber": "886726000054",
-      "Description": "MAIN SHAFT -LONGER PILOT BRG BS4",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "886726000055",
       "Description": "COUNTER SHAFT -11 T GBS40",
       "Location": "Indore",
@@ -100984,7 +101140,7 @@
       "PartNumber": "886726022715",
       "Description": "OIL SEAL",
       "Location": "Indore",
-      "AvailableQty": 15
+      "AvailableQty": 14
     },
     {
       "PartNumber": "886726022715",
@@ -101014,7 +101170,7 @@
       "PartNumber": "886726032715",
       "Description": "OILSEAL(95-125-12)",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "PartNumber": "886730000002",
@@ -101050,7 +101206,7 @@
       "PartNumber": "886730000009",
       "Description": "1ST SPEED GEAR-38 T GBS40",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "886730000011",
@@ -101344,13 +101500,7 @@
       "PartNumber": "886732000025",
       "Description": "LPK3118 FR PB M/L 90X24",
       "Location": "Indore",
-      "AvailableQty": 9
-    },
-    {
-      "PartNumber": "886732000026",
-      "Description": "LPK3118 FR PB 2/L 90X24",
-      "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "PartNumber": "886732000027",
@@ -101374,7 +101524,7 @@
       "PartNumber": "886732000027",
       "Description": "LPK3118 FR PB 3/L 90X24",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 10
     },
     {
       "PartNumber": "886732000028",
@@ -102052,7 +102202,7 @@
       "PartNumber": "886732000158",
       "Description": "TATA 2515 EX RR CONV M/L 80X16",
       "Location": "Indore",
-      "AvailableQty": 23
+      "AvailableQty": 19
     },
     {
       "PartNumber": "886732000159",
@@ -102073,12 +102223,6 @@
       "AvailableQty": 2
     },
     {
-      "PartNumber": "886732000159",
-      "Description": "TATA 2515 EX RR CONV 2/L 80X16",
-      "Location": "Indore",
-      "AvailableQty": 3
-    },
-    {
       "PartNumber": "886732000160",
       "Description": "TATA 2515 EX RR CONV 3/L 80X16",
       "Location": "Raipur",
@@ -102088,7 +102232,7 @@
       "PartNumber": "886732000160",
       "Description": "TATA 2515 EX RR CONV 3/L 80X16",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 1
     },
     {
       "PartNumber": "886732000161",
@@ -102473,6 +102617,12 @@
       "Description": "ASSY. MAIN AIR SPRING 12.5T LA LPT4825",
       "Location": "Indore",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "886732034825",
+      "Description": "ASSY. MAIN AIR SPRING 12.5T LA LPT4825",
+      "Location": "Neemuch",
+      "AvailableQty": 5
     },
     {
       "PartNumber": "886733000003",
@@ -102989,6 +103139,12 @@
       "Description": "PINION - CWP 41/6 0050 RR FWD-2516",
       "Location": "Indore",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "886735000062",
+      "Description": "DIFF BEVEL AND AXLE GEAR W/SPIDER RA109",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "PartNumber": "886735000062",
@@ -104164,12 +104320,6 @@
       "PartNumber": "886754000001",
       "Description": "BULB -24V P43T100/90",
       "Location": "Jagdalpur",
-      "AvailableQty": 10
-    },
-    {
-      "PartNumber": "886754000001",
-      "Description": "BULB -24V P43T100/90",
-      "Location": "Indore",
       "AvailableQty": 10
     },
     {
@@ -110698,7 +110848,7 @@
       "PartNumber": "GBB63/22C",
       "Description": "TN-GBB63/22C-BALL BEARING 63/22C",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 70
     },
     {
       "PartNumber": "GBB63/22C",
@@ -114043,12 +114193,6 @@
       "AvailableQty": 53
     },
     {
-      "PartNumber": "TMGOCK415W40001C",
-      "Description": "TMGO Engine Oil CK415W40 1 Litres PROMO",
-      "Location": "Khandwa",
-      "AvailableQty": 3
-    },
-    {
       "PartNumber": "TMGOCK415W40005C",
       "Description": "TMGO Engine Oil CK415W40 5 Litres PROMO",
       "Location": "Indore",
@@ -114106,7 +114250,7 @@
       "PartNumber": "TMGOCK415W40015C",
       "Description": "TMGO Engine Oil CK415W40 15 Litres PROMO",
       "Location": "Khandwa",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "PartNumber": "TMGOCK415W40020C",
@@ -114232,7 +114376,7 @@
       "PartNumber": "TMGOEOCI4P005",
       "Description": "TMGO Diesel Engine Oil CI4P15W40 5L",
       "Location": "Indore",
-      "AvailableQty": 34
+      "AvailableQty": 30
     },
     {
       "PartNumber": "TMGOEOCI4P005",
@@ -114334,7 +114478,7 @@
       "PartNumber": "TMGOEOCI4P021C",
       "Description": "TMGO Diesel Engine OilCI415W40 21L PROM",
       "Location": "Khandwa",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "PartNumber": "TMGOEOCNG011C",
