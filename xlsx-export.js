@@ -1,75 +1,9 @@
 (() => {
   "use strict";
-
-  function safeFileName() {
-    const now = new Date();
-    const pad = value => String(value).padStart(2, "0");
-    return `Somani_Stock_${now.getFullYear()}-${pad(now.getMonth() + 1)}-${pad(now.getDate())}_${pad(now.getHours())}-${pad(now.getMinutes())}.xlsx`;
-  }
-
-  function setStatus(text, isError = false) {
-    const status = document.getElementById("exportStatus");
-    if (status) {
-      status.textContent = text;
-      status.style.color = isError ? "#b42318" : "";
-    }
-  }
-
-  function exportVisibleTableToXlsx(event) {
-    event.preventDefault();
-    event.stopImmediatePropagation();
-
-    try {
-      if (!window.XLSX) {
-        throw new Error("XLSX library did not load. Check the internet connection and reload the dashboard.");
-      }
-
-      const table = document.querySelector(".table-scroll table") || document.querySelector("table");
-      if (!table) {
-        throw new Error("Stock table was not found.");
-      }
-
-      const bodyRows = table.querySelectorAll("tbody tr");
-      if (!bodyRows.length) {
-        throw new Error("There are no displayed stock rows to export.");
-      }
-
-      const workbook = XLSX.utils.table_to_book(table, {
-        sheet: "Stock",
-        raw: true
-      });
-
-      const worksheet = workbook.Sheets[workbook.SheetNames[0]];
-      if (worksheet && worksheet["!ref"]) {
-        worksheet["!autofilter"] = { ref: worksheet["!ref"] };
-      }
-
-      XLSX.writeFile(workbook, safeFileName(), {
-        bookType: "xlsx",
-        compression: true
-      });
-
-      setStatus("Excel .xlsx file downloaded successfully.");
-    } catch (error) {
-      console.error("XLSX export failed", error);
-      setStatus(error.message || "Excel export failed.", true);
-    }
-  }
-
-  function initializeXlsxExport() {
-    const button = document.getElementById("exportExcel");
-    if (!button) {
-      console.error("exportExcel button was not found");
-      return;
-    }
-
-    button.textContent = "Excel (.xlsx)";
-    button.addEventListener("click", exportVisibleTableToXlsx, true);
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initializeXlsxExport, { once: true });
-  } else {
-    initializeXlsxExport();
-  }
+  function safeFileName(){const n=new Date(),p=v=>String(v).padStart(2,"0");return `Somani_Stock_${n.getFullYear()}-${p(n.getMonth()+1)}-${p(n.getDate())}_${p(n.getHours())}-${p(n.getMinutes())}.xlsx`}
+  function status(t,e=false){const x=document.getElementById("exportStatus");if(x){x.textContent=t;x.style.color=e?"#b42318":""}}
+  async function validPassword(){const box=document.getElementById("exportPassword");if(!box)return true;const bytes=new TextEncoder().encode(box.value),digest=await crypto.subtle.digest("SHA-256",bytes),hash=[...new Uint8Array(digest)].map(b=>b.toString(16).padStart(2,"0")).join("");return hash==="cd08fd629edf86b440567a78e34558009e708d619c966e2c9446bc07c45f2c96"}
+  async function exportAll(event){event.preventDefault();event.stopImmediatePropagation();try{if(!await validPassword())throw Error("Incorrect export password.");if(!window.XLSX)throw Error("XLSX library did not load. Reload while connected to the internet.");const api=window.StockDashboardExport;if(!api||typeof api.getMatrix!=="function")throw Error("Dashboard export data is not ready.");const matrix=api.getMatrix();if(!matrix||matrix.length<2)throw Error("There are no matching stock rows to export.");const ws=XLSX.utils.aoa_to_sheet(matrix);if(ws["!ref"])ws["!autofilter"]={ref:ws["!ref"]};ws["!freeze"]={xSplit:2,ySplit:1};const wb=XLSX.utils.book_new();XLSX.utils.book_append_sheet(wb,ws,"Stock");XLSX.writeFile(wb,safeFileName(),{bookType:"xlsx",compression:true});status(`Excel .xlsx exported ${matrix.length-1} part numbers.`)}catch(err){console.error(err);status(err.message||"Excel export failed.",true)}}
+  function init(){const b=document.getElementById("exportExcel");if(!b)return;b.textContent="Excel (.xlsx) - All filtered";b.addEventListener("click",exportAll,true)}
+  document.readyState==="loading"?document.addEventListener("DOMContentLoaded",init,{once:true}):init();
 })();
