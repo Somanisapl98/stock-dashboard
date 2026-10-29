@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "28-10-2026 01:31:06 PM",
+  "lastUpdated": "29-10-2026 11:45:15 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -1594,6 +1594,12 @@
       "Description": "TN-01056RMPSD0000C1-BAJAJ PULSAR 200NS RING MOUNT PPC STD (STD)",
       "Location": "Korba",
       "AvailableQty": 10
+    },
+    {
+      "PartNumber": "01057MKLSD0000C1",
+      "Description": "TN-01057MKLSD0000C1-BAJAJ PULSAR 150CC BS4-CYL. KIT(BLK)",
+      "Location": "Raipur",
+      "AvailableQty": 12
     },
     {
       "PartNumber": "01057MKLSD0000C1",
@@ -5286,12 +5292,6 @@
       "AvailableQty": 1
     },
     {
-      "PartNumber": "03500PPCSD0000C1",
-      "Description": "TN-03500PPCSD0000C1-TATA SPACIO EURO II",
-      "Location": "Raipur",
-      "AvailableQty": 4
-    },
-    {
       "PartNumber": "03501PPCSD0000C1",
       "Description": "TN-03501PPCSD0000C1-TATA SPACIO 4SP NA EURO 2 & 3",
       "Location": "Raipur",
@@ -5343,12 +5343,6 @@
       "PartNumber": "03523MP0SD0000C4",
       "Description": "TN-03523MP0SD0000C4-HYUNDAI CRETA (U16) DSL",
       "Location": "Jabalpur",
-      "AvailableQty": 4
-    },
-    {
-      "PartNumber": "03540MPLSD0000C4",
-      "Description": "TN-03540MPLSD0000C4-FORD FIESTA / FIGO (D)",
-      "Location": "Raipur",
       "AvailableQty": 4
     },
     {
@@ -5464,12 +5458,6 @@
       "Description": "TN-04050PPCSD0000C1-LEYLAND 401 EURO (AL6.65)",
       "Location": "Indore",
       "AvailableQty": 2
-    },
-    {
-      "PartNumber": "04131PPCSD0000C1",
-      "Description": "TN-04131PPCSD0000C1-EICHER TCI EURO III (4.95 LTR)",
-      "Location": "Raipur",
-      "AvailableQty": 4
     },
     {
       "PartNumber": "04131PPCSD0000C1",
@@ -5625,7 +5613,7 @@
       "PartNumber": "04333KPLSD0000C2",
       "Description": "TN-04333KPLSD0000C2-TATA ACE KIT",
       "Location": "Jabalpur",
-      "AvailableQty": 50
+      "AvailableQty": 48
     },
     {
       "PartNumber": "04333PPCSD0000C1",
@@ -5751,7 +5739,7 @@
       "PartNumber": "04381MPLSD0000C4",
       "Description": "TN-04381MPLSD0000C4-MAHINDRA SCORPIO (MHAWK)",
       "Location": "Jabalpur",
-      "AvailableQty": 25
+      "AvailableQty": 24
     },
     {
       "PartNumber": "04381PPCSD0000C1",
@@ -6339,7 +6327,7 @@
       "PartNumber": "05815PPCSDCG00C1",
       "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Raipur",
-      "AvailableQty": 71
+      "AvailableQty": 61
     },
     {
       "PartNumber": "05815PPCSDCG00C1",
@@ -6612,12 +6600,6 @@
       "AvailableQty": 1
     },
     {
-      "PartNumber": "07256PPCSD0000C1",
-      "Description": "TN-07256PPCSD0000C1-Ashok Ley Neptune BS6",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
       "PartNumber": "07270PPCSD0000C1",
       "Description": "TN-07270PPCSD0000C1-LEY 402 MOD",
       "Location": "Raipur",
@@ -6663,7 +6645,7 @@
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Indore",
-      "AvailableQty": 16
+      "AvailableQty": 14
     },
     {
       "PartNumber": "07308PPCSD0000C1",
@@ -6699,7 +6681,7 @@
       "PartNumber": "07309PPCSD0000C1",
       "Description": "TN-07309PPCSD0000C1-HINO 6CTI EURO 3 (87KW)",
       "Location": "Indore",
-      "AvailableQty": 7
+      "AvailableQty": 5
     },
     {
       "PartNumber": "07309PPCSD0000C1",
@@ -6747,7 +6729,7 @@
       "PartNumber": "07312PPCSD0000C1",
       "Description": "TN-07312PPCSD0000C1-ASHOK LEYLAND HINO EURO IV (5.7L)-PISTON",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 9
     },
     {
       "PartNumber": "07312PPCSD0000C1",
@@ -53559,7 +53541,7 @@
       "PartNumber": "4030816",
       "Description": "HOLSET-4030816-CHRA-HX35W",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 8
     },
     {
       "PartNumber": "4031353",
@@ -53589,7 +53571,7 @@
       "PartNumber": "4031734",
       "Description": "HOLSET-4031734-CHRA-HX35W",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "PartNumber": "4031746",
@@ -59655,7 +59637,7 @@
       "PartNumber": "5327CKS-SD",
       "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Indore",
-      "AvailableQty": 31
+      "AvailableQty": 29
     },
     {
       "PartNumber": "5327CKS-SD",
@@ -59769,7 +59751,7 @@
       "PartNumber": "5328CKSPLUS-SD",
       "Description": "TN-5328CKSPLUS-SD-Harvestor III -102mm",
       "Location": "Raigarh",
-      "AvailableQty": 4
+      "AvailableQty": 1
     },
     {
       "PartNumber": "5328CKSPLUS-SD",
@@ -59817,7 +59799,7 @@
       "PartNumber": "5328MOLYPLUS-SD",
       "Description": "TN-5328MOLYPLUS-SD-HARVESTER EURO III",
       "Location": "Raigarh",
-      "AvailableQty": 7
+      "AvailableQty": 4
     },
     {
       "PartNumber": "5328MOLYPLUS-SD",
@@ -76437,13 +76419,13 @@
       "PartNumber": "6152TGDFCES-SD",
       "Description": "TN-6152TGDFCES-SD-NEPTUNE Dia 112 RING SET",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "PartNumber": "6154CKS-SD",
       "Description": "TN-6154CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
       "Location": "Raipur",
-      "AvailableQty": 55
+      "AvailableQty": 51
     },
     {
       "PartNumber": "6154CKS-SD",
@@ -76485,7 +76467,7 @@
       "PartNumber": "6154RRR-SD",
       "Description": "TN-6154RRR-SD-HINO WO 6ETI EURO III-104MM (RRR)",
       "Location": "Indore",
-      "AvailableQty": 17
+      "AvailableQty": 15
     },
     {
       "PartNumber": "6154RRR-SD",
@@ -76521,7 +76503,7 @@
       "PartNumber": "6155CKS-SD",
       "Description": "TN-6155CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
       "Location": "Indore",
-      "AvailableQty": 28
+      "AvailableQty": 26
     },
     {
       "PartNumber": "6155CKS-SD",
@@ -76539,7 +76521,7 @@
       "PartNumber": "6201-2RS1/C3",
       "Description": "SKF-6201-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 22
     },
     {
       "PartNumber": "6202",
@@ -76588,6 +76570,12 @@
       "Description": "SKF-6206-2Z/C3-DGBB",
       "Location": "Raipur",
       "AvailableQty": 1
+    },
+    {
+      "PartNumber": "6207-2RS1/C3",
+      "Description": "SKF-6207-2RS1/C3-DGBB",
+      "Location": "Raipur",
+      "AvailableQty": 10
     },
     {
       "PartNumber": "6207-2Z/C3",
@@ -76689,7 +76677,7 @@
       "PartNumber": "6303-2RS1/C3",
       "Description": "SKF-6303-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "PartNumber": "6304-2RS1/C3",
@@ -77062,12 +77050,6 @@
       "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Jabalpur",
       "AvailableQty": 14
-    },
-    {
-      "PartNumber": "6873TKIDCES-LD",
-      "Description": "TN-6873TKIDCES-LD-TATA 4DL_83.1",
-      "Location": "Raipur",
-      "AvailableQty": 10
     },
     {
       "PartNumber": "6873TKIDCES-SD",
@@ -81219,7 +81201,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Korba",
-      "AvailableQty": 580
+      "AvailableQty": 565
     },
     {
       "PartNumber": "886399000003",
@@ -91467,7 +91449,7 @@
       "PartNumber": "A061L204-RX",
       "Description": "CCC-A061L204-RX -INJECTOR,DOSER-573714110197",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "PartNumber": "A061L204-RX",
@@ -91857,7 +91839,7 @@
       "PartNumber": "A062U285-RX",
       "Description": "CCC-A062U285-RX-RECON SENSOR,NITROGEN OXIDE-573714110126",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "PartNumber": "A062U285-RX",
@@ -92481,7 +92463,7 @@
       "PartNumber": "A066V796",
       "Description": "CCC-A066V796-SENSOR,NITROGEN OXIDE",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "PartNumber": "A066V798",
@@ -92529,7 +92511,7 @@
       "PartNumber": "A067C431-RX",
       "Description": "CCC-A067C431-RX-RECON MODULE,DPF CATALYST-570114110235",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "A067C431-RX",
@@ -93159,7 +93141,7 @@
       "PartNumber": "ACL000213B0050",
       "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Raigarh",
-      "AvailableQty": 92
+      "AvailableQty": 72
     },
     {
       "PartNumber": "ACL000213B0050",
@@ -93172,6 +93154,12 @@
       "Description": "TN-ACL000317A0010-RAIDIATOR COOLANT GREEN",
       "Location": "Indore",
       "AvailableQty": 100
+    },
+    {
+      "PartNumber": "ACL00213A0010-P",
+      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
+      "Location": "Raipur",
+      "AvailableQty": 60
     },
     {
       "PartNumber": "ACL00213A0010-P",
@@ -93238,6 +93226,12 @@
       "Description": "TN-ACL00213A0030-R-RADIATOR COOLANT CONC 13 - 3.0 LTR RED",
       "Location": "Jabalpur",
       "AvailableQty": 120
+    },
+    {
+      "PartNumber": "ACL00213A0050-R",
+      "Description": "TN-ACL00213A0050-R-RADIATOR COOLANT CONC 1:3 - 5.0 LTR RED",
+      "Location": "Raipur",
+      "AvailableQty": 4
     },
     {
       "PartNumber": "ACL00213A0050-R",
@@ -93309,7 +93303,7 @@
       "PartNumber": "CBA590003",
       "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "CBA590003",
@@ -95193,7 +95187,7 @@
       "PartNumber": "FLY590H13",
       "Description": "RSB-FLY590H13-590H FLANGE YOKE",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "PartNumber": "FLY620009",
@@ -95335,13 +95329,7 @@
     },
     {
       "PartNumber": "FPAT02CV1669",
-      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS",
-      "Location": "Raipur",
-      "AvailableQty": 2
-    },
-    {
-      "PartNumber": "FPAT02CV1669",
-      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS",
+      "Description": "TN-FPAT02CV1669-TATA CUMMINS 6BTAA-24V TATA LP 1210 BUS / 28 LP 1312 TC / LP 1512 TC / LP",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -95368,12 +95356,6 @@
       "Description": "TN-FPSR02CV4055-TATA CUMMINS 6BT - TC 24V",
       "Location": "Indore",
       "AvailableQty": 3
-    },
-    {
-      "PartNumber": "FPSR02CV4060",
-      "Description": "TN-FPSR02CV4060-TATA CUMMINS HD10 TCL 6BT",
-      "Location": "Raipur",
-      "AvailableQty": 2
     },
     {
       "PartNumber": "FPSR02CV4060",
@@ -96435,7 +96417,7 @@
       "PartNumber": "INA590H07",
       "Description": "RSB-INA590H07-590 H Inter Axle Shaft",
       "Location": "Indore",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "PartNumber": "INA620001",
@@ -97820,8 +97802,8 @@
     {
       "PartNumber": "RH0585018",
       "Description": "RSB-RH0585018-585 JT. REAR HSG. 0 LENGTH (160 SLIP)",
-      "Location": "Raipur",
-      "AvailableQty": 1
+      "Location": "Tata Motors - Raipur",
+      "AvailableQty": 2
     },
     {
       "PartNumber": "RH0585018",
@@ -98421,7 +98403,7 @@
       "PartNumber": "SRF28175B",
       "Description": "RSB-SRF28175B-5th Wheel Coupling",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "PartNumber": "SU16M-017",
@@ -98553,7 +98535,7 @@
       "PartNumber": "TMGOCI4P15W40",
       "Description": "TM-TMGOCI4P15W40-TMGO DIESEL OIL ENGINE CI4 PLUS 15W40",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 12
     },
     {
       "PartNumber": "TMGOCI4P15W40",
@@ -98571,7 +98553,7 @@
       "PartNumber": "TMGOCI4P15W40",
       "Description": "TM-TMGOCI4P15W40-TMGO DIESEL OIL ENGINE CI4 PLUS 15W40",
       "Location": "Tata Motors - Jagdalpur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "PartNumber": "TMGOCI4P15W40",
@@ -98937,7 +98919,7 @@
       "PartNumber": "TMGOEOCI4P015C",
       "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
       "Location": "Indore Tata Motors",
-      "AvailableQty": 65
+      "AvailableQty": 61
     },
     {
       "PartNumber": "TMGOEOCI4P015C",
@@ -99291,7 +99273,7 @@
       "PartNumber": "UVJ590008",
       "Description": "RSB-UVJ590008-590 Jt UJ Cross (Greasable)",
       "Location": "Indore",
-      "AvailableQty": 17
+      "AvailableQty": 16
     },
     {
       "PartNumber": "UVJ592001",
