@@ -20,7 +20,7 @@ String(value || "")
 .filter(Boolean)
 )];
 }
-function baseFiltered(){const q=norm(E.search.value);return state.rows.filter(r=>(!q||norm(r.brand).includes(q)||norm(r.part).includes(q)||norm(r.desc).includes(q))&&(!state.multiParts||state.multiParts.has(norm(r.part)))&&(!activeBrandFilter()||brandFilterSelection.has(txt(r.brand))))}
+function baseFiltered(){const q=norm(E.search.value),allBrandCount=brandNames().length,filterBrands=brandFilterInitialized&&brandFilterSelection.size<allBrandCount;return state.rows.filter(r=>(!q||norm(r.brand).includes(q)||norm(r.part).includes(q)||norm(r.desc).includes(q))&&(!state.multiParts||state.multiParts.has(norm(r.part)))&&(!filterBrands||brandFilterSelection.has(txt(r.brand))))}
 function visibleLocations(rows){return state.locations.filter(loc=>rows.some(r=>num(r.quantities[loc])>0))}
 function filtered(){const rows=baseFiltered(),key=state.sortKey,dir=state.sortDir;rows.sort((a,b)=>{let av,bv;if(key==="part"){av=a.part;bv=b.part}else if(key==="desc"){av=a.desc;bv=b.desc}else if(key==="total"){av=a.total;bv=b.total}else{av=num(a.quantities[key]);bv=num(b.quantities[key])}return typeof av==="number"?(av-bv)*dir:txt(av).localeCompare(txt(bv),undefined,{numeric:true,sensitivity:"base"})*dir});return rows}
 function arrow(k){return state.sortKey===k?(state.sortDir===1?" ▲":" ▼"):""}function sortBy(k){state.sortKey===k?state.sortDir*=-1:(state.sortKey=k,state.sortDir=1);state.page=1;render()}
