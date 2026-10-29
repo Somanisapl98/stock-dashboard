@@ -10,14 +10,14 @@
 
   <meta
     name="theme-color"
-    content="#101722"
+    content="#f4f7fb"
   >
 
   <title>Somani Auto Stock Dashboard</title>
 
   <link
     rel="stylesheet"
-    href="dashboard.css?v=20261029-brandfilter1"
+    href="dashboard.css?v=20261029-redesign1"
   >
   <link rel="stylesheet" href="simple-login.css">
 </head>
@@ -60,6 +60,8 @@
         Refresh now
       </button>
 
+      <button id="dashboardLogout" class="btn secondary" type="button">Log out</button>
+
     </div>
 
   </header>
@@ -72,10 +74,10 @@
       <div class="field search-wrap">
 
         <label for="searchInput">
-          Search part number or description
+          Search stock
         </label>
 
-        <input id="searchInput" name="stock_part_number_search" type="search" value="" autocomplete="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" placeholder="Type a part number or description">
+        <input id="searchInput" name="stock_part_number_search" type="search" value="" autocomplete="off" autocapitalize="off" spellcheck="false" data-lpignore="true" data-form-type="other" placeholder="Search brand, part number or description">
 
         <div
           id="suggestions"
