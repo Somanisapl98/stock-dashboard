@@ -366,3 +366,52 @@
     text-overflow:clip!important;
   }
 }
+
+
+/* ===== mobile one-line description toggle fix ===== */
+@media(max-width:720px){
+  .mobile-stock-description{
+    display:block!important;
+    width:100%!important;
+    max-width:100%!important;
+    max-height:none!important;
+    margin:7px 0 4px!important;
+    overflow:hidden!important;
+    color:#a9b7c8!important;
+    font-size:14px!important;
+    line-height:1.45!important;
+    white-space:nowrap!important;
+    text-overflow:ellipsis!important;
+    overflow-wrap:normal!important;
+    word-break:normal!important;
+    -webkit-line-clamp:unset!important;
+    -webkit-box-orient:initial!important;
+  }
+
+  .mobile-stock-description.expanded{
+    max-height:none!important;
+    overflow:visible!important;
+    white-space:normal!important;
+    text-overflow:clip!important;
+    overflow-wrap:anywhere!important;
+    word-break:break-word!important;
+  }
+
+  .mobile-description-toggle{
+    display:inline-flex!important;
+    align-items:center!important;
+    justify-content:center!important;
+    width:auto!important;
+    min-width:0!important;
+    min-height:36px!important;
+    margin:7px 0 13px!important;
+    padding:8px 12px!important;
+    border:1px solid rgba(74,160,255,.38)!important;
+    border-radius:10px!important;
+    background:rgba(35,136,255,.12)!important;
+    color:#88c5ff!important;
+    font:800 12px/1.1 Inter,Segoe UI,Arial,sans-serif!important;
+    white-space:nowrap!important;
+    cursor:pointer!important;
+  }
+}
