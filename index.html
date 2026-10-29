@@ -17,28 +17,35 @@
 
   <link
     rel="stylesheet"
-    href="dashboard.css?v=20261029-premiumblack1"
+    href="dashboard.css?v=20261029-portal1"
   >
-  <link rel="stylesheet" href="simple-login.css">
+  <link rel="stylesheet" href="simple-login.css?v=20261029-portal1">
 </head>
 
 <body>
+<div class="ambient ambient-one"></div><div class="ambient ambient-two"></div>
 <div id="loginGate" aria-label="Dashboard login"><form id="loginForm" class="login-card"><h1>Stock Dashboard Login</h1><p>Enter the authorized user ID and password.</p><label for="loginUser">User ID</label><input id="loginUser" name="username" type="email" autocomplete="username" required><label for="loginPassword">Password</label><input id="loginPassword" name="password" type="password" autocomplete="current-password" required><button type="submit">Open dashboard</button><div id="loginMessage" role="alert"></div></form></div>
 
 
-  <header class="masthead">
+  <nav class="portal-nav">
+  <a class="portal-brand" href="#" aria-label="Somani Auto Stock Dashboard">
+    <span class="brand-mark">SA</span>
+    <span><strong>SOMANI AUTO</strong><small>INVENTORY PORTAL</small></span>
+  </a>
+  <div class="nav-links"><a href="#overview">Overview</a><a href="#stockResults">Stock</a><a href="#multiSearchPanel">Bulk Search</a></div>
+  <div class="nav-live"><span class="live-dot"></span> Live inventory</div>
+</nav>
+<header class="masthead" id="overview">
 
     <div>
-      <p class="eyebrow">
-        SOMANI AUTO · CV TATA
-      </p>
+      <p class="eyebrow">CENTRAL INVENTORY COMMAND</p>
 
       <h1>
-        Stock Availability Dashboard
+        Inventory Intelligence
       </h1>
 
       <p class="subtitle">
-        Search and compare stock across all locations
+        Real-time stock visibility across brands, parts and branches
       </p>
     </div>
 
@@ -130,7 +137,7 @@
     </section>
 
     <!-- Multiple part-number search -->
-    <section class="panel multi-panel">
+    <section class="panel multi-panel" id="multiSearchPanel">
 
       <div class="multi-head">
 
@@ -148,7 +155,7 @@
 
         </div>
 
-        <div class="actions">
+        <div class="actions"><button id="toggleMultiPanel" class="btn ghost" type="button">Open bulk search</button>
 
           <button
             id="applyMulti"
@@ -170,7 +177,7 @@
 
       </div>
 
-      <div class="multi-wrap">
+      <div class="multi-wrap multi-collapsible">
 
         <textarea
           id="multiInput"
@@ -348,9 +355,9 @@
   </footer>
 
   <!-- Main dashboard functionality -->
-  <script src="dashboard.js?v=20261029-brandfilter-speed2"></script>
+  <script src="dashboard.js?v=20261029-portal1"></script>
 <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
-<script src="xlsx-export.js?v=20261029-brand1"></script>
+<script src="xlsx-export.js?v=20261029-portal1"></script>
 <script src="simple-login.js?v=20261010-per-user"></script>
 
 </body>
