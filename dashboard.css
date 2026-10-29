@@ -62,3 +62,46 @@ main{width:min(1500px,calc(100% - 32px))!important}
   .multi-head .actions .btn{flex:1 1 120px}
   .stats{grid-template-columns:repeat(2,minmax(0,1fr))!important}
 }
+
+
+/* ===== brand checkbox alignment fix ===== */
+.brand-filter-option{
+  display:grid!important;
+  grid-template-columns:20px minmax(0,1fr)!important;
+  align-items:center!important;
+  gap:10px!important;
+  min-height:38px;
+  padding:7px 8px!important;
+}
+.brand-filter-option input[type="checkbox"]{
+  appearance:auto!important;
+  -webkit-appearance:checkbox!important;
+  box-sizing:border-box!important;
+  display:block!important;
+  flex:none!important;
+  width:18px!important;
+  min-width:18px!important;
+  max-width:18px!important;
+  height:18px!important;
+  min-height:18px!important;
+  max-height:18px!important;
+  margin:0!important;
+  padding:0!important;
+  border:0!important;
+  border-radius:3px!important;
+  background:transparent!important;
+  box-shadow:none!important;
+  accent-color:#1668d4!important;
+}
+.brand-filter-option span{
+  display:block;
+  min-width:0;
+  color:#263650;
+  font-size:13px;
+  font-weight:700;
+  line-height:1.25;
+  overflow-wrap:anywhere;
+}
+.brand-filter-options{padding:2px;gap:2px!important}
+.brand-filter-menu{overflow:hidden}
+.brand-filter-menu[hidden]{display:none!important}
