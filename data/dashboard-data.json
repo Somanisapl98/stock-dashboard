@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "29-10-2026 02:44:49 PM",
+  "lastUpdated": "30-10-2026 11:45:19 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -211,13 +211,6 @@
       "PartNumber": "00881T0LINSDC1",
       "Description": "TN-00881T0LINSDC1-HARVESTER 102MM -COLLAR TYPE (CW 6MM)",
       "Location": "Indore",
-      "AvailableQty": 12
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "0088FF0LINSDC1",
-      "Description": "TN-0088FF0LINSDC1HARVESTER 102 Collar",
-      "Location": "Jabalpur",
       "AvailableQty": 12
     },
     {
@@ -5811,7 +5804,7 @@
       "PartNumber": "03091MPLSD000EC3",
       "Description": "TN-03091MPLSD000EC3-CYL LINER KIT-MARUTI 800 EURO (W/O TC)",
       "Location": "Jabalpur",
-      "AvailableQty": 18
+      "AvailableQty": 8
     },
     {
       "Brand": "DRiV - LV",
@@ -6140,7 +6133,7 @@
       "PartNumber": "03492MPLSD0000C3",
       "Description": "TN-03492MPLSD0000C3-CYL LINER KIT-A STAR/ZEN/ESTILO",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "Brand": "DRiV - LV",
@@ -6805,7 +6798,7 @@
       "PartNumber": "04417MPLSD0000C3",
       "Description": "TN-04417MPLSD0000C3-LINER KIT-MAHINDRA TUV 300",
       "Location": "Jabalpur",
-      "AvailableQty": 34
+      "AvailableQty": 14
     },
     {
       "Brand": "DRiV - LV",
@@ -6900,17 +6893,10 @@
     },
     {
       "Brand": "DRiV - CTOH",
-      "PartNumber": "04653PPCSD0000C1",
-      "Description": "TN-04653PPCSD0000C1-TATA 92 DIA GROUND",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "DRiV - CTOH",
       "PartNumber": "04660PPCSD0000C1",
       "Description": "TN-04660PPCSD0000C1-TATA 609/709/809-TC EURO",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7757,7 +7743,7 @@
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7855,7 +7841,7 @@
       "PartNumber": "07312PPCSD0000C1",
       "Description": "TN-07312PPCSD0000C1-ASHOK LEYLAND HINO EURO IV (5.7L)-PISTON",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 7
     },
     {
       "Brand": "DRiV - CTOH",
@@ -11635,7 +11621,7 @@
       "PartNumber": "220747709902",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS3/4",
       "Location": "Khandwa",
-      "AvailableQty": 22
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
@@ -33507,13 +33493,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "272425200215",
-      "Description": "CLUTCH DISC 380 DIA. BS2/3/4/6",
-      "Location": "Khandwa",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "272425200216",
       "Description": "ASSY. CLUTCH DISC 280 DIA. BS2/3/4/6",
       "Location": "Raipur",
@@ -44724,7 +44703,7 @@
       "PartNumber": "278609999822",
       "Description": "FUEL FILTER ELEMENT BS3/4",
       "Location": "Khandwa",
-      "AvailableQty": 12
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -46831,7 +46810,7 @@
       "PartNumber": "278618999994",
       "Description": "OIL FILTER ELEMENT SPINON BS4",
       "Location": "Khandwa",
-      "AvailableQty": 19
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -69532,7 +69511,7 @@
       "PartNumber": "5311PB-SD",
       "Description": "TN-5311PB-SD-TATA AC 70mm(BULK PACK 25 SETS)",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "Brand": "DRiV - LV",
@@ -69861,7 +69840,7 @@
       "PartNumber": "5328CKS-SD",
       "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Raigarh",
-      "AvailableQty": 29
+      "AvailableQty": 28
     },
     {
       "Brand": "DRiV - CTOH",
@@ -70008,7 +69987,7 @@
       "PartNumber": "5331PLATINUMPWR-SD",
       "Description": "TN-5331PLATINUMPWR-SD-TATA CUMMINS 6BT EURO IV (PVD)",
       "Location": "Raipur",
-      "AvailableQty": 38
+      "AvailableQty": 30
     },
     {
       "Brand": "DRiV - CTOH",
@@ -72927,7 +72906,7 @@
       "PartNumber": "5572GTP-SD",
       "Description": "TN-5572GTP-SD-MARUTI SUZUKI EECO",
       "Location": "Jabalpur",
-      "AvailableQty": 14
+      "AvailableQty": 9
     },
     {
       "Brand": "DRiV - LV",
@@ -84701,7 +84680,7 @@
       "PartNumber": "5738GTP-SD",
       "Description": "TN-5738GTP-SD- TATA NEXON PETROL (PISTON RING)",
       "Location": "Jabalpur",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89825,7 +89804,7 @@
       "PartNumber": "6780MOLYGLDSTR-SD",
       "Description": "TN-6780MOLYGLDSTR-SD-Ashok Leyand Nissan Dost",
       "Location": "Jabalpur",
-      "AvailableQty": 11
+      "AvailableQty": 2
     },
     {
       "Brand": "DRiV - LV",
@@ -90091,7 +90070,7 @@
       "PartNumber": "6872CKS-SD",
       "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Raipur",
-      "AvailableQty": 66
+      "AvailableQty": 62
     },
     {
       "Brand": "DRiV - CTOH",
@@ -90539,7 +90518,7 @@
       "PartNumber": "8415DCES-SD",
       "Description": "TN-8415DCES-SD-BD-154 / DI 3200_88.9",
       "Location": "Jabalpur",
-      "AvailableQty": 32
+      "AvailableQty": 12
     },
     {
       "Brand": "DRiV - LV",
@@ -107738,7 +107717,7 @@
       "PartNumber": "A064E128-RX",
       "Description": "CCC-A064E128-RX-RECON SENSOR,NITROGEN OXIDE-570114110255",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "CCC",
@@ -108998,7 +108977,7 @@
       "PartNumber": "ACL00213A0010-R",
       "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Jabalpur",
-      "AvailableQty": 155
+      "AvailableQty": 55
     },
     {
       "Brand": "DRiV - CTOH",
@@ -109082,7 +109061,7 @@
       "PartNumber": "CBA490002",
       "Description": "RSB-CBA490002-490 CENTRE BEARING ASSY.3118,2518,SOLID RUBBER HSG (65 DIA BRG)",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 6
     },
     {
       "Brand": "RSB",
@@ -109094,14 +109073,7 @@
     {
       "Brand": "RSB",
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
-      "Location": "Korba",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "RSB",
-      "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
+      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -109229,7 +109201,7 @@
       "PartNumber": "CBK590004",
       "Description": "RSB-CBK590004-590 JOINT CENTER BRG. U BKT. ASSY.",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 4
     },
     {
       "Brand": "RSB",
@@ -110720,7 +110692,7 @@
       "PartNumber": "FHBHSM6.0A2",
       "Description": "TN-FHBHSM6.0A2-STD ASHOK LEYLAND 6 FR/RR WITH RIVET",
       "Location": "Jabalpur",
-      "AvailableQty": 24
+      "AvailableQty": 4
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -112771,7 +112743,7 @@
       "PartNumber": "IS260045957",
       "Description": "3M-IS260045957-3M Foaming Car Interior Cleane",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 10
     },
     {
       "Brand": "3M",
@@ -113275,7 +113247,7 @@
       "PartNumber": "LFS590H09",
       "Description": "RSB-LFS590H09-590H LONG FORK 160 SLIP SUB ASSY",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "RSB",
@@ -114332,7 +114304,7 @@
       "PartNumber": "RH0490M01",
       "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "Brand": "RSB",
@@ -114416,7 +114388,7 @@
       "PartNumber": "RH0590H07",
       "Description": "RSB-RH0590H07-590H 170 Slip Rear housing ZERO LENGTH",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "RSB",
@@ -115662,7 +115634,7 @@
       "PartNumber": "TMGOEOCI4P015C",
       "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
       "Location": "Indore Tata Motors",
-      "AvailableQty": 61
+      "AvailableQty": 54
     },
     {
       "Brand": "TATA MOTORS",
@@ -116509,7 +116481,7 @@
       "PartNumber": "VKS 7143 MS",
       "Description": "SKF-VKS 7143 MS-FRONT HUB SEAL (M) (AXLE AND WHEEL END) 75X100X10",
       "Location": "Raipur",
-      "AvailableQty": 71
+      "AvailableQty": 51
     },
     {
       "Brand": "SKF",
@@ -116523,14 +116495,14 @@
       "PartNumber": "VKS 7145 MS",
       "Description": "SKF-VKS 7145 MS-REAR HUB OUTER SEAL(M) 70X90X7",
       "Location": "Raipur",
-      "AvailableQty": 65
+      "AvailableQty": 45
     },
     {
       "Brand": "SKF",
       "PartNumber": "VKS 7146 MS",
       "Description": "SKF-VKS 7146 MS-REAR HUB INNER SEAL (M) (AXLE AND WHEEL END) 75X95X13",
       "Location": "Raipur",
-      "AvailableQty": 94
+      "AvailableQty": 74
     },
     {
       "Brand": "SKF",
