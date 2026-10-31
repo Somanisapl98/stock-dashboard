@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "31-10-2026 02:00:31 PM",
+  "lastUpdated": "31-10-2026 02:26:14 PM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -568,7 +568,7 @@
       "PartNumber": "01018MPKAD0000C1",
       "Description": "TN-01018MPKAD0000C1-HONDA SHINE (10)",
       "Location": "Korba",
-      "AvailableQty": 25
+      "AvailableQty": 15
     },
     {
       "Brand": "DRiV - 2W",
@@ -582,7 +582,7 @@
       "PartNumber": "01018MPKBD0000C1",
       "Description": "TN-01018MPKBD0000C1-HONDA SHINE (20)",
       "Location": "Korba",
-      "AvailableQty": 44
+      "AvailableQty": 30
     },
     {
       "Brand": "DRiV - 2W",
@@ -596,7 +596,7 @@
       "PartNumber": "01018MPKCD0000C1",
       "Description": "TN-01018MPKCD0000C1-HONDA SHINE (30)",
       "Location": "Korba",
-      "AvailableQty": 47
+      "AvailableQty": 44
     },
     {
       "Brand": "DRiV - 2W",
@@ -638,7 +638,7 @@
       "PartNumber": "01019MKLSD0000C1",
       "Description": "TN-01019MKLSD0000C1-HONDA UNICORN KIT SILVER",
       "Location": "Korba",
-      "AvailableQty": 12
+      "AvailableQty": 9
     },
     {
       "Brand": "DRiV - 2W",
@@ -652,7 +652,7 @@
       "PartNumber": "01019MPKAD0000C1",
       "Description": "TN-01019MPKAD0000C1-HONDA UNICORN (10)",
       "Location": "Korba",
-      "AvailableQty": 37
+      "AvailableQty": 32
     },
     {
       "Brand": "DRiV - 2W",
@@ -666,7 +666,7 @@
       "PartNumber": "01019MPKBD0000C1",
       "Description": "TN-01019MPKBD0000C1-HONDA UNICORN (20)",
       "Location": "Korba",
-      "AvailableQty": 30
+      "AvailableQty": 27
     },
     {
       "Brand": "DRiV - 2W",
@@ -722,7 +722,7 @@
       "PartNumber": "01021MKLSD0000C1",
       "Description": "TN-01021MKLSD0000C1-BAJAJ PULSAR 150CC DIGITAL METER",
       "Location": "Korba",
-      "AvailableQty": 12
+      "AvailableQty": 11
     },
     {
       "Brand": "DRiV - 2W",
@@ -876,7 +876,7 @@
       "PartNumber": "01023MPKAD0000C1",
       "Description": "TN-01023MPKAD0000C1-TVS SCOOTY PEP PLUS (10)",
       "Location": "Korba",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "Brand": "DRiV - 2W",
@@ -890,7 +890,7 @@
       "PartNumber": "01023MPKBD0000C1",
       "Description": "TN-01023MPKBD0000C1-TVS SCOOTY PEP PLUS (20)",
       "Location": "Korba",
-      "AvailableQty": 28
+      "AvailableQty": 25
     },
     {
       "Brand": "DRiV - 2W",
@@ -904,7 +904,7 @@
       "PartNumber": "01023MPKCD0000C1",
       "Description": "TN-01023MPKCD0000C1-TVS SCOOTY PEP PLUS (30)",
       "Location": "Korba",
-      "AvailableQty": 32
+      "AvailableQty": 34
     },
     {
       "Brand": "DRiV - 2W",
@@ -1100,7 +1100,7 @@
       "PartNumber": "01032MPKBD0000C1",
       "Description": "TN-01032MPKBD0000C1-SUZUKI ACCESS 125CC OLD MODEL (20)",
       "Location": "Korba",
-      "AvailableQty": 19
+      "AvailableQty": 17
     },
     {
       "Brand": "DRiV - 2W",
@@ -1272,6 +1272,13 @@
     },
     {
       "Brand": "DRiV - 2W",
+      "PartNumber": "01041MKLSD0000C1",
+      "Description": "TN-01041MKLSD0000C1-CB TWISTER/PASSION XPRO KIT",
+      "Location": "Korba",
+      "AvailableQty": 24
+    },
+    {
+      "Brand": "DRiV - 2W",
       "PartNumber": "01041MPKAD0000C1",
       "Description": "TN-01041MPKAD0000C1-HONDA CB TWISTER (10)",
       "Location": "Raipur",
@@ -1282,7 +1289,7 @@
       "PartNumber": "01041MPKAD0000C1",
       "Description": "TN-01041MPKAD0000C1-HONDA CB TWISTER (10)",
       "Location": "Korba",
-      "AvailableQty": 29
+      "AvailableQty": 19
     },
     {
       "Brand": "DRiV - 2W",
@@ -1338,7 +1345,7 @@
       "PartNumber": "01041MPKSD0000C1",
       "Description": "TN-01041MPKSD0000C1-HONDA CB TWISTER (STD)",
       "Location": "Korba",
-      "AvailableQty": 28
+      "AvailableQty": 4
     },
     {
       "Brand": "DRiV - 2W",
@@ -1590,7 +1597,7 @@
       "PartNumber": "01050MPKAD0000C1",
       "Description": "TN-01050MPKAD0000C1-BAJAJ DISCOVER 100CC (10)",
       "Location": "Korba",
-      "AvailableQty": 65
+      "AvailableQty": 55
     },
     {
       "Brand": "DRiV - 2W",
@@ -1604,7 +1611,7 @@
       "PartNumber": "01050MPKBD0000C1",
       "Description": "TN-01050MPKBD0000C1-BAJAJ DISCOVER 100CC (20)",
       "Location": "Korba",
-      "AvailableQty": 30
+      "AvailableQty": 25
     },
     {
       "Brand": "DRiV - 2W",
@@ -1730,7 +1737,7 @@
       "PartNumber": "01055MKLSD0000C1",
       "Description": "TN-01055MKLSD0000C1-BAJAJ PLATINA 100 ES",
       "Location": "Korba",
-      "AvailableQty": 36
+      "AvailableQty": 35
     },
     {
       "Brand": "DRiV - 2W",
@@ -1744,7 +1751,7 @@
       "PartNumber": "01055MPKAD000MC1",
       "Description": "TN-01055MPKAD000MC1-BAJAJ PLATINA ES 100CC-MOLY (10)",
       "Location": "Korba",
-      "AvailableQty": 30
+      "AvailableQty": 17
     },
     {
       "Brand": "DRiV - 2W",
@@ -1758,7 +1765,7 @@
       "PartNumber": "01055MPKBD000MC1",
       "Description": "TN-01055MPKBD000MC1-BAJAJ PLATINA ES 100CC-MOLY (20)",
       "Location": "Korba",
-      "AvailableQty": 30
+      "AvailableQty": 20
     },
     {
       "Brand": "DRiV - 2W",
@@ -1870,7 +1877,7 @@
       "PartNumber": "01057MKLSD0000C1",
       "Description": "TN-01057MKLSD0000C1-BAJAJ PULSAR 150CC BS4-CYL. KIT(BLK)",
       "Location": "Korba",
-      "AvailableQty": 12
+      "AvailableQty": 11
     },
     {
       "Brand": "DRiV - 2W",
@@ -1968,7 +1975,7 @@
       "PartNumber": "01064MKLSD0000C1",
       "Description": "TN-01064MKLSD0000C1-HONDA SHINE-BS6-KIT",
       "Location": "Korba",
-      "AvailableQty": 16
+      "AvailableQty": 14
     },
     {
       "Brand": "DRiV - 2W",
@@ -1982,7 +1989,7 @@
       "PartNumber": "01064MPKAD0000C1",
       "Description": "TN-01064MPKAD0000C1-HONDA SHINE/SHINE SP125 BSVI - PPCR (10)",
       "Location": "Korba",
-      "AvailableQty": 25
+      "AvailableQty": 20
     },
     {
       "Brand": "DRiV - 2W",
@@ -3214,7 +3221,7 @@
       "PartNumber": "01380MPKAD0000C1",
       "Description": "TN-01380MPKAD0000C1-HERO HONDA GN-5 (10)",
       "Location": "Korba",
-      "AvailableQty": 3341
+      "AvailableQty": 3265
     },
     {
       "Brand": "DRiV - 2W",
@@ -3228,7 +3235,7 @@
       "PartNumber": "01380MPKBD0000C1",
       "Description": "TN-01380MPKBD0000C1-HERO HONDA GN-5 (20)",
       "Location": "Korba",
-      "AvailableQty": 1991
+      "AvailableQty": 1956
     },
     {
       "Brand": "DRiV - 2W",
@@ -3242,7 +3249,7 @@
       "PartNumber": "01380MPKCD0000C1",
       "Description": "TN-01380MPKCD0000C1-HERO HONDA GN-5 (30)",
       "Location": "Korba",
-      "AvailableQty": 1191
+      "AvailableQty": 1156
     },
     {
       "Brand": "DRiV - 2W",
@@ -3256,7 +3263,7 @@
       "PartNumber": "01380MPKDD0000C1",
       "Description": "TN-01380MPKDD0000C1-HERO HONDA GN-5 (40)",
       "Location": "Korba",
-      "AvailableQty": 309
+      "AvailableQty": 303
     },
     {
       "Brand": "DRiV - 2W",
@@ -3270,7 +3277,7 @@
       "PartNumber": "01380MPKSD0000C1",
       "Description": "TN-01380MPKSD0000C1-HERO HONDA GN-5 (STD)",
       "Location": "Korba",
-      "AvailableQty": 441
+      "AvailableQty": 421
     },
     {
       "Brand": "DRiV - 2W",
@@ -3284,7 +3291,7 @@
       "PartNumber": "01381MKLSD0000C1",
       "Description": "TN-01381MKLSD0000C1-HERO HONDA CD-100 KIT",
       "Location": "Korba",
-      "AvailableQty": 81
+      "AvailableQty": 65
     },
     {
       "Brand": "DRiV - LV",
@@ -3313,13 +3320,6 @@
       "Description": "TN-01482MPLSD0000C1-Tata Magic Iris/ Ace zip Kit",
       "Location": "Indore",
       "AvailableQty": 4
-    },
-    {
-      "Brand": "DRiV - LV",
-      "PartNumber": "01482MPLSD0000C1",
-      "Description": "TN-01482MPLSD0000C1-Tata Magic Iris/ Ace zip Kit",
-      "Location": "Jabalpur",
-      "AvailableQty": 5
     },
     {
       "Brand": "DRiV - LV",
@@ -3522,7 +3522,7 @@
       "PartNumber": "01651MKLSD0000C1",
       "Description": "TN-01651MKLSD0000C1-CYL BLOCK KIT-BAJAJ CT100",
       "Location": "Korba",
-      "AvailableQty": 64
+      "AvailableQty": 62
     },
     {
       "Brand": "DRiV - 2W",
@@ -3536,7 +3536,7 @@
       "PartNumber": "01651MPKAD0000C1",
       "Description": "TN-01651MPKAD0000C1-BAJAJ CT 100 (10)",
       "Location": "Korba",
-      "AvailableQty": 57
+      "AvailableQty": 49
     },
     {
       "Brand": "DRiV - 2W",
@@ -3550,7 +3550,7 @@
       "PartNumber": "01651MPKBD0000C1",
       "Description": "TN-01651MPKBD0000C1-BAJAJ CT 100 (20)",
       "Location": "Korba",
-      "AvailableQty": 21
+      "AvailableQty": 11
     },
     {
       "Brand": "DRiV - 2W",
@@ -3697,7 +3697,7 @@
       "PartNumber": "01789MKLSD0000C1",
       "Description": "TN-01789MKLSD0000C1-TVS XL 100 4S",
       "Location": "Korba",
-      "AvailableQty": 20
+      "AvailableQty": 18
     },
     {
       "Brand": "DRiV - 2W",
@@ -3711,7 +3711,7 @@
       "PartNumber": "01789MPKAD0000C1",
       "Description": "TN-01789MPKAD0000C1-TVS SUPER XL 4S (10)",
       "Location": "Korba",
-      "AvailableQty": 37
+      "AvailableQty": 34
     },
     {
       "Brand": "DRiV - 2W",
@@ -3725,7 +3725,7 @@
       "PartNumber": "01789MPKBD0000C1",
       "Description": "TN-01789MPKBD0000C1-TVS SUPER XL 4S (20)",
       "Location": "Korba",
-      "AvailableQty": 36
+      "AvailableQty": 32
     },
     {
       "Brand": "DRiV - 2W",
@@ -3739,7 +3739,7 @@
       "PartNumber": "01789MPKCD0000C1",
       "Description": "TN-01789MPKCD0000C1-TVS SUPER XL 4S (30)",
       "Location": "Korba",
-      "AvailableQty": 21
+      "AvailableQty": 17
     },
     {
       "Brand": "DRiV - 2W",
@@ -3753,7 +3753,7 @@
       "PartNumber": "01789MPKDD0000C1",
       "Description": "TN-01789MPKDD0000C1-TVS SUPER XL 4S (40)",
       "Location": "Korba",
-      "AvailableQty": 41
+      "AvailableQty": 26
     },
     {
       "Brand": "DRiV - 2W",
@@ -5097,7 +5097,7 @@
       "PartNumber": "01940MPKBD0000C1",
       "Description": "TN-01940MPKBD0000C1-HONDA ACTIVA 100CC (20)",
       "Location": "Korba",
-      "AvailableQty": 35
+      "AvailableQty": 31
     },
     {
       "Brand": "DRiV - 2W",
@@ -5111,7 +5111,7 @@
       "PartNumber": "01940MPKCD0000C1",
       "Description": "TN-01940MPKCD0000C1-HONDA ACTIVA 100CC (30)",
       "Location": "Korba",
-      "AvailableQty": 25
+      "AvailableQty": 21
     },
     {
       "Brand": "DRiV - 2W",
@@ -5125,7 +5125,7 @@
       "PartNumber": "01940MPKDD0000C1",
       "Description": "TN-01940MPKDD0000C1-HONDA ACTIVA 100CC (40)",
       "Location": "Korba",
-      "AvailableQty": 43
+      "AvailableQty": 39
     },
     {
       "Brand": "DRiV - 2W",
@@ -5321,7 +5321,7 @@
       "PartNumber": "01984MPKAD0000C1",
       "Description": "TN-01984MPKAD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (10)",
       "Location": "Korba",
-      "AvailableQty": 25
+      "AvailableQty": 2
     },
     {
       "Brand": "DRiV - 2W",
@@ -5335,7 +5335,7 @@
       "PartNumber": "01984MPKBD0000C1",
       "Description": "TN-01984MPKBD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (20)",
       "Location": "Korba",
-      "AvailableQty": 30
+      "AvailableQty": 26
     },
     {
       "Brand": "DRiV - 2W",
@@ -5349,7 +5349,7 @@
       "PartNumber": "01984MPKCD0000C1",
       "Description": "TN-01984MPKCD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (30)",
       "Location": "Korba",
-      "AvailableQty": 21
+      "AvailableQty": 15
     },
     {
       "Brand": "DRiV - 2W",
@@ -5363,7 +5363,7 @@
       "PartNumber": "01984MPKDD0000C1",
       "Description": "TN-01984MPKDD0000C1-HONDA ACTIVA 3G/I/DIO 110CC (40)",
       "Location": "Korba",
-      "AvailableQty": 43
+      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - 2W",
@@ -5447,7 +5447,7 @@
       "PartNumber": "01985MPKAD0000C1",
       "Description": "TN-01985MPKAD0000C1-HONDA ACTIVA 3G 125CC (10)",
       "Location": "Korba",
-      "AvailableQty": 10
+      "AvailableQty": 7
     },
     {
       "Brand": "DRiV - 2W",
@@ -5461,7 +5461,7 @@
       "PartNumber": "01985MPKBD0000C1",
       "Description": "TN-01985MPKBD0000C1-HONDA ACTIVA 3G 125CC (20)",
       "Location": "Korba",
-      "AvailableQty": 24
+      "AvailableQty": 21
     },
     {
       "Brand": "DRiV - 2W",
@@ -5475,7 +5475,7 @@
       "PartNumber": "01985MPKCD0000C1",
       "Description": "TN-01985MPKCD0000C1-HONDA ACTIVA 3G 125CC (30)",
       "Location": "Korba",
-      "AvailableQty": 20
+      "AvailableQty": 17
     },
     {
       "Brand": "DRiV - 2W",
@@ -5892,13 +5892,6 @@
     },
     {
       "Brand": "DRiV - LV",
-      "PartNumber": "03322MPLSD0000C2",
-      "Description": "TN-03322MPLSD0000C2-TATA ACE GOLD BSVI",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "DRiV - LV",
       "PartNumber": "03322PPCSD0000C1",
       "Description": "TN-03322PPCSD0000C1-TATA ACE GOLD DIESEL PISTON",
       "Location": "Indore",
@@ -6119,7 +6112,7 @@
       "PartNumber": "03471MP0SD0000C3",
       "Description": "TN-03471MP0SD0000C3-HYUNDAI GRAND I10 (U11) DSL",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "DRiV - LV",
@@ -6329,7 +6322,7 @@
       "PartNumber": "03980MPLSD0000C4",
       "Description": "TN-03980MPLSD0000C4-TOYOTA INNOVA 2.5 L(D)",
       "Location": "Raipur",
-      "AvailableQty": 18
+      "AvailableQty": 17
     },
     {
       "Brand": "DRiV - LV",
@@ -6532,7 +6525,7 @@
       "PartNumber": "04333KPLSD0000C2",
       "Description": "TN-04333KPLSD0000C2-TATA ACE KIT",
       "Location": "Raipur",
-      "AvailableQty": 77
+      "AvailableQty": 67
     },
     {
       "Brand": "DRiV - LV",
@@ -6546,7 +6539,7 @@
       "PartNumber": "04333KPLSD0000C2",
       "Description": "TN-04333KPLSD0000C2-TATA ACE KIT",
       "Location": "Jabalpur",
-      "AvailableQty": 48
+      "AvailableQty": 45
     },
     {
       "Brand": "DRiV - LV",
@@ -6686,7 +6679,7 @@
       "PartNumber": "04381MPLSD0000C4",
       "Description": "TN-04381MPLSD0000C4-MAHINDRA SCORPIO (MHAWK)",
       "Location": "Raipur",
-      "AvailableQty": 25
+      "AvailableQty": 24
     },
     {
       "Brand": "DRiV - LV",
@@ -6791,7 +6784,7 @@
       "PartNumber": "04417MPLSD0000C3",
       "Description": "TN-04417MPLSD0000C3-LINER KIT-MAHINDRA TUV 300",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "DRiV - LV",
@@ -6987,7 +6980,7 @@
       "PartNumber": "05150MPLSD0000C1",
       "Description": "TN-05150MPLSD0000C1-M&M DI 3200",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 14
     },
     {
       "Brand": "DRiV - LV",
@@ -62564,6 +62557,13 @@
     },
     {
       "Brand": "HOLSET",
+      "PartNumber": "3793310",
+      "Description": "HOLSET-3793310-CHRA-HX35",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "HOLSET",
       "PartNumber": "3793317",
       "Description": "HOLSET-3793317-CHRA-HE300FG",
       "Location": "Raipur",
@@ -62623,7 +62623,7 @@
       "PartNumber": "4030816",
       "Description": "HOLSET-4030816-CHRA-HX35W",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 11
     },
     {
       "Brand": "HOLSET",
@@ -62644,7 +62644,7 @@
       "PartNumber": "4031578",
       "Description": "HOLSET-4031578-Repair Kit-HX40",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 28
     },
     {
       "Brand": "HOLSET",
@@ -62673,6 +62673,13 @@
       "Description": "HOLSET-4032103-CHRA-HX35",
       "Location": "Raipur",
       "AvailableQty": 2
+    },
+    {
+      "Brand": "HOLSET",
+      "PartNumber": "4032104",
+      "Description": "HOLSET-4032104-CHRA-HX35",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "Brand": "HOLSET",
@@ -72983,7 +72990,7 @@
       "PartNumber": "5606467",
       "Description": "HOLSET-5606467-CHRA-HE300WG",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 16
     },
     {
       "Brand": "HOLSET",
@@ -72994,10 +73001,24 @@
     },
     {
       "Brand": "HOLSET",
+      "PartNumber": "5608419",
+      "Description": "HOLSET-5608419-ETV Kit-CV060ET",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "Brand": "HOLSET",
+      "PartNumber": "5608420",
+      "Description": "HOLSET-5608420-ETV Kit-CV060ET",
+      "Location": "Raipur",
+      "AvailableQty": 10
+    },
+    {
+      "Brand": "HOLSET",
       "PartNumber": "5609642",
       "Description": "HOLSET-5609642-CHRA-HE250WG",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 5
     },
     {
       "Brand": "HOLSET",
@@ -89160,7 +89181,7 @@
       "PartNumber": "6004-2RS1/C3",
       "Description": "SKF-6004-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 10
     },
     {
       "Brand": "SKF",
@@ -89489,7 +89510,7 @@
       "PartNumber": "6203-2RS1",
       "Description": "SKF-6203-2RS1-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 15
     },
     {
       "Brand": "SKF",
@@ -89503,7 +89524,7 @@
       "PartNumber": "6204-2RS1/C3",
       "Description": "SKF-6204-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 72
+      "AvailableQty": 67
     },
     {
       "Brand": "SKF",
@@ -89636,7 +89657,7 @@
       "PartNumber": "6302-2RS1/C3",
       "Description": "SKF-6302-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 73
+      "AvailableQty": 68
     },
     {
       "Brand": "SKF",
@@ -89650,7 +89671,7 @@
       "PartNumber": "6304-2RS1/C3",
       "Description": "SKF-6304-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 0
     },
     {
       "Brand": "SKF",
@@ -89671,7 +89692,7 @@
       "PartNumber": "6305-2RS1/C3",
       "Description": "SKF-6305-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 0
     },
     {
       "Brand": "SKF",
@@ -108760,7 +108781,7 @@
       "PartNumber": "ACL000110A0010",
       "Description": "TN-ACL000110A0010-RADIATOR COOLANT PREMIX 1.0 LTR.",
       "Location": "Raigarh",
-      "AvailableQty": 100
+      "AvailableQty": 60
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108914,7 +108935,7 @@
       "PartNumber": "ACL00213A0010-P",
       "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
       "Location": "Raipur",
-      "AvailableQty": 60
+      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108956,7 +108977,7 @@
       "PartNumber": "ACL00213A0010-R",
       "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Korba",
-      "AvailableQty": 40
+      "AvailableQty": 0
     },
     {
       "Brand": "DRiV - CTOH",
@@ -109066,9 +109087,16 @@
     {
       "Brand": "RSB",
       "PartNumber": "CBA490006",
-      "Description": "RSB-CBA490006-490CBASSYDRHCCBKITALL",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
+      "Location": "Raipur",
+      "AvailableQty": 0
+    },
+    {
+      "Brand": "RSB",
+      "PartNumber": "CBA490006",
+      "Description": "RSB-CBA490006-490 CB Assy DRHC CB Kit ALL",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "RSB",
@@ -109327,7 +109355,7 @@
       "PartNumber": "CBS590006",
       "Description": "RSB-CBS590006-590 JT. RUBBER HSG. SUB ASSY. (DIA 55 Bearing)",
       "Location": "Indore",
-      "AvailableQty": 22
+      "AvailableQty": 20
     },
     {
       "Brand": "RSB",
@@ -109866,7 +109894,7 @@
       "PartNumber": "FCL0002130001",
       "Description": "TN-FCL0002130001-COOLANT FOR DIESEL ENGINE(1L) GREEN",
       "Location": "Raipur",
-      "AvailableQty": 480
+      "AvailableQty": 440
     },
     {
       "Brand": "DRiV - CTOH",
@@ -110559,7 +110587,7 @@
       "PartNumber": "FHBHSM2.0A2",
       "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Raipur",
-      "AvailableQty": 189
+      "AvailableQty": 187
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -111147,7 +111175,7 @@
       "PartNumber": "FLY490006",
       "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 6
     },
     {
       "Brand": "RSB",
@@ -111658,7 +111686,7 @@
       "PartNumber": "GBB63/22C",
       "Description": "TN-GBB63/22C-BALL BEARING 63/22C",
       "Location": "Korba",
-      "AvailableQty": 84
+      "AvailableQty": 44
     },
     {
       "Brand": "DRiV - 2W",
@@ -111672,7 +111700,7 @@
       "PartNumber": "GBB6304KIT",
       "Description": "TN-GBB6304KIT-BALL BEARING 6304 KIT",
       "Location": "Korba",
-      "AvailableQty": 370
+      "AvailableQty": 250
     },
     {
       "Brand": "DRiV - CTOH",
@@ -115627,7 +115655,7 @@
       "PartNumber": "TMGOEOCI4P015C",
       "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
       "Location": "Indore Tata Motors",
-      "AvailableQty": 54
+      "AvailableQty": 53
     },
     {
       "Brand": "TATA MOTORS",
