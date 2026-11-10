@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "08-11-2026 02:00:26 PM",
+  "lastUpdated": "10-11-2026 11:45:18 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -17,6 +17,13 @@
     "Tata Motors Korba"
   ],
   "stock": [
+    {
+      "Brand": "JOST",
+      "PartNumber": "000.001.118",
+      "Description": "JOST-000.001.118-Socket Head bolt",
+      "Location": "Raipur",
+      "AvailableQty": 980
+    },
     {
       "Brand": "JOST",
       "PartNumber": "000.001.118",
@@ -260,7 +267,7 @@
       "PartNumber": "0096SHFLINSDC1",
       "Description": "TN-0096SHFLINSDC1-LINER-TATA 496 SP SHAKTI F.F. (L-185)",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 4
     },
     {
       "Brand": "DRiV - CTOH",
@@ -6011,13 +6018,6 @@
     },
     {
       "Brand": "DRiV - LV",
-      "PartNumber": "03381PPCSD0000C1",
-      "Description": "TN-03381PPCSD0000C1-TATA NEXON 1.2L BS4/BS6 PETROL",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "DRiV - LV",
       "PartNumber": "03385PPCSD0000C1",
       "Description": "TN-03385PPCSD0000C1-TATA INTRA V30/NEXON/ALTROZ (D)",
       "Location": "Raipur",
@@ -6028,7 +6028,7 @@
       "PartNumber": "03385PPCSD0000C1",
       "Description": "TN-03385PPCSD0000C1-TATA INTRA V30/NEXON/ALTROZ (D)",
       "Location": "Jabalpur",
-      "AvailableQty": 24
+      "AvailableQty": 20
     },
     {
       "Brand": "DRiV - LV",
@@ -6704,13 +6704,6 @@
     },
     {
       "Brand": "DRiV - LV",
-      "PartNumber": "04371PPCSD0000C1",
-      "Description": "TN-04371PPCSD0000C1-TATA DICOR 2.2 Ltr BS IV",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "DRiV - LV",
       "PartNumber": "04380PPCSD0000C1",
       "Description": "TN-04380PPCSD0000C1-TAVERA CHEVORLET",
       "Location": "Jabalpur",
@@ -7323,7 +7316,7 @@
       "PartNumber": "05811PPCBD0000C1",
       "Description": "TN-05811PPCBD0000C1-HARVESTOR B SERIES EURO II",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7421,7 +7414,7 @@
       "PartNumber": "05815PPCSDCG00C1",
       "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Raipur",
-      "AvailableQty": 60
+      "AvailableQty": 59
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7463,7 +7456,7 @@
       "PartNumber": "05816PPCSD000MC1",
       "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Raipur",
-      "AvailableQty": 19
+      "AvailableQty": 17.83333333333333
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7484,13 +7477,6 @@
       "PartNumber": "05816PPCSD000MC1",
       "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
       "Location": "Korba",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "05816PPCSD000MC1",
-      "Description": "TN-05816PPCSD000MC1-HARVESTOR B SERIES EURO III-MOLY COATED - 05815PPCSDCG (WHITE)",
-      "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
@@ -7771,7 +7757,7 @@
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 6
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7974,7 +7960,7 @@
       "PartNumber": "0910104",
       "Description": "RSB-0910104-Jaw-0910135",
       "Location": "Raipur",
-      "AvailableQty": 24
+      "AvailableQty": 22
     },
     {
       "Brand": "RSB",
@@ -8016,14 +8002,14 @@
       "PartNumber": "0910111",
       "Description": "RSB-0910111-Socket Head Bolt -M12X25Lg",
       "Location": "Raipur",
-      "AvailableQty": 120
+      "AvailableQty": 100
     },
     {
       "Brand": "RSB",
       "PartNumber": "0910112",
       "Description": "RSB-0910112-Jaw Pivot Pin",
       "Location": "Raipur",
-      "AvailableQty": 34
+      "AvailableQty": 24
     },
     {
       "Brand": "RSB",
@@ -8359,7 +8345,7 @@
       "PartNumber": "1150108",
       "Description": "RSB-1150108-Jaw Pivot Pin",
       "Location": "Raipur",
-      "AvailableQty": 24
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -21012,13 +20998,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "264154500106",
-      "Description": "STEERING LOCK CUM IGNITION SW BS1/2/3/4",
-      "Location": "Jagdalpur",
-      "AvailableQty": 5
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "264154500137",
       "Description": "DOUBLE CONTACT BRAKE SWITCH BS4",
       "Location": "Raipur",
@@ -32919,13 +32898,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "272425000158",
-      "Description": "ASSY. CLUTCH DISC & COVER 190 DIA. BS3/4",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "272425000223",
       "Description": "SET-CLUTCH ASSY DIA 190",
       "Location": "Jabalpur",
@@ -33286,7 +33258,7 @@
       "PartNumber": "272425200235",
       "Description": "CLUTCH DISC DIA 215 BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -47986,7 +47958,7 @@
       "PartNumber": "278801990103",
       "Description": "SUB KIT-SEAL ENG.OVERHAUL BS2/4",
       "Location": "Jabalpur",
-      "AvailableQty": 160
+      "AvailableQty": 140
     },
     {
       "Brand": "TATA Motors",
@@ -48134,6 +48106,13 @@
       "Description": "AIR FILTER ELEMENT BS2/3/4",
       "Location": "Raipur",
       "AvailableQty": 46
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278809130114",
+      "Description": "AIR FILTER ELEMENT BS2/3/4",
+      "Location": "Jabalpur",
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -49316,7 +49295,7 @@
       "PartNumber": "279903130101",
       "Description": "ASSY.VIBRATION DAMPER",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -51598,7 +51577,7 @@
       "PartNumber": "282940100107",
       "Description": "ASSY. WHEEL RIM BS2/3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 26
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA Motors",
@@ -55623,7 +55602,7 @@
       "PartNumber": "285126207910",
       "Description": "MAIN SHAFT",
       "Location": "Jabalpur",
-      "AvailableQty": 9
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -55770,28 +55749,28 @@
       "PartNumber": "285126513705",
       "Description": "SHIFTER FORK 1ST & 2ND SPEED AL VERSION",
       "Location": "Jabalpur",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "285126513801",
       "Description": "SHIFTER FORK 3RD & 4TH SPEED AL VERSION",
       "Location": "Jabalpur",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "285126516705",
       "Description": "SHIFTER PAD(1ST/2ND/3RD/4TH SPEED)",
       "Location": "Jabalpur",
-      "AvailableQty": 36
+      "AvailableQty": 28
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "285126700112",
       "Description": "ASSY. TOP COVER BS2/3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 52
+      "AvailableQty": 30
     },
     {
       "Brand": "TATA Motors",
@@ -58038,7 +58017,7 @@
       "PartNumber": "286450100119",
       "Description": "ASSY. AUXILLARY TANK BS1/3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 28
     },
     {
       "Brand": "TATA Motors",
@@ -61118,7 +61097,7 @@
       "PartNumber": "30204 J2/Q",
       "Description": "SKF-30204 J2/Q-TRB",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 7
     },
     {
       "Brand": "SKF",
@@ -61868,6 +61847,13 @@
       "Description": "HOLSET-3793321-CHRA-HE300FG",
       "Location": "Raipur",
       "AvailableQty": 1
+    },
+    {
+      "Brand": "HOLSET",
+      "PartNumber": "3795308",
+      "Description": "HOLSET-3795308-Repair Kit-HE250WG",
+      "Location": "Raipur",
+      "AvailableQty": 25
     },
     {
       "Brand": "HOLSET",
@@ -69091,7 +69077,7 @@
       "PartNumber": "5327CKS-SD",
       "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Raipur",
-      "AvailableQty": 124
+      "AvailableQty": 118
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69231,7 +69217,7 @@
       "PartNumber": "5328CKSPLUS-SD",
       "Description": "TN-5328CKSPLUS-SD-Harvestor III -102mm",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 9
     },
     {
       "Brand": "DRiV - CTOH",
@@ -72273,17 +72259,24 @@
     },
     {
       "Brand": "HOLSET",
+      "PartNumber": "5603510",
+      "Description": "HOLSET-5603510-CHRA-HE250WG",
+      "Location": "Raipur",
+      "AvailableQty": 6
+    },
+    {
+      "Brand": "HOLSET",
       "PartNumber": "5606467",
       "Description": "HOLSET-5606467-CHRA-HE300WG",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "HOLSET",
       "PartNumber": "5606722",
       "Description": "HOLSET-5606722-Repair Kit-HE250EWG",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 34
     },
     {
       "Brand": "HOLSET",
@@ -80564,7 +80557,7 @@
       "PartNumber": "571005107901",
       "Description": "CAMSHAFT BS3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 8
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -81957,7 +81950,7 @@
       "PartNumber": "573501155301",
       "Description": "GASKET CYLINDER HEAD BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 13
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -88698,7 +88691,7 @@
       "PartNumber": "6154CKS-SD",
       "Description": "TN-6154CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
       "Location": "Raipur",
-      "AvailableQty": 44
+      "AvailableQty": 43
     },
     {
       "Brand": "DRiV - CTOH",
@@ -88852,7 +88845,7 @@
       "PartNumber": "6204-2RS1/C3",
       "Description": "SKF-6204-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 67
+      "AvailableQty": 63
     },
     {
       "Brand": "SKF",
@@ -88873,7 +88866,7 @@
       "PartNumber": "6207-2RS1/C3",
       "Description": "SKF-6207-2RS1/C3-DGBB",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "Brand": "SKF",
@@ -89279,7 +89272,7 @@
       "PartNumber": "6841-SD",
       "Description": "TN-6841-SD-SC 66.695dIA",
       "Location": "Raigarh",
-      "AvailableQty": 50
+      "AvailableQty": 46
     },
     {
       "Brand": "DRiV - LV",
@@ -89342,7 +89335,7 @@
       "PartNumber": "6871GOLDPOWER-SD",
       "Description": "TN-6871GOLDPOWER-SD-TATA_97",
       "Location": "Raipur",
-      "AvailableQty": 80
+      "AvailableQty": 79
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89426,7 +89419,7 @@
       "PartNumber": "6880SHAKTI-SD",
       "Description": "TN-6880SHAKTI-SD-TATA SUMO GRAND MARK II/SUMO DICOR",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 6
     },
     {
       "Brand": "DRiV - LV",
@@ -89447,7 +89440,7 @@
       "PartNumber": "6882STLPREM-SD",
       "Description": "TN-6882STLPREM-SD-EICHER CANTER E II/III",
       "Location": "Raipur",
-      "AvailableQty": 46
+      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89720,7 +89713,7 @@
       "PartNumber": "7892STLPWRPLUS-SD",
       "Description": "TN-7892STLPWRPLUS-SD-TATA 497/697 EURO III",
       "Location": "Raipur",
-      "AvailableQty": 97
+      "AvailableQty": 93
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89825,7 +89818,7 @@
       "PartNumber": "8415DCES-SD",
       "Description": "TN-8415DCES-SD-BD-154 / DI 3200_88.9",
       "Location": "Raipur",
-      "AvailableQty": 20
+      "AvailableQty": 19
     },
     {
       "Brand": "DRiV - LV",
@@ -94305,7 +94298,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Jabalpur",
-      "AvailableQty": 948
+      "AvailableQty": 943
     },
     {
       "Brand": "TATA MOTORS",
@@ -94564,7 +94557,7 @@
       "PartNumber": "886399000041",
       "Description": "BRAKE FLUID (DOT 3) - 500 ML",
       "Location": "Jabalpur",
-      "AvailableQty": 285
+      "AvailableQty": 281
     },
     {
       "Brand": "TATA MOTORS",
@@ -94690,7 +94683,7 @@
       "PartNumber": "886399000044",
       "Description": "TATA GENUINE DEF 10 L",
       "Location": "Jabalpur",
-      "AvailableQty": 122
+      "AvailableQty": 117
     },
     {
       "Brand": "TATA Motors",
@@ -94781,7 +94774,7 @@
       "PartNumber": "886399000070",
       "Description": "MAXICOOL PREMIX COOLANT 5 LTR",
       "Location": "Jabalpur",
-      "AvailableQty": 12
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -94823,7 +94816,7 @@
       "PartNumber": "886399000073",
       "Description": "TATA GENUINE DEF 5 LTR",
       "Location": "Jabalpur",
-      "AvailableQty": 364
+      "AvailableQty": 360
     },
     {
       "Brand": "TATA Motors",
@@ -96818,7 +96811,7 @@
       "PartNumber": "886409000001",
       "Description": "ASSY. FUEL FILTER 4SPCR BS3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 444
+      "AvailableQty": 438
     },
     {
       "Brand": "TATA Motors",
@@ -96867,7 +96860,7 @@
       "PartNumber": "886409000004",
       "Description": "AIR FILTER ELEMENT BS3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 187
+      "AvailableQty": 174
     },
     {
       "Brand": "TATA Motors",
@@ -96993,7 +96986,7 @@
       "PartNumber": "886418000002",
       "Description": "OIL FILTER ELEMENT 700/800CC ACE/V10 BS3",
       "Location": "Jabalpur",
-      "AvailableQty": 323
+      "AvailableQty": 318
     },
     {
       "Brand": "TATA Motors",
@@ -106793,7 +106786,7 @@
       "PartNumber": "A062U294-RX",
       "Description": "CCC-A062U294-RX-RECON SENSOR,NITROGEN OXIDE-573714110148",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "CCC",
@@ -108088,7 +108081,7 @@
       "PartNumber": "A077H126",
       "Description": "CCC-A077H126-CONNECTION,FILL",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "Brand": "CCC",
@@ -108199,13 +108192,6 @@
       "Brand": "DRiV - CTOH",
       "PartNumber": "ACL000213A0010",
       "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
-      "Location": "Raigarh",
-      "AvailableQty": 20
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Indore",
       "AvailableQty": 1240
     },
@@ -108249,7 +108235,7 @@
       "PartNumber": "ACL000213B0030",
       "Description": "TN-ACL000213B0030-RADIATOR COOLANT CONC 1:3 GREEN- 3.0LTR",
       "Location": "Raigarh",
-      "AvailableQty": 234
+      "AvailableQty": 210
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108291,7 +108277,7 @@
       "PartNumber": "ACL000213B0050",
       "Description": "TN-ACL000213B0050-RADIATOR COOLANT CONC 1:3 GREEN- 5.0LTR",
       "Location": "Raigarh",
-      "AvailableQty": 72
+      "AvailableQty": 60
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108306,13 +108292,6 @@
       "Description": "TN-ACL000317A0010-RAIDIATOR COOLANT GREEN",
       "Location": "Indore",
       "AvailableQty": 100
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
-      "Location": "Raipur",
-      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108354,7 +108333,7 @@
       "PartNumber": "ACL00213A0010-R",
       "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT CONC 1:3 - 1.0 LTR RED",
       "Location": "Raipur",
-      "AvailableQty": 80
+      "AvailableQty": 60
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108452,7 +108431,7 @@
       "PartNumber": "CBA490002",
       "Description": "RSB-CBA490002-490 CENTRE BEARING ASSY.3118,2518,SOLID RUBBER HSG (65 DIA BRG)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "RSB",
@@ -108487,7 +108466,7 @@
       "PartNumber": "CBA620004",
       "Description": "RSB-CBA620004-620 JT CB ASSY.",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "RSB",
@@ -108682,13 +108661,6 @@
       "Brand": "RSB",
       "PartNumber": "CBS490005",
       "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
-      "Location": "Raipur",
-      "AvailableQty": 5
-    },
-    {
-      "Brand": "RSB",
-      "PartNumber": "CBS490005",
-      "Description": "RSB-CBS490005-490 JT. HONEY COMB RUBBER HSG. SUB ASSY.(DIA 55 Bearing)",
       "Location": "Bilaspur",
       "AvailableQty": 2
     },
@@ -108739,7 +108711,7 @@
       "PartNumber": "CES90004",
       "Description": "CCC-CES90004-BSVI FILTER KIT (SET OF 1)",
       "Location": "Raipur",
-      "AvailableQty": 140
+      "AvailableQty": 117
     },
     {
       "Brand": "CCC",
@@ -109018,6 +108990,13 @@
       "Brand": "JOST",
       "PartNumber": "E-SK8201-216-01",
       "Description": "JOST-E-SK8201-216-01-Fabricated Pedestal (172mm)",
+      "Location": "Raipur",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "JOST",
+      "PartNumber": "E-SK8201-216-01",
+      "Description": "JOST-E-SK8201-216-01-Fabricated Pedestal (172mm)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -109026,7 +109005,7 @@
       "PartNumber": "E-SK8201-216-02",
       "Description": "JOST-E-SK8201-216-02-Fabricated Pedestal (205mm)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -109068,7 +109047,7 @@
       "PartNumber": "FBC025-1",
       "Description": "TN-FBC025-1-BRAKE FLUID-DOT 3 250ML",
       "Location": "Raigarh",
-      "AvailableQty": 120
+      "AvailableQty": 80
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -109173,7 +109152,7 @@
       "PartNumber": "FBX025-1",
       "Description": "TN-FBX025-1-BRAKE FLUID-250 ML-DOT4",
       "Location": "Raigarh",
-      "AvailableQty": 400
+      "AvailableQty": 360
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -109222,7 +109201,7 @@
       "PartNumber": "FBX050-1",
       "Description": "TN-FBX050-1-BRAKE FLUID-500 ML-DOT4",
       "Location": "Raigarh",
-      "AvailableQty": 160
+      "AvailableQty": 140
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -109243,7 +109222,7 @@
       "PartNumber": "FCL0002130001",
       "Description": "TN-FCL0002130001-COOLANT FOR DIESEL ENGINE(1L) GREEN",
       "Location": "Raipur",
-      "AvailableQty": 360
+      "AvailableQty": 340
     },
     {
       "Brand": "DRiV - CTOH",
@@ -110524,7 +110503,7 @@
       "PartNumber": "FLY490006",
       "Description": "RSB-FLY490006-490 JT. FLANGE YOKE (REGULAR SERR.)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "RSB",
@@ -110650,7 +110629,7 @@
       "PartNumber": "FLY592001",
       "Description": "RSB-FLY592001-592 180-DIA-FLANGE YOKE",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 5
     },
     {
       "Brand": "RSB",
@@ -112218,14 +112197,14 @@
       "PartNumber": "JG-00033019",
       "Description": "JOST-JG-00033019-Tapered roller bearing",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 11
     },
     {
       "Brand": "JOST",
       "PartNumber": "JG-02002109",
       "Description": "JOST-JG-02002109-Grease seal Ø140x160/13",
       "Location": "Raipur",
-      "AvailableQty": 75
+      "AvailableQty": 73
     },
     {
       "Brand": "JOST",
@@ -112253,7 +112232,7 @@
       "PartNumber": "JG-02500160",
       "Description": "JOST-JG-02500160-O RING-160X3",
       "Location": "Raipur",
-      "AvailableQty": 90
+      "AvailableQty": 88
     },
     {
       "Brand": "JOST",
@@ -112289,6 +112268,13 @@
       "Description": "JOST-JG-09319019-Manual slack adjuster",
       "Location": "Raipur",
       "AvailableQty": 4
+    },
+    {
+      "Brand": "JOST",
+      "PartNumber": "JG-09328250",
+      "Description": "JOST-JG-09328250-Hub",
+      "Location": "Raipur",
+      "AvailableQty": 2
     },
     {
       "Brand": "JOST",
@@ -112337,14 +112323,14 @@
       "PartNumber": "JG-M002564-08-20",
       "Description": "JOST-JG-M002564-08-20-Axle nut kit Right",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "JOST",
       "PartNumber": "JG-M007916-08-20",
       "Description": "JOST-JG-M007916-08-20-Axle nut kit left",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "Brand": "JOST",
@@ -112404,10 +112390,17 @@
     },
     {
       "Brand": "JOST",
+      "PartNumber": "KZ1012",
+      "Description": "JOST-KZ1012-KINGPIN SET OF 2 WITH RETENTION PLATE",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "JOST",
       "PartNumber": "KZE 1012-03",
       "Description": "JOST-KZE 1012-03-Kinpin bolt",
       "Location": "Raipur",
-      "AvailableQty": 100
+      "AvailableQty": 200
     },
     {
       "Brand": "MINDA",
@@ -112498,7 +112491,7 @@
       "PartNumber": "LFS490005",
       "Description": "RSB-LFS490005-490 JT. LONG FORK SUB ASSY. 110SL",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 9
     },
     {
       "Brand": "RSB",
@@ -112533,14 +112526,14 @@
       "PartNumber": "LFS490I06",
       "Description": "RSB-LFS490I06-490 JT. I/A LONG FORK SUB ASSY. 140SL",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 7
     },
     {
       "Brand": "RSB",
       "PartNumber": "LFS590007",
       "Description": "RSB-LFS590007-590 LONG FORK SUB ASSY FOR 110SLIP",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "RSB",
@@ -113932,13 +113925,6 @@
       "Brand": "RSB",
       "PartNumber": "SHF490004",
       "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "RSB",
-      "PartNumber": "SHF490004",
-      "Description": "RSB-SHF490004-490 JT. SHORT FORK(95 Dia)",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -113983,13 +113969,6 @@
       "Description": "RSB-SHF590006-590 JT. SHORT FORK-590",
       "Location": "Indore",
       "AvailableQty": 6
-    },
-    {
-      "Brand": "RSB",
-      "PartNumber": "SHF590H10",
-      "Description": "RSB-SHF590H10-590H SHORT FORK",
-      "Location": "Raipur",
-      "AvailableQty": 2
     },
     {
       "Brand": "RSB",
@@ -114045,7 +114024,7 @@
       "PartNumber": "SK 1489",
       "Description": "JOST-SK 1489-Lock jaw",
       "Location": "Raipur",
-      "AvailableQty": 32
+      "AvailableQty": 62
     },
     {
       "Brand": "JOST",
@@ -114073,7 +114052,7 @@
       "PartNumber": "SK 2105-19",
       "Description": "JOST-SK 2105-19-Wearing ring",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 43
     },
     {
       "Brand": "JOST",
@@ -114143,7 +114122,7 @@
       "PartNumber": "SK 2905-94",
       "Description": "JOST-SK 2905-94-Rubber bush",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 250
     },
     {
       "Brand": "JOST",
@@ -114164,14 +114143,14 @@
       "PartNumber": "SK 847",
       "Description": "JOST-SK 847-Tension spring for lock jaw",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 102
     },
     {
       "Brand": "JOST",
       "PartNumber": "SK0053000",
       "Description": "JOST-SK0053000-Wearing Ring",
       "Location": "Raipur",
-      "AvailableQty": 17
+      "AvailableQty": 16
     },
     {
       "Brand": "JOST",
@@ -114220,7 +114199,7 @@
       "PartNumber": "SK8101-204",
       "Description": "JOST-SK8101-204-Rubber Bush",
       "Location": "Raipur",
-      "AvailableQty": 87
+      "AvailableQty": 472
     },
     {
       "Brand": "JOST",
@@ -114255,7 +114234,7 @@
       "PartNumber": "SK8101-222",
       "Description": "JOST-SK8101-222-180 Pedestal",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 12
     },
     {
       "Brand": "JOST",
@@ -114283,7 +114262,7 @@
       "PartNumber": "SK8101-308",
       "Description": "JOST-SK8101-308-Socket Head Bolt",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 632
     },
     {
       "Brand": "JOST",
@@ -114373,6 +114352,13 @@
       "Brand": "RSB",
       "PartNumber": "SRF28175B",
       "Description": "RSB-SRF28175B-5th Wheel Coupling",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "JOST",
+      "PartNumber": "SU14A-033",
+      "Description": "JOST-SU14A-033-Main air spring",
       "Location": "Raipur",
       "AvailableQty": 1
     },
@@ -115256,7 +115242,7 @@
       "PartNumber": "TMGORA85W140012C",
       "Description": "TMGO Rear Axle Oil 85W140 12 Litres PROM",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA MOTORS",
@@ -115438,7 +115424,7 @@
       "PartNumber": "UVJ592002",
       "Description": "RSB-UVJ592002-592 UJ CROSS ASSY NG",
       "Location": "Raipur",
-      "AvailableQty": 103
+      "AvailableQty": 96
     },
     {
       "Brand": "RSB",
@@ -115662,7 +115648,7 @@
       "PartNumber": "VKS 6922 MS",
       "Description": "SKF-VKS 6922 MS-Gear Box Front /GEAR BOX I/P SHAFT SEAL ( CHILAM SEAL) 48x65x10",
       "Location": "Raipur",
-      "AvailableQty": 50
+      "AvailableQty": 30
     },
     {
       "Brand": "SKF",
@@ -115732,7 +115718,7 @@
       "PartNumber": "VKS 7117 MS",
       "Description": "SKF-VKS 7117 MS-INPUT SHAFT SEAL (DRIVE SHAFT INPUT) 52X72X12",
       "Location": "Raipur",
-      "AvailableQty": 143
+      "AvailableQty": 123
     },
     {
       "Brand": "SKF",
