@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "12-11-2026 02:00:28 PM",
+  "lastUpdated": "13-11-2026 11:45:21 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -6560,7 +6560,7 @@
       "PartNumber": "04333KPLSD0000C2",
       "Description": "TN-04333KPLSD0000C2-TATA ACE KIT",
       "Location": "Raipur",
-      "AvailableQty": 65
+      "AvailableQty": 63
     },
     {
       "Brand": "DRiV - LV",
@@ -7379,7 +7379,7 @@
       "PartNumber": "05812PPCSD000MC1",
       "Description": "TN-05812PPCSD000MC1-HARVESTOR B SERIES EURO II-MOLY COATED",
       "Location": "Bilaspur",
-      "AvailableQty": 2
+      "AvailableQty": 5
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7442,7 +7442,7 @@
       "PartNumber": "05815PPCSDCG00C1",
       "Description": "TN-05815PPCSDCG00C1-HARVESTOR B SERIES EURO III MOD - 05816PPCSD (BLACK)",
       "Location": "Indore",
-      "AvailableQty": 36
+      "AvailableQty": 35
     },
     {
       "Brand": "DRiV - CTOH",
@@ -7750,7 +7750,7 @@
       "PartNumber": "07308PPCSD0000C1",
       "Description": "TN-07308PPCSD0000C1-HINO 6DTI EURO-III 87KW",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 14
     },
     {
       "Brand": "DRiV - CTOH",
@@ -33601,7 +33601,7 @@
       "PartNumber": "272425400147",
       "Description": "RELEASE LEVER SERVICE KIT BS1/2/3/4",
       "Location": "Indore Tata Motors",
-      "AvailableQty": 77
+      "AvailableQty": 72
     },
     {
       "Brand": "TATA MOTORS",
@@ -69000,7 +69000,7 @@
       "PartNumber": "5313MOLYPLUS-SD",
       "Description": "TN-5313MOLYPLUS-SD-HARVESTER EURO II",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 18
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69168,7 +69168,7 @@
       "PartNumber": "5327CKS-SD",
       "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Indore",
-      "AvailableQty": 29
+      "AvailableQty": 27
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69259,7 +69259,7 @@
       "PartNumber": "5328CKS-SD",
       "Description": "TN-5328CKS-SD-HARVESTOR III -102MM",
       "Location": "Raigarh",
-      "AvailableQty": 28
+      "AvailableQty": 27
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69287,7 +69287,7 @@
       "PartNumber": "5328CKSPLUS-SD",
       "Description": "TN-5328CKSPLUS-SD-Harvestor III -102mm",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 141
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69315,7 +69315,7 @@
       "PartNumber": "5328EUROPOWER-SD",
       "Description": "TN-5328EUROPOWER-SD-TATA CUMMINS 6BT EURO-III",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 44
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69341,21 +69341,21 @@
     {
       "Brand": "DRiV - CTOH",
       "PartNumber": "5328MOLYPLUS-SD",
-      "Description": "TN-5328MOLYPLUS-SD-HARVESTER EURO III",
+      "Description": "TN-5328MOLYPLUS-SD-CUMMINS 6BT EIII M+ /STD",
       "Location": "Raipur",
-      "AvailableQty": 22
+      "AvailableQty": 54
     },
     {
       "Brand": "DRiV - CTOH",
       "PartNumber": "5328MOLYPLUS-SD",
-      "Description": "TN-5328MOLYPLUS-SD-HARVESTER EURO III",
+      "Description": "TN-5328MOLYPLUS-SD-CUMMINS 6BT EIII M+ /STD",
       "Location": "Ambikapur",
       "AvailableQty": 1
     },
     {
       "Brand": "DRiV - CTOH",
       "PartNumber": "5328MOLYPLUS-SD",
-      "Description": "TN-5328MOLYPLUS-SD-HARVESTER EURO III",
+      "Description": "TN-5328MOLYPLUS-SD-CUMMINS 6BT EIII M+ /STD",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -69399,7 +69399,7 @@
       "PartNumber": "5331PLATINUMPWR-SD",
       "Description": "TN-5331PLATINUMPWR-SD-TATA CUMMINS 6BT EURO IV (PVD)",
       "Location": "Raipur",
-      "AvailableQty": 62
+      "AvailableQty": 58
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69441,7 +69441,7 @@
       "PartNumber": "5380CKS-SD",
       "Description": "TN-5380CKS-SD-TATA PRIMA RING",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 58
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69539,7 +69539,7 @@
       "PartNumber": "5491508",
       "Description": "CCC-5491508-VALVE,PRESSURE RELIEF",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "CCC",
@@ -72339,7 +72339,7 @@
       "PartNumber": "5603510",
       "Description": "HOLSET-5603510-CHRA-HE250WG",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 3
     },
     {
       "Brand": "HOLSET",
@@ -88866,7 +88866,7 @@
       "PartNumber": "6154RRR-SD",
       "Description": "TN-6154RRR-SD-HINO WO 6ETI EURO III-104MM (RRR)",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 39
     },
     {
       "Brand": "DRiV - CTOH",
@@ -88914,8 +88914,15 @@
       "Brand": "DRiV - CTOH",
       "PartNumber": "6155CKS-SD",
       "Description": "TN-6155CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
+      "Location": "Raigarh",
+      "AvailableQty": 20
+    },
+    {
+      "Brand": "DRiV - CTOH",
+      "PartNumber": "6155CKS-SD",
+      "Description": "TN-6155CKS-SD-Hino WO 6ETI / 104CKS Set - STD",
       "Location": "Indore",
-      "AvailableQty": 25
+      "AvailableQty": 24
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89447,7 +89454,7 @@
       "PartNumber": "6871CKS-SD",
       "Description": "TN-6871CKS-SD-TATA 697_97.0",
       "Location": "Raipur",
-      "AvailableQty": 52
+      "AvailableQty": 84
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89503,7 +89510,7 @@
       "PartNumber": "6872CKS-SD",
       "Description": "TN-6872CKS-SD-TATA 497_97.0",
       "Location": "Raipur",
-      "AvailableQty": 62
+      "AvailableQty": 158
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89566,7 +89573,7 @@
       "PartNumber": "6882STLPREM-SD",
       "Description": "TN-6882STLPREM-SD-EICHER CANTER E II/III",
       "Location": "Raipur",
-      "AvailableQty": 40
+      "AvailableQty": 52
     },
     {
       "Brand": "DRiV - CTOH",
@@ -89839,7 +89846,7 @@
       "PartNumber": "7892STLPWRPLUS-SD",
       "Description": "TN-7892STLPWRPLUS-SD-TATA 497/697 EURO III",
       "Location": "Raipur",
-      "AvailableQty": 93
+      "AvailableQty": 122
     },
     {
       "Brand": "DRiV - CTOH",
@@ -106352,7 +106359,7 @@
       "PartNumber": "A060H214-RX",
       "Description": "CCC-A060H214-RX-RECON MODULE,DOSER FLUID SUPPLY-573714110160",
       "Location": "Bilaspur",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "CCC",
@@ -107686,6 +107693,13 @@
     },
     {
       "Brand": "CCC",
+      "PartNumber": "A066V796",
+      "Description": "CCC-A066V796-SENSOR,NITROGEN OXIDE",
+      "Location": "Bilaspur",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "CCC",
       "PartNumber": "A066V798",
       "Description": "CCC-A066V798-SENSOR,NITROGEN OXIDE",
       "Location": "Raipur",
@@ -108360,13 +108374,6 @@
       "Brand": "DRiV - CTOH",
       "PartNumber": "ACL000213A0010",
       "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
-      "Location": "Bilaspur",
-      "AvailableQty": 100
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "ACL000213A0010",
-      "Description": "TN-ACL000213A0010-RADIATOR COOLANT CONC 1:3 GREEN- 1.0LTR",
       "Location": "Ambikapur",
       "AvailableQty": 20
     },
@@ -108488,13 +108495,6 @@
       "Description": "TN-ACL000317A0010-RAIDIATOR COOLANT GREEN",
       "Location": "Indore",
       "AvailableQty": 100
-    },
-    {
-      "Brand": "DRiV - CTOH",
-      "PartNumber": "ACL00213A0010-P",
-      "Description": "TN-ACL00213A0010-P-RADIATOR COOLANT 1:3 1.0L PINK",
-      "Location": "Bilaspur",
-      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - CTOH",
@@ -108648,7 +108648,7 @@
       "PartNumber": "CBA590003",
       "Description": "RSB-CBA590003-590 JT. CB ASSY.(55 DIA BRG)",
       "Location": "Indore",
-      "AvailableQty": 15
+      "AvailableQty": 11
     },
     {
       "Brand": "RSB",
@@ -112288,7 +112288,7 @@
       "PartNumber": "IS260045957",
       "Description": "3M-IS260045957-3M Foaming Car Interior Cleane",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "Brand": "3M",
@@ -112309,14 +112309,14 @@
       "PartNumber": "IS260046666",
       "Description": "3M-IS260046666-3M Black Plastic Restorer 270g",
       "Location": "Raipur",
-      "AvailableQty": 23
+      "AvailableQty": 18
     },
     {
       "Brand": "3M",
       "PartNumber": "IS260046831",
       "Description": "3M-IS260046831-AS Cloth Pack of 6 (16X16)",
       "Location": "Raipur",
-      "AvailableQty": 11
+      "AvailableQty": 10
     },
     {
       "Brand": "3M",
@@ -113849,7 +113849,7 @@
       "PartNumber": "RH0490M01",
       "Description": "RSB-RH0490M01-490M REAR HOUSING 140 SLIP",
       "Location": "Indore",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "RSB",
