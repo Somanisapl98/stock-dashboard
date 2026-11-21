@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "20-11-2026 02:00:25 PM",
+  "lastUpdated": "21-11-2026 11:45:17 AM",
   "locations": [
     "Ambikapur",
     "Bilaspur",
@@ -2360,7 +2360,7 @@
       "PartNumber": "01077MPKSD0000C1",
       "Description": "TN-01077MPKSD0000C1-BAJAJ PULSAR UG4 (STD)",
       "Location": "Korba",
-      "AvailableQty": 8
+      "AvailableQty": 6
     },
     {
       "Brand": "DRiV - 2W",
@@ -3809,7 +3809,7 @@
       "PartNumber": "01790MKLSD0000C1",
       "Description": "TN-01790MKLSD0000C1-TVS SUPER XLN KIT",
       "Location": "Korba",
-      "AvailableQty": 54
+      "AvailableQty": 53
     },
     {
       "Brand": "DRiV - 2W",
@@ -6490,7 +6490,7 @@
       "PartNumber": "0423530172J",
       "Description": "HEX NUT (MACHINED) BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 27
+      "AvailableQty": 17
     },
     {
       "Brand": "TATA Motors",
@@ -7586,6 +7586,13 @@
     },
     {
       "Brand": "DRiV - CTOH",
+      "PartNumber": "06060PPCSD0000C1",
+      "Description": "TN-06060PPCSD0000C1-SC-80mm SLIPPER 3RV",
+      "Location": "Indore",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "DRiV - CTOH",
       "PartNumber": "06061PPCSD0000C1",
       "Description": "TN-06061PPCSD0000C1-Sundram Clayton AC 80mm 3RV Modified",
       "Location": "Raipur",
@@ -7988,7 +7995,7 @@
       "PartNumber": "0910110",
       "Description": "RSB-0910110-Grip Bush",
       "Location": "Raipur",
-      "AvailableQty": 23
+      "AvailableQty": 21
     },
     {
       "Brand": "RSB",
@@ -8045,6 +8052,13 @@
       "Description": "HEX BOLT M10 X 65",
       "Location": "Raipur",
       "AvailableQty": 9
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "11063920853",
+      "Description": "H/BOLT M20X1.5X85TS17100 10.9SS8451S2-YH",
+      "Location": "Indore",
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -8352,7 +8366,7 @@
       "PartNumber": "1150108",
       "Description": "RSB-1150108-Jaw Pivot Pin",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -9604,13 +9618,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "207609135838",
       "Description": "CORROGATED HOSE(AIR FILTER TO TC)BS2/3/4",
-      "Location": "Raipur",
-      "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "207609135838",
-      "Description": "CORROGATED HOSE(AIR FILTER TO TC)BS2/3/4",
       "Location": "Jagdalpur",
       "AvailableQty": 3
     },
@@ -9626,7 +9633,7 @@
       "PartNumber": "207609135838",
       "Description": "CORROGATED HOSE(AIR FILTER TO TC)BS2/3/4",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -9976,14 +9983,14 @@
       "PartNumber": "208230100108",
       "Description": "ACCELERATOR CABLE 3105MM BS3",
       "Location": "Raigarh",
-      "AvailableQty": 7
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "208230100108",
       "Description": "ACCELERATOR CABLE 3105MM BS3",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -10017,6 +10024,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "208231700104",
       "Description": "ASSY FUPD MTG. BKT.(RH)",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "208243208203",
+      "Description": "BRACKET-REAR (15L AIR TANK MTG.)",
       "Location": "Raipur",
       "AvailableQty": 1
     },
@@ -10232,6 +10246,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "208254600153",
+      "Description": "WIRING HARNESS ENGINE",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "208254601671",
       "Description": "WIRING HARNESS TAIL",
       "Location": "Raipur",
@@ -10248,13 +10269,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "208254660155",
       "Description": "W/H ENGINE LPK-2518 TC BS-III",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "208254829901",
-      "Description": "SOCKET JUMPER CABLE",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -11509,7 +11523,7 @@
       "PartNumber": "220747700110",
       "Description": "WATER SEPARATOR DRAIN VALVE ASY",
       "Location": "Raipur",
-      "AvailableQty": 19
+      "AvailableQty": 24
     },
     {
       "Brand": "TATA Motors",
@@ -11530,7 +11544,7 @@
       "PartNumber": "220747709902",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 360
+      "AvailableQty": 355
     },
     {
       "Brand": "TATA MOTORS",
@@ -11565,7 +11579,7 @@
       "PartNumber": "220747709902",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS3/4",
       "Location": "Indore",
-      "AvailableQty": 135
+      "AvailableQty": 128
     },
     {
       "Brand": "TATA MOTORS",
@@ -11768,7 +11782,7 @@
       "PartNumber": "223949200130",
       "Description": "PLASTIC CAP DEF TANK WITH LOCK BS6",
       "Location": "Indore",
-      "AvailableQty": 22
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -12038,6 +12052,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "250526257931",
+      "Description": "DRIVE SHAFT BS6",
+      "Location": "Indore",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "250526258201",
       "Description": "OIL SLINGER-FRONT SIDE",
       "Location": "Raipur",
@@ -12217,13 +12238,6 @@
       "Description": "SHIFTING LEVER BS1/2/3/4/6",
       "Location": "Raigarh",
       "AvailableQty": 4
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "250526706009",
-      "Description": "SHIFTING LEVER BS1/2/3/4/6",
-      "Location": "Indore",
-      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -13424,6 +13438,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "252501155340",
+      "Description": "GASKET-CYL. HEAD COVER EURO3 BS2/3",
+      "Location": "Indore",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "252501155341",
       "Description": "GASKET-CYLINDER HEAD 697TURBO BS1/2/3",
       "Location": "Raipur",
@@ -13581,7 +13602,7 @@
       "PartNumber": "252503115454",
       "Description": "RING GEAR 697TC LPT2515EX BS2/3/4",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -13595,7 +13616,7 @@
       "PartNumber": "252503120146",
       "Description": "SET THRUST WASHER STD 497/697",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -13931,7 +13952,7 @@
       "PartNumber": "252509120238",
       "Description": "ASSY. HEAD (FWS SPINON) BS2/3",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -13952,7 +13973,7 @@
       "PartNumber": "252509120239",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS2/3",
       "Location": "Raipur",
-      "AvailableQty": 90
+      "AvailableQty": 87
     },
     {
       "Brand": "TATA MOTORS",
@@ -13973,7 +13994,7 @@
       "PartNumber": "252509120239",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS2/3",
       "Location": "Raigarh",
-      "AvailableQty": 63
+      "AvailableQty": 75
     },
     {
       "Brand": "TATA MOTORS",
@@ -13987,7 +14008,7 @@
       "PartNumber": "252509120239",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS2/3",
       "Location": "Jabalpur",
-      "AvailableQty": 12
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA MOTORS",
@@ -14036,7 +14057,7 @@
       "PartNumber": "252509120260",
       "Description": "ASSY. INJECTOR LEAK OFF LINE BS3/4",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -14215,6 +14236,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "252514115314",
+      "Description": "GASKET (EGR COOLER TO EGR VALVE)",
+      "Location": "Indore",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "252514120104",
       "Description": "EGR PIPE ASSY WITH CLAMP",
       "Location": "Indore",
@@ -14341,6 +14369,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "252518100144",
+      "Description": "ASSY. OIL PUMP(50 MM)W/O STRAINER BS1- 4",
+      "Location": "Neemuch",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "252518100148",
       "Description": "ASSY. OIL PUMP W/STRAINER (50MM G) BS1-4",
       "Location": "Raipur",
@@ -14393,7 +14428,7 @@
       "PartNumber": "252518130139",
       "Description": "OIL FILTER ELEMENT SPINON BS2/3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 54
+      "AvailableQty": 52
     },
     {
       "Brand": "TATA Motors",
@@ -14596,7 +14631,7 @@
       "PartNumber": "252520120182",
       "Description": "ASSY.UPPER COOLING WATER LINE EURO-III",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -15471,7 +15506,7 @@
       "PartNumber": "252709120186",
       "Description": "ASSY. HEAD (FUEL-WATER SEP) BS2/3",
       "Location": "Raipur",
-      "AvailableQty": 11
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -15541,7 +15576,7 @@
       "PartNumber": "252709120258",
       "Description": "ASSY. FUEL WATER SEP. (AUTO DRAIN) BS2/3",
       "Location": "Raipur",
-      "AvailableQty": 18
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA Motors",
@@ -15708,13 +15743,6 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "252709140258",
       "Description": "AIR FILTER ELEMENT - PRIMARY BS3/4/6",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA MOTORS",
-      "PartNumber": "252709140258",
-      "Description": "AIR FILTER ELEMENT - PRIMARY BS3/4/6",
       "Location": "Neemuch",
       "AvailableQty": 5
     },
@@ -15752,13 +15780,6 @@
       "Description": "AIR FILTER ELEMENT(SAFETY) 497Y1 BS3/4/6",
       "Location": "Indore",
       "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "252709140259",
-      "Description": "AIR FILTER ELEMENT(SAFETY) 497Y1 BS3/4/6",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -15808,6 +15829,13 @@
       "Description": "HOSE REDUCER DEGREE BS6",
       "Location": "Indore",
       "AvailableQty": 8
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "252714110201",
+      "Description": "ASSY EGR PIPE",
+      "Location": "Indore",
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -15989,7 +16017,7 @@
       "PartNumber": "252718130139",
       "Description": "ASSY. OIL FILTER COMP. 497 BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 92
+      "AvailableQty": 104
     },
     {
       "Brand": "TATA Motors",
@@ -16003,7 +16031,7 @@
       "PartNumber": "252718130145",
       "Description": "OIL FILTER ELEMENT SPINON BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 59
+      "AvailableQty": 69
     },
     {
       "Brand": "TATA MOTORS",
@@ -16045,7 +16073,7 @@
       "PartNumber": "252718130145",
       "Description": "OIL FILTER ELEMENT SPINON BS3/4/6",
       "Location": "Neemuch",
-      "AvailableQty": 26
+      "AvailableQty": 25
     },
     {
       "Brand": "TATA MOTORS",
@@ -16661,7 +16689,7 @@
       "PartNumber": "253405139902",
       "Description": "VALVE TAPPET 4SP/497/697",
       "Location": "Indore",
-      "AvailableQty": 27
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -16826,13 +16854,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "253409110117",
-      "Description": "ASSY. FUEL FILTER DELPHI",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "253409110119",
       "Description": "ASSY. PRE FILTER (5 MICRON) BS3",
       "Location": "Jabalpur",
@@ -16892,7 +16913,7 @@
       "PartNumber": "253409130305",
       "Description": "ELEMENT AIR CLEANER(PRIMARY) BS2/3/4/6",
       "Location": "Neemuch",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -17256,7 +17277,7 @@
       "PartNumber": "253418130169",
       "Description": "ASSY.OIL FILTER (SPIN ON)",
       "Location": "Jabalpur",
-      "AvailableQty": 12
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -17697,7 +17718,7 @@
       "PartNumber": "254705116312",
       "Description": "TIMING BELT -ACE BS3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 14
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -17773,13 +17794,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "254722123723",
       "Description": "ENGINE MOUNTING ARM (RH)",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "254723123101",
-      "Description": "D.G.BALL BEARING",
       "Location": "Jabalpur",
       "AvailableQty": 1
     },
@@ -17913,6 +17927,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "257335307705",
       "Description": "OIL SEAL BS1/2/3/4",
+      "Location": "Raigarh",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "257335307705",
+      "Description": "OIL SEAL BS1/2/3/4",
       "Location": "Indore",
       "AvailableQty": 15
     },
@@ -17943,6 +17964,13 @@
       "Description": "RUBBER CEN BRG HONEY COMB BS1/2/3/4",
       "Location": "Jabalpur",
       "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "257342100160",
+      "Description": "SLACK ADJUSTER. FRT (MANUAL) BS2/3",
+      "Location": "Raigarh",
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -18558,7 +18586,7 @@
       "PartNumber": "257624100101",
       "Description": "ENGINE MOUNT PAD FRONT BS1/2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 129
+      "AvailableQty": 125
     },
     {
       "Brand": "TATA Motors",
@@ -18810,7 +18838,7 @@
       "PartNumber": "257633403101",
       "Description": "TAPER ROLLER BRG-565/562-RA109 BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 22
     },
     {
       "Brand": "TATA Motors",
@@ -18831,7 +18859,7 @@
       "PartNumber": "257633403103",
       "Description": "TAPER ROLLER BRG-OUTER-32308-RA109 BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 61
+      "AvailableQty": 57
     },
     {
       "Brand": "TATA Motors",
@@ -18839,6 +18867,13 @@
       "Description": "TAPER ROLLER BRG-OUTER-32308-RA109 BS3/4",
       "Location": "Raigarh",
       "AvailableQty": 8
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "257633403103",
+      "Description": "TAPER ROLLER BRG-OUTER-32308-RA109 BS3/4",
+      "Location": "Indore",
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -18852,7 +18887,7 @@
       "PartNumber": "257633407801",
       "Description": "OIL SEAL FRT HUB BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 17
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA Motors",
@@ -19367,6 +19402,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "257689100149",
+      "Description": "SHOCK ABSORBER CAB MTG REAR BS1/2/3/4",
+      "Location": "Indore",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "257689103702",
       "Description": "MOUNTING CUP FRONT BS1/2/3/4",
       "Location": "Raipur",
@@ -19503,7 +19545,7 @@
       "PartNumber": "259288500140",
       "Description": "ASSY. FRONT BUMPER BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -20333,13 +20375,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "264042120105",
-      "Description": "WHEEL CYLINDER 22.22 DIA. BS2/3/4",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "264042120108",
       "Description": "REP KIT WHEEL CYL MNR",
       "Location": "Jabalpur",
@@ -20419,13 +20454,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "264126800225",
       "Description": "ASSY. BALL JOINT BS1/2/3/4/6",
-      "Location": "Raipur",
-      "AvailableQty": 11
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "264126800225",
-      "Description": "ASSY. BALL JOINT BS1/2/3/4/6",
       "Location": "Indore",
       "AvailableQty": 5
     },
@@ -20441,13 +20469,6 @@
       "PartNumber": "264126800226",
       "Description": "ASSY. G.S.LEVER LP 709/407 RHD BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "264126800226",
-      "Description": "ASSY. G.S.LEVER LP 709/407 RHD BS1/2/3/4",
-      "Location": "Jabalpur",
       "AvailableQty": 1
     },
     {
@@ -21848,7 +21869,7 @@
       "PartNumber": "265146600102",
       "Description": "ASSY. UNIVERSAL JOINT BS1/2/3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 27
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA Motors",
@@ -21870,13 +21891,6 @@
       "Description": "NEEDLE BUSH CN 1210",
       "Location": "Raipur",
       "AvailableQty": 57
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "265147620139",
-      "Description": "ASSY PRIMING PUMP",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -22297,6 +22311,13 @@
       "Description": "ASSY REV LT SW P/TAIL MS HARNESS",
       "Location": "Indore",
       "AvailableQty": 12
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "265472300162",
+      "Description": "ASSY. HANDLE [WINDOW REGULATOR]",
+      "Location": "Raipur",
+      "AvailableQty": 50
     },
     {
       "Brand": "TATA Motors",
@@ -22933,7 +22954,7 @@
       "PartNumber": "266835603102",
       "Description": "TAPER ROLLER BEARING-OUTER-32217-BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 16
+      "AvailableQty": 15
     },
     {
       "Brand": "TATA Motors",
@@ -22957,11 +22978,11 @@
       "AvailableQty": 32
     },
     {
-      "Brand": "TATA Motors",
-      "PartNumber": "266835606501",
-      "Description": "LOCK NUT",
-      "Location": "Indore",
-      "AvailableQty": 1
+      "Brand": "TATA MOTORS",
+      "PartNumber": "266835607701",
+      "Description": "OIL SEAL INNER 109RR METAL CASING BS3/4/",
+      "Location": "Raipur",
+      "AvailableQty": 30
     },
     {
       "Brand": "TATA MOTORS",
@@ -23101,7 +23122,14 @@
       "PartNumber": "266835608602",
       "Description": "SPACER",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "266835608603",
+      "Description": "SPACER TUBE BETWEEN HUB BRGS",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -23115,13 +23143,6 @@
       "PartNumber": "266835707901",
       "Description": "REAR AXLE SHAFT L1016/SPL37/T38 RA109",
       "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "266835707901",
-      "Description": "REAR AXLE SHAFT L1016/SPL37/T38 RA109",
-      "Location": "Indore",
       "AvailableQty": 1
     },
     {
@@ -23157,7 +23178,7 @@
       "PartNumber": "266935303101",
       "Description": "TAPER ROLLER BEARING-32020-RA109-BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -23630,6 +23651,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "268072300106",
+      "Description": "ASSY DOOR CHECK",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "268072300109",
       "Description": "KIT-LOCKS BS1/2/3/4",
       "Location": "Raipur",
@@ -23767,6 +23795,13 @@
       "Description": "DOOR SEAL PRIMARY",
       "Location": "Raipur",
       "AvailableQty": 4
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "268072306327",
+      "Description": "SECONDARY SEAL LH",
+      "Location": "Raipur",
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -24522,13 +24557,20 @@
       "PartNumber": "268089100107",
       "Description": "FRONT DAMPER BS1/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "268089100112",
       "Description": "ASSY. PIVOT RUBBER BUSH LH BS1/3/4/6",
       "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "268089100112",
+      "Description": "ASSY. PIVOT RUBBER BUSH LH BS1/3/4/6",
+      "Location": "Raigarh",
       "AvailableQty": 2
     },
     {
@@ -24578,7 +24620,7 @@
       "PartNumber": "268089100140",
       "Description": "RUBBER MOUNT ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 24
     },
     {
       "Brand": "TATA Motors",
@@ -25159,7 +25201,7 @@
       "PartNumber": "269126106301",
       "Description": "OIL CATCHER",
       "Location": "Raipur",
-      "AvailableQty": 99
+      "AvailableQty": 124
     },
     {
       "Brand": "TATA Motors",
@@ -25481,7 +25523,7 @@
       "PartNumber": "269126203111",
       "Description": "NEEDLE CAGE 1ST SPEED BS1/2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -26075,6 +26117,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "269126204650",
       "Description": "SYNCHRO-CONE 1/2-3/4.(CARBON) BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "269126204650",
+      "Description": "SYNCHRO-CONE 1/2-3/4.(CARBON) BS3/4",
       "Location": "Neemuch",
       "AvailableQty": 1
     },
@@ -26125,7 +26174,7 @@
       "PartNumber": "269126204653",
       "Description": "SYNCHRO RING 3RD SPD 42T/51T G750",
       "Location": "Raigarh",
-      "AvailableQty": 8
+      "AvailableQty": 33
     },
     {
       "Brand": "TATA Motors",
@@ -26181,7 +26230,7 @@
       "PartNumber": "269126204655",
       "Description": "SYNCHRO CONE 1/2/3/4/5/6 51T/132D G750",
       "Location": "Raipur",
-      "AvailableQty": 103
+      "AvailableQty": 121
     },
     {
       "Brand": "TATA Motors",
@@ -26195,14 +26244,14 @@
       "PartNumber": "269126204655",
       "Description": "SYNCHRO CONE 1/2/3/4/5/6 51T/132D G750",
       "Location": "Raigarh",
-      "AvailableQty": 15
+      "AvailableQty": 45
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "269126204655",
       "Description": "SYNCHRO CONE 1/2/3/4/5/6 51T/132D G750",
       "Location": "Indore",
-      "AvailableQty": 70
+      "AvailableQty": 69
     },
     {
       "Brand": "TATA Motors",
@@ -26307,7 +26356,7 @@
       "PartNumber": "269126204670",
       "Description": "SHIFTER SLEEVE 51T 1/2/3/4/5/6 SPD-G750",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -26321,7 +26370,7 @@
       "PartNumber": "269126204670",
       "Description": "SHIFTER SLEEVE 51T 1/2/3/4/5/6 SPD-G750",
       "Location": "Raigarh",
-      "AvailableQty": 12
+      "AvailableQty": 11
     },
     {
       "Brand": "TATA Motors",
@@ -26398,7 +26447,7 @@
       "PartNumber": "269126205427",
       "Description": "GEAR 3RD SPD MAINSHAFT 29T/42T G750",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -26734,7 +26783,7 @@
       "PartNumber": "269126207805",
       "Description": "OIL SEAL BS1/2/3/4",
       "Location": "Raigarh",
-      "AvailableQty": 7
+      "AvailableQty": 21
     },
     {
       "Brand": "TATA MOTORS",
@@ -27308,7 +27357,7 @@
       "PartNumber": "269126250173",
       "Description": "DRIVE SHAFT 17T/23T/10SPL/L322/R9.19 G75",
       "Location": "Raigarh",
-      "AvailableQty": 1
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -27531,6 +27580,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "269126257809",
       "Description": "OIL SEAL (D/SHAFT)[65X48X10]",
+      "Location": "Raipur",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "269126257809",
+      "Description": "OIL SEAL (D/SHAFT)[65X48X10]",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -27671,6 +27727,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "269126305411",
       "Description": "CONST. MESH GEAR 40T (C/SHAFT) BS2/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "269126305411",
+      "Description": "CONST. MESH GEAR 40T (C/SHAFT) BS2/3/4",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -27714,14 +27777,14 @@
       "PartNumber": "269126305419",
       "Description": "GEAR 3RD SPD COUNTER SHAFT 23T G750",
       "Location": "Raigarh",
-      "AvailableQty": 5
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "269126305419",
       "Description": "GEAR 3RD SPD COUNTER SHAFT 23T G750",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -28001,7 +28064,7 @@
       "PartNumber": "269126307906",
       "Description": "COUNTER SHAFT 17T/11T/L468 G750",
       "Location": "Raigarh",
-      "AvailableQty": 7
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -28303,6 +28366,13 @@
       "Description": "ASSY. DETENT BS1/2/3/4",
       "Location": "Raigarh",
       "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "269126510120",
+      "Description": "ASSY. DETENT BS1/2/3/4",
+      "Location": "Indore",
+      "AvailableQty": 30
     },
     {
       "Brand": "TATA Motors",
@@ -28681,13 +28751,6 @@
       "Description": "SELECTOR & SHIFT LEVER(85R OPP TAPER HOL",
       "Location": "Raigarh",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "269126706004",
-      "Description": "SELECTOR & SHIFT LEVER(85R OPP TAPER HOL",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA MOTORS",
@@ -29216,13 +29279,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "270254219909",
-      "Description": "DUAL TEMPERATURE TRANSDUCER",
-      "Location": "Jabalpur",
-      "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "270254509930",
       "Description": "STOP LIGHT SWITCH M10 X 1.25",
       "Location": "Raipur",
@@ -29492,7 +29548,7 @@
       "PartNumber": "271526203102",
       "Description": "DEEP GROOVE BALL BEARING (ANNULUS)",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -29548,7 +29604,7 @@
       "PartNumber": "271526203112",
       "Description": "DEEP GROOVE BALL BEARING BS6",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -30031,7 +30087,7 @@
       "PartNumber": "271526204605",
       "Description": "SYNCHRO RING CRW/1ST/2ND SPD 38T/51T G11",
       "Location": "Neemuch",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -30059,14 +30115,14 @@
       "PartNumber": "271526204606",
       "Description": "SYNCHRO RING 3RD/4TH SPD 45T/51T G1150",
       "Location": "Indore",
-      "AvailableQty": 45
+      "AvailableQty": 41
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "271526204606",
       "Description": "SYNCHRO RING 3RD/4TH SPD 45T/51T G1150",
       "Location": "Neemuch",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -30129,7 +30185,7 @@
       "PartNumber": "271526204610",
       "Description": "SHIFTER SLEEVE RANGE 51T G1150",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA MOTORS",
@@ -30167,13 +30223,6 @@
       "AvailableQty": 17
     },
     {
-      "Brand": "TATA MOTORS",
-      "PartNumber": "271526204611",
-      "Description": "SYNCHRO RING (HIGH RANGE) 26T/51T G1150",
-      "Location": "Neemuch",
-      "AvailableQty": 1
-    },
-    {
       "Brand": "TATA Motors",
       "PartNumber": "271526204613",
       "Description": "SYNCHRO CONE CRW/1/2/3/4 SPD 51T G1150",
@@ -30199,21 +30248,21 @@
       "PartNumber": "271526204613",
       "Description": "SYNCHRO CONE CRW/1/2/3/4 SPD 51T G1150",
       "Location": "Indore",
-      "AvailableQty": 160
+      "AvailableQty": 156
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "271526204613",
       "Description": "SYNCHRO CONE CRW/1/2/3/4 SPD 51T G1150",
       "Location": "Neemuch",
-      "AvailableQty": 6
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "271526204614",
       "Description": "SYNCHRO CONE (RANGE) 51T G1150",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -30367,7 +30416,7 @@
       "PartNumber": "271526204625",
       "Description": "SYNCHRO RING (HIGH RANGE) 26T/63T G1150",
       "Location": "Raipur",
-      "AvailableQty": 44
+      "AvailableQty": 43
     },
     {
       "Brand": "TATA Motors",
@@ -30458,7 +30507,7 @@
       "PartNumber": "271526204635",
       "Description": "SHIFTER SLEEVE 1/2/3/4 SPD 51T G1150",
       "Location": "Neemuch",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -30759,7 +30808,7 @@
       "PartNumber": "271526206601",
       "Description": "PISTON",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -30864,7 +30913,7 @@
       "PartNumber": "271526207701",
       "Description": "SEALING RING (LUBRICATION PUMP)BS2/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 43
+      "AvailableQty": 67
     },
     {
       "Brand": "TATA MOTORS",
@@ -31424,7 +31473,7 @@
       "PartNumber": "271526253103",
       "Description": "TAPER ROLLER BEARING BT1-0381/Q BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -31438,7 +31487,7 @@
       "PartNumber": "271526253103",
       "Description": "TAPER ROLLER BEARING BT1-0381/Q BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -31494,7 +31543,7 @@
       "PartNumber": "271526254601",
       "Description": "SYNCHRO RING DRIVE SHAFT 36T/51T G1150",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -31522,14 +31571,14 @@
       "PartNumber": "271526254601",
       "Description": "SYNCHRO RING DRIVE SHAFT 36T/51T G1150",
       "Location": "Indore",
-      "AvailableQty": 20
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "271526254601",
       "Description": "SYNCHRO RING DRIVE SHAFT 36T/51T G1150",
       "Location": "Neemuch",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -31585,7 +31634,7 @@
       "PartNumber": "271526257915",
       "Description": "DRIVE SHAFT OD 22T/36T/10SPL/L309 G1150",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -31599,7 +31648,7 @@
       "PartNumber": "271526305405",
       "Description": "GEAR 1ST/5TH SPD COUNTER SHAFT 17T G1150",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -31676,6 +31725,13 @@
       "PartNumber": "271526305410",
       "Description": "4TH/8TH SPEED GEAR FOR COUNTER SHAFT(OD)",
       "Location": "Korba",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "271526307902",
+      "Description": "COUNTER SHAFT 15T/13T/L467 G1150",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -32270,6 +32326,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "271526710122",
       "Description": "ASSY. PNEUMATIC VALVE 4/2 BS2/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "271526710122",
+      "Description": "ASSY. PNEUMATIC VALVE 4/2 BS2/3/4",
       "Location": "Indore",
       "AvailableQty": 8
     },
@@ -32621,7 +32684,7 @@
       "PartNumber": "271526809906",
       "Description": "BALL JOINT ASSY BS6 PH2",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -32992,7 +33055,7 @@
       "PartNumber": "272425000234",
       "Description": "SET-CLUTCH ASSY,DIA 260 SAC",
       "Location": "Jabalpur",
-      "AvailableQty": 32
+      "AvailableQty": 31
     },
     {
       "Brand": "TATA Motors",
@@ -33034,7 +33097,7 @@
       "PartNumber": "272425000267",
       "Description": "SET-CLUTCH ASSY DIA 380 BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 33
+      "AvailableQty": 37
     },
     {
       "Brand": "TATA Motors",
@@ -33139,7 +33202,7 @@
       "PartNumber": "272425200134",
       "Description": "CLUTCH DISC 380 DIA. BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 42
+      "AvailableQty": 38
     },
     {
       "Brand": "TATA Motors",
@@ -33278,6 +33341,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "272425200198",
       "Description": "CLUTCH DISC ASSY DIA 310",
+      "Location": "Indore",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "272425200198",
+      "Description": "CLUTCH DISC ASSY DIA 310",
       "Location": "Jabalpur",
       "AvailableQty": 4
     },
@@ -33356,14 +33426,7 @@
       "PartNumber": "272425200235",
       "Description": "CLUTCH DISC DIA 215 BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "272425200237",
-      "Description": "CLUTCH DISC ASSY DIA 215",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -33391,7 +33454,7 @@
       "PartNumber": "272425200247",
       "Description": "CLUTCH DISC ASSY DIA 395 BS6",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
@@ -33489,7 +33552,7 @@
       "PartNumber": "272425200267",
       "Description": "CLUTCH DISC ASSY DIA 380 BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 27
+      "AvailableQty": 28
     },
     {
       "Brand": "TATA Motors",
@@ -33566,7 +33629,7 @@
       "PartNumber": "272425200285",
       "Description": "CLUTCH DISC ASSY DIA 330",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -33580,7 +33643,7 @@
       "PartNumber": "272425200285",
       "Description": "CLUTCH DISC ASSY DIA 330",
       "Location": "Neemuch",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -33622,7 +33685,7 @@
       "PartNumber": "272425400129",
       "Description": "CLUTCH COVER 380 DIA. BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -33804,7 +33867,7 @@
       "PartNumber": "272425400160",
       "Description": "CLUTCH COVER 310 DIA. (REINF) BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -33920,17 +33983,10 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "272425400235",
-      "Description": "CLUTCH COVER ASSY DIA 215 BS6",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "272425400247",
       "Description": "CLUTCH COVER ASSY DIA 395 BS6",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 23
     },
     {
       "Brand": "TATA Motors",
@@ -33993,7 +34049,7 @@
       "PartNumber": "272425400267",
       "Description": "CLUTCH COVER ASSY DIA 380 BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -34098,7 +34154,7 @@
       "PartNumber": "272425408602",
       "Description": "CLUTCH COLLECTOR RING BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 128
+      "AvailableQty": 130
     },
     {
       "Brand": "TATA Motors",
@@ -34329,7 +34385,7 @@
       "PartNumber": "272425600201",
       "Description": "ASSY. CLUTCH RELEASE BEARING BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 50
+      "AvailableQty": 38
     },
     {
       "Brand": "TATA MOTORS",
@@ -34482,20 +34538,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "272425600287",
       "Description": "CLUTCH RELEASE BEARING ASSY BS6",
-      "Location": "Raipur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "272425600287",
-      "Description": "CLUTCH RELEASE BEARING ASSY BS6",
-      "Location": "Jagdalpur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "272425600287",
-      "Description": "CLUTCH RELEASE BEARING ASSY BS6",
       "Location": "Raigarh",
       "AvailableQty": 3
     },
@@ -34525,7 +34567,7 @@
       "PartNumber": "272425600289",
       "Description": "CLUTCH RELEASE BEARING ASSY BS6",
       "Location": "Raigarh",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -35166,10 +35208,17 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "272635300130",
+      "Description": "CROWN PINION 43/7 RA110",
+      "Location": "Indore",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "272635300144",
       "Description": "DIFFERENTIAL HOUSING ASSY",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -35317,6 +35366,13 @@
       "Description": "DIFFERENTIAL BEVEL GEAR BS6-PH2",
       "Location": "Raigarh",
       "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "272635306503",
+      "Description": "THREADED RING(M160X1.5) BS3/4/6",
+      "Location": "Raipur",
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -35833,6 +35889,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "272735606703",
       "Description": "HUB MOUNTING PIN.",
+      "Location": "Raipur",
+      "AvailableQty": 40
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "272735606703",
+      "Description": "HUB MOUNTING PIN.",
       "Location": "Indore",
       "AvailableQty": 30
     },
@@ -36177,7 +36240,7 @@
       "PartNumber": "273235300302",
       "Description": "CROWN PINION 39/8 RA109 SRT RWD BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 25
+      "AvailableQty": 26
     },
     {
       "Brand": "TATA Motors",
@@ -36317,7 +36380,7 @@
       "PartNumber": "273235305444",
       "Description": "PINION 43/7 RA109/RA109SRT 0203 CWP",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -36821,7 +36884,7 @@
       "PartNumber": "273935307717",
       "Description": "OIL SEAL (90X110X10.7)",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -36997,13 +37060,6 @@
       "Description": "SHIM",
       "Location": "Indore",
       "AvailableQty": 55
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "274789110108",
-      "Description": "SHOCK ABSORBER CAB MTG BS1/2/3/4",
-      "Location": "Raipur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -38515,14 +38571,14 @@
       "PartNumber": "278054209938",
       "Description": "SPEED SENSOR 12V/24V (8 PULSES) BS1-4",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "278054209938",
       "Description": "SPEED SENSOR 12V/24V (8 PULSES) BS1-4",
       "Location": "Jabalpur",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -38801,13 +38857,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "278232406703",
       "Description": "SPRING PIN",
-      "Location": "Raipur",
-      "AvailableQty": 9
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278232406703",
-      "Description": "SPRING PIN",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -38887,6 +38936,13 @@
       "Description": "PLASTIC HYDRAULIC RESERVOIR",
       "Location": "Raigarh",
       "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278244400103",
+      "Description": "PLASTIC HYDRAULIC RESERVOIR",
+      "Location": "Indore",
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -39159,7 +39215,7 @@
       "PartNumber": "278601990197",
       "Description": "SET-UPPER ENGINE GASKET 6BT BS3",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 16
     },
     {
       "Brand": "TATA Motors",
@@ -39187,7 +39243,7 @@
       "PartNumber": "278601990198",
       "Description": "SET-GASKET LOWER ENGINE 6BT BS1/3",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -39522,6 +39578,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "278601995306",
       "Description": "GASKET CYLINDER HEAD ISBE5.9 BS4",
+      "Location": "Raigarh",
+      "AvailableQty": 10
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "278601995306",
+      "Description": "GASKET CYLINDER HEAD ISBE5.9 BS4",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -39564,15 +39627,8 @@
       "Brand": "TATA Motors",
       "PartNumber": "278601995315",
       "Description": "GASKET CYLINDER HEAD BS6-PH2",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278601995315",
-      "Description": "GASKET CYLINDER HEAD BS6-PH2",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -40209,7 +40265,7 @@
       "PartNumber": "278601999993",
       "Description": "SET-LOWER ENGINE GASKET BS1/2/3",
       "Location": "Indore",
-      "AvailableQty": 15
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -40342,7 +40398,7 @@
       "PartNumber": "278603990153",
       "Description": "SET-PISTON RING STD (SET OF 6) 6BT BS3",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -40377,7 +40433,7 @@
       "PartNumber": "278603990175",
       "Description": "CONNECTING ROD ISBe5.9/6.7 BS1/2/3/4/6",
       "Location": "Raigarh",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -40398,7 +40454,7 @@
       "PartNumber": "278603990176",
       "Description": "CON ROD BEARING STD(FRACTURE) 6BT BS2/3/",
       "Location": "Raigarh",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -40650,7 +40706,7 @@
       "PartNumber": "278603997702",
       "Description": "SEAL OIL BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 68
+      "AvailableQty": 66
     },
     {
       "Brand": "TATA Motors",
@@ -41000,7 +41056,7 @@
       "PartNumber": "278603999944",
       "Description": "PILOT BEARING BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -41203,7 +41259,7 @@
       "PartNumber": "278605993704",
       "Description": "HOUSING GEAR ISBE5.9 BS4",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -41301,7 +41357,7 @@
       "PartNumber": "278605997902",
       "Description": "CAMSHAFT ISBe5.9 BS1/3/4",
       "Location": "Raipur",
-      "AvailableQty": 35
+      "AvailableQty": 38
     },
     {
       "Brand": "TATA MOTORS",
@@ -41462,7 +41518,7 @@
       "PartNumber": "278605999901",
       "Description": "GASKET PUSH ROD COVER BS1/2/3/4",
       "Location": "Raigarh",
-      "AvailableQty": 25
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA MOTORS",
@@ -41482,15 +41538,8 @@
       "Brand": "TATA Motors",
       "PartNumber": "278605999902",
       "Description": "COVER PUSH ROD BS1/2/3",
-      "Location": "Raigarh",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278605999902",
-      "Description": "COVER PUSH ROD BS1/2/3",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -42001,7 +42050,7 @@
       "PartNumber": "278605999979",
       "Description": "ROD PUSH BS1/3/4/6",
       "Location": "Indore",
-      "AvailableQty": 48
+      "AvailableQty": 36
     },
     {
       "Brand": "TATA Motors",
@@ -42155,7 +42204,7 @@
       "PartNumber": "278607989928",
       "Description": "GEAR FLYWHEEL RING ISBe B5.9 BS1/2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 40
+      "AvailableQty": 51
     },
     {
       "Brand": "TATA Motors",
@@ -42239,7 +42288,7 @@
       "PartNumber": "278607989967",
       "Description": "FUEL FILTER BS3",
       "Location": "Raipur",
-      "AvailableQty": 139
+      "AvailableQty": 144
     },
     {
       "Brand": "TATA MOTORS",
@@ -42421,13 +42470,20 @@
       "PartNumber": "278607996921",
       "Description": "TUBE FUEL DRAIN BS4",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "278607996921",
       "Description": "TUBE FUEL DRAIN BS4",
       "Location": "Neemuch",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278607996922",
+      "Description": "TUBE FUEL DRAIN BS4",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -42512,7 +42568,7 @@
       "PartNumber": "278607996943",
       "Description": "TUBE FUEL SUPPLY",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -43240,7 +43296,7 @@
       "PartNumber": "278609119909",
       "Description": "FUEL FILTER (FWS) ELEMENT SPINON BS1/2/3",
       "Location": "Raipur",
-      "AvailableQty": 55
+      "AvailableQty": 54
     },
     {
       "Brand": "TATA Motors",
@@ -43282,7 +43338,7 @@
       "PartNumber": "278609119910",
       "Description": "FUEL FILTER ELEMENT BS4/6",
       "Location": "Raipur",
-      "AvailableQty": 16
+      "AvailableQty": 54
     },
     {
       "Brand": "TATA Motors",
@@ -43373,7 +43429,7 @@
       "PartNumber": "278609119916",
       "Description": "ASSY. PRIMING PUMP WITH HEAD BS4/6",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -43464,7 +43520,7 @@
       "PartNumber": "278609130134",
       "Description": "ASSY. AIR FILTER. OFFER DRG BS1/2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -44017,7 +44073,7 @@
       "PartNumber": "278609139931",
       "Description": "AIR FILTER ELEMENT-PRIMARY BS2/3/4",
       "Location": "Indore",
-      "AvailableQty": 13
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA MOTORS",
@@ -44129,7 +44185,7 @@
       "PartNumber": "278609140107",
       "Description": "PRE CLEANER BS1/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 11
     },
     {
       "Brand": "TATA Motors",
@@ -44172,6 +44228,13 @@
       "Description": "DAMPER ASSEMBLY",
       "Location": "Indore",
       "AvailableQty": 6
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278609140142",
+      "Description": "ASSY. PRECLEANER,PLASTIC BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -44304,7 +44367,7 @@
       "PartNumber": "278609990141",
       "Description": "FUEL FILTER SPINON BS4",
       "Location": "Raipur",
-      "AvailableQty": 136
+      "AvailableQty": 134
     },
     {
       "Brand": "TATA MOTORS",
@@ -44332,14 +44395,14 @@
       "PartNumber": "278609990141",
       "Description": "FUEL FILTER SPINON BS4",
       "Location": "Raigarh",
-      "AvailableQty": 58
+      "AvailableQty": 52
     },
     {
       "Brand": "TATA MOTORS",
       "PartNumber": "278609990141",
       "Description": "FUEL FILTER SPINON BS4",
       "Location": "Indore",
-      "AvailableQty": 114
+      "AvailableQty": 110
     },
     {
       "Brand": "TATA MOTORS",
@@ -44375,6 +44438,13 @@
       "Description": "TUBE AIR FUEL CONTROL",
       "Location": "Indore",
       "AvailableQty": 6
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278609996905",
+      "Description": "PIPE AIR TRANSFER",
+      "Location": "Raipur",
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -44430,7 +44500,7 @@
       "PartNumber": "278609999822",
       "Description": "FUEL FILTER ELEMENT BS3/4",
       "Location": "Indore",
-      "AvailableQty": 136
+      "AvailableQty": 129
     },
     {
       "Brand": "TATA Motors",
@@ -44808,7 +44878,7 @@
       "PartNumber": "278613990118",
       "Description": "TUBE CPR",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -44885,7 +44955,7 @@
       "PartNumber": "278613995301",
       "Description": "GASKET ACC DRIVE COVER",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
@@ -45641,7 +45711,7 @@
       "PartNumber": "278614995301",
       "Description": "GASKET EXHAUST MANIFOLD BS1/3/4",
       "Location": "Raipur",
-      "AvailableQty": 144
+      "AvailableQty": 132
     },
     {
       "Brand": "TATA Motors",
@@ -46012,7 +46082,7 @@
       "PartNumber": "278615999845",
       "Description": "CAMSHAFT POSITION SENSOR BS4",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -46041,13 +46111,6 @@
       "Description": "TENSIONER BELT BS1/2/3/4",
       "Location": "Korba",
       "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278615999902",
-      "Description": "TENSIONER BELT BS1/2/3/4",
-      "Location": "Raigarh",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -46089,7 +46152,7 @@
       "PartNumber": "278618139902",
       "Description": "OIL FILTER ELEMENT SPINON BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 69
+      "AvailableQty": 62
     },
     {
       "Brand": "TATA Motors",
@@ -46110,7 +46173,7 @@
       "PartNumber": "278618139902",
       "Description": "OIL FILTER ELEMENT SPINON BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 52
+      "AvailableQty": 51
     },
     {
       "Brand": "TATA Motors",
@@ -46222,7 +46285,7 @@
       "PartNumber": "278618997706",
       "Description": "FRONT OIL SEAL BS2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 24
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
@@ -46299,7 +46362,7 @@
       "PartNumber": "278618999905",
       "Description": "CORE COOLER BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -46328,6 +46391,13 @@
       "Description": "SEAL O RING",
       "Location": "Indore",
       "AvailableQty": 48
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "278618999909",
+      "Description": "PLUNGER PRESSURE REGULATOR",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -46495,7 +46565,7 @@
       "PartNumber": "278618999994",
       "Description": "OIL FILTER ELEMENT SPINON BS4",
       "Location": "Raipur",
-      "AvailableQty": 324
+      "AvailableQty": 320
     },
     {
       "Brand": "TATA MOTORS",
@@ -46530,7 +46600,7 @@
       "PartNumber": "278618999994",
       "Description": "OIL FILTER ELEMENT SPINON BS4",
       "Location": "Indore",
-      "AvailableQty": 117
+      "AvailableQty": 110
     },
     {
       "Brand": "TATA MOTORS",
@@ -46551,7 +46621,7 @@
       "PartNumber": "278618999995",
       "Description": "PAN OIL ISBE5.9 AJINKYA BS4",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -46928,7 +46998,7 @@
       "Brand": "TATA Motors",
       "PartNumber": "278620999838",
       "Description": "CLUTCH FAN BS4",
-      "Location": "Indore",
+      "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
@@ -47468,7 +47538,7 @@
       "PartNumber": "278650105838",
       "Description": "RUBBER HOSE",
       "Location": "Indore",
-      "AvailableQty": 38
+      "AvailableQty": 36
     },
     {
       "Brand": "TATA Motors",
@@ -48700,7 +48770,7 @@
       "PartNumber": "278905110114",
       "Description": "ASSY. AUTO TENSIONER BS3/4",
       "Location": "Jabalpur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -48708,13 +48778,6 @@
       "Description": "CAMSHAFT GEAR-REAR",
       "Location": "Jabalpur",
       "AvailableQty": 4
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278905116303",
-      "Description": "TIMING BELT",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -48770,7 +48833,7 @@
       "PartNumber": "278909130206",
       "Description": "ASSY. AIR FILTER (WINGER)",
       "Location": "Jabalpur",
-      "AvailableQty": 13
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -48932,13 +48995,6 @@
       "Description": "GASKET-OIL FILTER ADAPTOR BS4",
       "Location": "Raipur",
       "AvailableQty": 121
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "278920100109",
-      "Description": "WATER PUMP ASSY BS6",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -49470,7 +49526,7 @@
       "PartNumber": "279705107801",
       "Description": "OIL SEAL (CAMSHAFT)",
       "Location": "Jabalpur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -49509,13 +49565,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "279705140105",
-      "Description": "ASSY.RFF & HLA - DICOR",
-      "Location": "Jabalpur",
-      "AvailableQty": 16
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "279705153703",
       "Description": "VALVE GUIDE INTAKE-EXHAUST",
       "Location": "Jabalpur",
@@ -49547,14 +49596,14 @@
       "PartNumber": "279709119901",
       "Description": "KIT FUEL PRE-FILTER ELEMENT",
       "Location": "Jabalpur",
-      "AvailableQty": 24
+      "AvailableQty": 19
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "279709119901",
       "Description": "KIT FUEL PRE-FILTER ELEMENT",
       "Location": "Neemuch",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -49715,7 +49764,7 @@
       "PartNumber": "280846400101",
       "Description": "ASSY. STEERING WHEEL COMP 470DIA. BS1- 4",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -53222,7 +53271,7 @@
       "PartNumber": "284533403101",
       "Description": "BEARING FRONT HUB BS2/3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 6
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -53838,7 +53887,7 @@
       "PartNumber": "284583000237",
       "Description": "PIPE ASSY B DISCHARGE",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -53929,7 +53978,7 @@
       "PartNumber": "284588500130",
       "Description": "HEADLAMP ACCESS COVER ASSY BUMPER-LH BS",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -54251,7 +54300,7 @@
       "PartNumber": "284633203101",
       "Description": "THRUST BEARING KING PIN NORMAL BS2/3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -54426,7 +54475,7 @@
       "PartNumber": "284633407801",
       "Description": "HUB SEAL 6.5T P2 AXLE BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 59
+      "AvailableQty": 95
     },
     {
       "Brand": "TATA Motors",
@@ -54447,7 +54496,7 @@
       "PartNumber": "284633408601",
       "Description": "SPACER TUBE FRONT HUB 6.5T P-II",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -54517,6 +54566,13 @@
       "PartNumber": "284633800137",
       "Description": "TIE ROD END ASSY. L.H.",
       "Location": "Neemuch",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "284633800138",
+      "Description": "TIE ROD END ASSY. R.H.",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -54920,6 +54976,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "284642990126",
+      "Description": "DRUM BRAKE TORQUE PLATE RH",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "284642990132",
       "Description": "KIT CAMSHAFT LH",
       "Location": "Indore",
@@ -54937,6 +55000,13 @@
       "PartNumber": "284642997901",
       "Description": "CAM SHAFT RH",
       "Location": "Indore",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "284643200112",
+      "Description": "ASSY BRACKET-LH(AIR TANK MTG.15LTR)",
+      "Location": "Raipur",
       "AvailableQty": 1
     },
     {
@@ -55196,7 +55266,7 @@
       "PartNumber": "284647103801",
       "Description": "FILLER NECK BS6",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -55427,7 +55497,7 @@
       "PartNumber": "284654504903",
       "Description": "SWITCH LIGHT MODE BS4",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -55568,6 +55638,13 @@
       "Description": "LOCK WASHER BRG NUT",
       "Location": "Raipur",
       "AvailableQty": 10
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "284943700115",
+      "Description": "MODULATOR VALVE(VOSS) 24V BS1/3/4",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -56428,7 +56505,7 @@
       "PartNumber": "285126800303",
       "Description": "GEARSHIFTUNITASSYWITHCABLE BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -56652,7 +56729,7 @@
       "PartNumber": "285226713702",
       "Description": "INTERLOCK FINGER (CABLE SHIFT) BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -57057,6 +57134,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "285526204611",
       "Description": "INNER CONE W/CORBON LINING (1/2ND) BS3/4",
+      "Location": "Indore",
+      "AvailableQty": 15
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "285526204611",
+      "Description": "INNER CONE W/CORBON LINING (1/2ND) BS3/4",
       "Location": "Neemuch",
       "AvailableQty": 4
     },
@@ -57359,7 +57443,7 @@
       "PartNumber": "285526257903",
       "Description": "DRIVE SHAFT(6.9 RATIO) BS3/4",
       "Location": "Indore",
-      "AvailableQty": 1
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -57472,13 +57556,6 @@
       "Description": "CONSTANT MESH GEAR (6.9 RATIO )",
       "Location": "Indore",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "285526305409",
-      "Description": "HELICAL GEAR 3 RD SPEED (COUNTER SHAFT 6",
-      "Location": "Indore",
-      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -57743,6 +57820,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "285526516701",
       "Description": "PIVOT PIN",
+      "Location": "Indore",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "285526516701",
+      "Description": "PIVOT PIN",
       "Location": "Jabalpur",
       "AvailableQty": 5
     },
@@ -57897,6 +57981,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "285526713403",
       "Description": "SPH. DETENT (SEL SHIFT SFT/INA ) BS3/4/6",
+      "Location": "Indore",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "285526713403",
+      "Description": "SPH. DETENT (SEL SHIFT SFT/INA ) BS3/4/6",
       "Location": "Jabalpur",
       "AvailableQty": 28
     },
@@ -58028,6 +58119,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "285526820199",
+      "Description": "GEAR SHIFT KNOB ASSY 285526821637 BS6",
+      "Location": "Indore",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "285526820217",
       "Description": "SHIFTER CABLE ASSY BS6",
       "Location": "Raipur",
@@ -58046,13 +58144,6 @@
       "Description": "GEAR SHIFT LEVERS6",
       "Location": "Raipur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "285526826098",
-      "Description": "SHIFTING LEVER (R160)",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -58353,7 +58444,7 @@
       "PartNumber": "286315999916",
       "Description": "SENSOR TEMPERATURE BS4",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -58417,20 +58508,6 @@
       "Description": "ASSY. AUXILLIARY WATER TANK BS3/4",
       "Location": "Indore",
       "AvailableQty": 5
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "286403151602",
-      "Description": "CONNECTING ROD ASSY FACTURED WITH BUSH",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "286405111601",
-      "Description": "TIMING BELT BS1/3/4/6",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -59186,7 +59263,7 @@
       "PartNumber": "288024000105",
       "Description": "REBOUND RING ENG MTG RR",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -59383,6 +59460,13 @@
       "Description": "TRUNNION BUSH (26 TON) BS2/3/4",
       "Location": "Raipur",
       "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "288032403401",
+      "Description": "TRUNNION BUSH (26 TON) BS2/3/4",
+      "Location": "Indore",
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -59612,6 +59696,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "288032409202",
       "Description": "THRUST WASHER (WITH TABS) (TRUNNION HOUS",
+      "Location": "Indore",
+      "AvailableQty": 6
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "288032409208",
+      "Description": "THRUST WASHER (STRAIGHT TABS)",
       "Location": "Indore",
       "AvailableQty": 6
     },
@@ -60121,13 +60212,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "288532300103",
-      "Description": "ASSY. FRONT SHOCK ABSORBER BS3/4/6",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "288532303201",
       "Description": "HEX BOLT M22X1.5X150",
       "Location": "Raipur",
@@ -60565,7 +60649,7 @@
       "PartNumber": "288547700101",
       "Description": "ASSY. HEAD FOR FUEL FILTER BS3/4",
       "Location": "Indore",
-      "AvailableQty": 9
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -60607,7 +60691,7 @@
       "PartNumber": "288547704901",
       "Description": "FUEL FILTER (FWS) SPINON BS3/4",
       "Location": "Indore",
-      "AvailableQty": 40
+      "AvailableQty": 39
     },
     {
       "Brand": "TATA Motors",
@@ -60734,13 +60818,6 @@
       "Description": "FUEL TANK UNIT (400LTRS) BS1/2/3/4",
       "Location": "Raipur",
       "AvailableQty": 5
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "289254200116",
-      "Description": "FUEL TANK UNIT (400LTRS) BS1/2/3/4",
-      "Location": "Indore",
-      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -61056,13 +61133,6 @@
       "Description": "RELEASE CABLE RHD - ASEY ENGG",
       "Location": "Jabalpur",
       "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "289488700129",
-      "Description": "BONNET LOCK BONNET SIDE - - STD",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -61454,13 +61524,6 @@
       "PartNumber": "289846800125",
       "Description": "HIGH PRESSURE LINE ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "289846800125",
-      "Description": "HIGH PRESSURE LINE ASSY BS6",
-      "Location": "Jabalpur",
       "AvailableQty": 1
     },
     {
@@ -62175,7 +62238,7 @@
       "PartNumber": "3520540205",
       "Description": "PUSH ROD BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -62314,6 +62377,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "3641100760",
       "Description": "CENTER DOOR LOCK UNIT ASSY RHD RH",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "3641100760",
+      "Description": "CENTER DOOR LOCK UNIT ASSY RHD RH",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -62434,7 +62504,7 @@
       "PartNumber": "4030816",
       "Description": "HOLSET-4030816-CHRA-HX35W",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "Brand": "HOLSET",
@@ -62938,7 +63008,7 @@
       "PartNumber": "410630100104",
       "Description": "ACCELERATOR PEDAL ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -62952,14 +63022,14 @@
       "PartNumber": "410630100104",
       "Description": "ACCELERATOR PEDAL ASSY BS6",
       "Location": "Raigarh",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "410630100104",
       "Description": "ACCELERATOR PEDAL ASSY BS6",
       "Location": "Indore",
-      "AvailableQty": 8
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -62987,7 +63057,7 @@
       "PartNumber": "410630100107",
       "Description": "ACCELERATOR PEDAL ASSY BS6 PH2",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -63834,7 +63904,7 @@
       "PartNumber": "500754709901",
       "Description": "SPEED SENSOR BS3/4",
       "Location": "Indore",
-      "AvailableQty": 23
+      "AvailableQty": 26
     },
     {
       "Brand": "TATA Motors",
@@ -64335,6 +64405,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "501132406505",
+      "Description": "HEX FLANGE NUT SELF LOCK M20X2.5 BS2-6",
+      "Location": "Indore",
+      "AvailableQty": 20
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "501132406506",
       "Description": "M24 X 2 AMPT HEX NUT",
       "Location": "Raipur",
@@ -64674,7 +64751,7 @@
       "PartNumber": "501346703301",
       "Description": "BRACKET RELAY ARM MTG BS6",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -64745,6 +64822,13 @@
       "Description": "CAM SHAFT FLH",
       "Location": "Raigarh",
       "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "501442105101",
+      "Description": "CAM SHAFT FLH",
+      "Location": "Indore",
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -65136,7 +65220,7 @@
       "PartNumber": "502830100106",
       "Description": "ASSY. ACCELERATOR PULL CABLE 3269MM BS3",
       "Location": "Indore",
-      "AvailableQty": 13
+      "AvailableQty": 55
     },
     {
       "Brand": "TATA Motors",
@@ -65297,7 +65381,7 @@
       "PartNumber": "503030100108",
       "Description": "ACCELERATOR PEDAL MODULE BS4/6",
       "Location": "Jagdalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -65318,14 +65402,14 @@
       "PartNumber": "503030100108",
       "Description": "ACCELERATOR PEDAL MODULE BS4/6",
       "Location": "Indore",
-      "AvailableQty": 15
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "503030100108",
       "Description": "ACCELERATOR PEDAL MODULE BS4/6",
       "Location": "Neemuch",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -65420,13 +65504,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "503033900191",
-      "Description": "BUSH ASSY",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "503033903209",
       "Description": "HEX BOLT M30X2X311 LG",
       "Location": "Raipur",
@@ -65472,7 +65549,7 @@
       "PartNumber": "503033908601",
       "Description": "WEAR PAD",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -65542,7 +65619,7 @@
       "PartNumber": "503046600105",
       "Description": "ASSY. STG. PLASTIC RESERVOIR BS1/2/3/4",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 25
     },
     {
       "Brand": "TATA Motors",
@@ -65563,7 +65640,7 @@
       "PartNumber": "503046600105",
       "Description": "ASSY. STG. PLASTIC RESERVOIR BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 26
+      "AvailableQty": 36
     },
     {
       "Brand": "TATA MOTORS",
@@ -65655,6 +65732,13 @@
       "Description": "NEUTRAL SWITCH",
       "Location": "Tata Motors - Raipur",
       "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "503054504901",
+      "Description": "NEUTRAL SWITCH",
+      "Location": "Raigarh",
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -66131,13 +66215,6 @@
       "Description": "INTERMEDIATE SHAFT ASSY",
       "Location": "Raipur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "503946100108",
-      "Description": "INTERMEDIATE SHAFT ASSY",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -66774,7 +66851,7 @@
       "PartNumber": "504226800143",
       "Description": "BALL JOINT ASSY BS6-PH2",
       "Location": "Raigarh",
-      "AvailableQty": 2
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -67117,7 +67194,7 @@
       "PartNumber": "505324200103",
       "Description": "RUBBER MOUNT REAR BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 36
+      "AvailableQty": 34
     },
     {
       "Brand": "TATA Motors",
@@ -67131,7 +67208,7 @@
       "PartNumber": "505324200103",
       "Description": "RUBBER MOUNT REAR BS3/4",
       "Location": "Raigarh",
-      "AvailableQty": 18
+      "AvailableQty": 17
     },
     {
       "Brand": "TATA Motors",
@@ -67429,6 +67506,27 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "506429300102",
+      "Description": "ASSY. CLUTCH MASTER CYLINDER BS3/4/6",
+      "Location": "Raipur",
+      "AvailableQty": 50
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "506429300102",
+      "Description": "ASSY. CLUTCH MASTER CYLINDER BS3/4/6",
+      "Location": "Raigarh",
+      "AvailableQty": 4
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "506429300102",
+      "Description": "ASSY. CLUTCH MASTER CYLINDER BS3/4/6",
+      "Location": "Indore",
+      "AvailableQty": 10
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "506429300105",
       "Description": "MINOR KIT-MASTER CYLINDER",
       "Location": "Raipur",
@@ -67625,6 +67723,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "506846305102",
+      "Description": "RELAY ARM",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "506846305103",
       "Description": "PITMAN ARM",
       "Location": "Indore",
@@ -67734,6 +67839,13 @@
       "Description": "BRACKET CENTER BRG MTG BS6",
       "Location": "Indore",
       "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "506947600101",
+      "Description": "FUEL SUCTION PIPE ASSY TANK TO W/SEP BS6",
+      "Location": "Indore",
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -67858,13 +67970,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "507043700109",
       "Description": "ANTI COMPOUNDING RELAY VALVE BS6",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "507043700109",
-      "Description": "ANTI COMPOUNDING RELAY VALVE BS6",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -67907,13 +68012,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "507143900165",
       "Description": "METAL PIPE ASSY",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "507247600103",
-      "Description": "SUCTION PIPE ASSY FUEL TANK TO FILTER BS",
       "Location": "Indore",
       "AvailableQty": 1
     },
@@ -68188,7 +68286,7 @@
       "PartNumber": "508143700189",
       "Description": "HBV WITH TRAILER CHECK BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -68311,6 +68409,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "508149200103",
+      "Description": "SUCTION LINE;TANK TO SM BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "508149200129",
       "Description": "EXHAUST PIPE ASSY WITH FLEX BELLOW BS6",
       "Location": "Raipur",
@@ -68402,6 +68507,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "508446990144",
+      "Description": "INTERMEDIATE SHAFT ASSY BS6-PH2",
+      "Location": "Indore",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "508446990145",
       "Description": "COLUMN ASSY UPPER BS6-PH2",
       "Location": "Raipur",
@@ -68413,13 +68525,6 @@
       "Description": "SEALING RING BS6",
       "Location": "Raipur",
       "AvailableQty": 3
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "508447600101",
-      "Description": "FUEL SUCTION PIPE ASSY TANK TO W/SEP BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -68489,6 +68594,13 @@
       "PartNumber": "508454600106",
       "Description": "WIRING HARNESS MAXI FUSE BS6",
       "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "508454709901",
+      "Description": "VEHICLE ELECTRONIC CONTROLLER UNIT BS6",
+      "Location": "Indore",
       "AvailableQty": 1
     },
     {
@@ -68654,13 +68766,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "508846303701",
-      "Description": "RELAY ARM BS6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "508846305106",
       "Description": "PITMAN ARM BS6",
       "Location": "Raipur",
@@ -68761,13 +68866,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "508847600105",
       "Description": "FUEL SUCTION PIPE ASSY TANK TO W/SEP BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "508847600106",
-      "Description": "RETURN PIPE ASSY ENGINE TO FUEL TANK BS6",
       "Location": "Indore",
       "AvailableQty": 2
     },
@@ -69095,17 +69193,17 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "515554504901",
-      "Description": "ATC SWITCH DASHBOARD BS6-PH2",
-      "Location": "Indore",
+      "PartNumber": "514841990103",
+      "Description": "FLANGE YOKE BS6",
+      "Location": "Raipur",
       "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "515842308202",
-      "Description": "ANCHOR BRACKET RH BS6-PH2",
+      "PartNumber": "515554504901",
+      "Description": "ATC SWITCH DASHBOARD BS6-PH2",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -69193,6 +69291,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "516047600105",
+      "Description": "SUCTION PIPE ASSY FILTER TO ENGINE BS6-P",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "516047600109",
       "Description": "RETURN PIPE ASSY ENGINE TO FUEL TANK BS6",
       "Location": "Raipur",
@@ -69202,6 +69307,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "516047600122",
       "Description": "FUEL SUCTION PIPE ASSY FUEL TANK TO ENG",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "516233909001",
+      "Description": "LIFT AXLE CONTROL VALVE ASSY BS6-PH2 AC",
       "Location": "Raipur",
       "AvailableQty": 1
     },
@@ -69252,7 +69364,7 @@
       "PartNumber": "516246900109",
       "Description": "DRAG LINK ASSY FRONT BS6-PH2",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -69630,7 +69742,7 @@
       "PartNumber": "5321MOLYPLUS-SD",
       "Description": "TN-5321MOLYPLUS-SD-TATA_97",
       "Location": "Indore",
-      "AvailableQty": 41
+      "AvailableQty": 42
     },
     {
       "Brand": "DRiV - CTOH",
@@ -69686,7 +69798,7 @@
       "PartNumber": "5327CKS-SD",
       "Description": "TN-5327CKS-SD-HARVESTOR III -102MM",
       "Location": "Jabalpur",
-      "AvailableQty": 6
+      "AvailableQty": 4
     },
     {
       "Brand": "DRiV - CTOH",
@@ -70106,7 +70218,7 @@
       "PartNumber": "550229100172",
       "Description": "HIGH PRESSURE PIPE ASSY",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -71601,10 +71713,24 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "553047600120",
+      "Description": "SUCTION FUEL PIPE ASSY MAINFILTER TO FIP",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "553047600135",
       "Description": "SUCTION FUEL PIPE ASSY",
       "Location": "Indore",
       "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "553047600137",
+      "Description": "SUCTION FUEL PIPE ASSY BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -72325,7 +72451,7 @@
       "PartNumber": "554629100109",
       "Description": "CONCENTRIC SLAVE CYLINDER ASSY BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 22
+      "AvailableQty": 21
     },
     {
       "Brand": "TATA Motors",
@@ -72641,13 +72767,6 @@
       "Description": "SIDE BONNET ASSY LH BS6-PH2",
       "Location": "Jabalpur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "55508810M10104",
-      "Description": "SIDE BONNET ASSY RH BS6-PH2",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "DRiV - LV",
@@ -73001,6 +73120,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "570101990222",
+      "Description": "LOWER GASKET KIT ISBE6.7 BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "570101990226",
       "Description": "HEAD CYLINDER BS6",
       "Location": "Raipur",
@@ -73221,7 +73347,7 @@
       "PartNumber": "570101999825",
       "Description": "COALESCER BREATHER CARTRIDGE BS6",
       "Location": "Raipur",
-      "AvailableQty": 80
+      "AvailableQty": 78
     },
     {
       "Brand": "TATA MOTORS",
@@ -73862,10 +73988,17 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "570107996940",
+      "Description": "TUBE INJECTOR FUEL SUPPLY BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "570107996942",
       "Description": "TUBE FUEL SUPPLY BS6",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -73879,7 +74012,7 @@
       "PartNumber": "570107996943",
       "Description": "TUBE FUEL SUPPLY BS6",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -74229,7 +74362,7 @@
       "PartNumber": "570109130319",
       "Description": "AIR CLEANER ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA MOTORS",
@@ -74261,23 +74394,9 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "570109130326",
-      "Description": "BRACKET ASSY AIR FILTER MTG BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "570109130327",
       "Description": "BRACKET ASSY AIR FILTER MTG BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "570109130327",
-      "Description": "BRACKET ASSY AIR FILTER MTG BS6",
-      "Location": "Indore",
       "AvailableQty": 2
     },
     {
@@ -74520,13 +74639,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "570109136943",
-      "Description": "PIPE ASSY AIR FILTER TO TC BS6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "570109136945",
       "Description": "PIPE ASSY BS6",
       "Location": "Indore",
@@ -74545,13 +74657,6 @@
       "Description": "AIR FILTER ELEMENT (SECONDARY) BS6",
       "Location": "Raipur",
       "AvailableQty": 53
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "570109139907",
-      "Description": "AIR FILTER ELEMENT (SECONDARY) BS6",
-      "Location": "Jagdalpur",
-      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -74719,7 +74824,7 @@
       "PartNumber": "570109140120",
       "Description": "PIPE ASSY BS6-PH2",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -75363,7 +75468,7 @@
       "PartNumber": "570115999818",
       "Description": "SWITCH PRESSURE BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -75396,16 +75501,9 @@
     {
       "Brand": "TATA MOTORS",
       "PartNumber": "570118990104",
-      "Description": "HEAD LUB OIL FILTER",
+      "Description": "TM-570118990104-HEAD LUB OIL FILTER-PG3",
       "Location": "Tata Motors - Raipur",
       "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA MOTORS",
-      "PartNumber": "570118990104",
-      "Description": "HEAD LUB OIL FILTER",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -75454,7 +75552,7 @@
       "PartNumber": "570118995304",
       "Description": "GASKET FILTER BS6",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -75902,7 +76000,7 @@
       "PartNumber": "570501990108",
       "Description": "ENGINE OVERHAUL SEAL KIT",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -76305,6 +76403,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "570601175853",
+      "Description": "HOSES6",
+      "Location": "Neemuch",
+      "AvailableQty": 8
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "570601990108",
       "Description": "KIT-SEAL ENGINE OVERHAUL",
       "Location": "Raipur",
@@ -76383,13 +76488,6 @@
     {
       "Brand": "TATA Motors",
       "PartNumber": "570603107901",
-      "Description": "CRANKSHAFT",
-      "Location": "Raipur",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "570603107911",
       "Description": "CRANKSHAFT",
       "Location": "Raipur",
       "AvailableQty": 1
@@ -76973,7 +77071,7 @@
       "PartNumber": "570607140134",
       "Description": "HP PIPE ASSY RAIL TO INJECTOR BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -77413,6 +77511,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "570614110112",
       "Description": "TUBE EGR (EX.MANIFOLD TO EGR VALVE BS4",
+      "Location": "Indore",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570614110112",
+      "Description": "TUBE EGR (EX.MANIFOLD TO EGR VALVE BS4",
       "Location": "Jabalpur",
       "AvailableQty": 2
     },
@@ -77498,7 +77603,7 @@
       "PartNumber": "570614115314",
       "Description": "GASKET BS6",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -77680,7 +77785,7 @@
       "PartNumber": "570615400104",
       "Description": "DEF QUALITY SENSOR 250KBPS BS6",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -77708,7 +77813,7 @@
       "PartNumber": "570616109903",
       "Description": "T-MAP SENSOR BS4",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -77743,7 +77848,7 @@
       "PartNumber": "570618130105",
       "Description": "OIL FILTER ASSY BS6",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -77798,7 +77903,7 @@
       "Brand": "TATA Motors",
       "PartNumber": "570618170117",
       "Description": "OIL COOLER (WITH 570618170116)",
-      "Location": "Jabalpur",
+      "Location": "Neemuch",
       "AvailableQty": 1
     },
     {
@@ -77842,6 +77947,13 @@
       "Description": "ASSY. WATER PUMP BS3/4",
       "Location": "Raipur",
       "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570620100101",
+      "Description": "ASSY. WATER PUMP BS3/4",
+      "Location": "Indore",
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -78002,7 +78114,7 @@
       "PartNumber": "570620140133",
       "Description": "ASSY. BEARING HOUSING BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -78195,24 +78307,10 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "570623127003",
-      "Description": "PULLEY DIA.185 8 PK FOR AIR COMPRESSOR",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "570623127013",
       "Description": "PWS PUMP PULLEY WITH SEPRATE DRIVE & 8PK",
       "Location": "Jabalpur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "570623127023",
-      "Description": "PULLEY BS6",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -78436,7 +78534,7 @@
       "PartNumber": "570901135302",
       "Description": "OIL SUMP GASKET",
       "Location": "Indore",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA Motors",
@@ -78541,6 +78639,13 @@
       "PartNumber": "570901155309",
       "Description": "CYLINDER HEAD GASKET BS3/4/6",
       "Location": "Neemuch",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570901155312",
+      "Description": "GASKET CYL HEAD COVER BS6-PH2",
+      "Location": "Indore",
       "AvailableQty": 2
     },
     {
@@ -78800,7 +78905,7 @@
       "PartNumber": "570903107802",
       "Description": "CRANKSHAFT FRONT OIL SEAL",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -78814,7 +78919,7 @@
       "PartNumber": "570903107802",
       "Description": "CRANKSHAFT FRONT OIL SEAL",
       "Location": "Indore",
-      "AvailableQty": 6
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -79497,13 +79602,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "570909120140",
-      "Description": "FUEL PIPE ASSY BS6",
-      "Location": "Indore",
-      "AvailableQty": 5
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "570909120141",
       "Description": "FUEL PIPE ASSY BS6",
       "Location": "Raipur",
@@ -79640,7 +79738,7 @@
       "PartNumber": "570909129904",
       "Description": "FUEL FILTER ELEMENT W/O-RING 5L BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 122
+      "AvailableQty": 123
     },
     {
       "Brand": "TATA MOTORS",
@@ -79843,7 +79941,7 @@
       "PartNumber": "570909130107",
       "Description": "AIR FILTER ELEMENT(SAFETY) BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA Motors",
@@ -80108,6 +80206,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "570914110109",
       "Description": "TUBE ASSY WITH CRIMPED RUBBER HOSE (EGR",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570914110109",
+      "Description": "TUBE ASSY WITH CRIMPED RUBBER HOSE (EGR",
       "Location": "Indore",
       "AvailableQty": 3
     },
@@ -80365,6 +80470,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "570915400105",
+      "Description": "AIR MASS FLOW SENSOR",
+      "Location": "Indore",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "570915400108",
       "Description": "EXHAUST TEMPERATURE SENSOR BS6",
       "Location": "Raipur",
@@ -80486,8 +80598,22 @@
       "Brand": "TATA Motors",
       "PartNumber": "570918100101",
       "Description": "ASSY OIL PUMP COMPLETE",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570918100101",
+      "Description": "ASSY OIL PUMP COMPLETE",
       "Location": "Indore",
       "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "570918130101",
+      "Description": "OIL FILTER ELEMENT (SPINON) BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -81775,7 +81901,7 @@
       "PartNumber": "571020100107",
       "Description": "WATER PUMP ASSY BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 4
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -82461,7 +82587,7 @@
       "PartNumber": "572401170130",
       "Description": "DIPSTICK ASSY BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -82574,13 +82700,6 @@
       "Description": "FUEL PR PIPE ASSY,RAIL TO INJ",
       "Location": "Jabalpur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "572409110108",
-      "Description": "KIT-FILTER ELEMENT",
-      "Location": "Jabalpur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -82727,7 +82846,7 @@
       "PartNumber": "573501155301",
       "Description": "GASKET CYLINDER HEAD BS6",
       "Location": "Jabalpur",
-      "AvailableQty": 8
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -82741,7 +82860,7 @@
       "PartNumber": "573503990103",
       "Description": "SET-PISTON W/O RINGS GRADE BBS6",
       "Location": "Jabalpur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -82860,7 +82979,7 @@
       "PartNumber": "573603100101",
       "Description": "CRANKSHAFT ASSY WITH PIN",
       "Location": "Jabalpur",
-      "AvailableQty": 2
+      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -82999,6 +83118,13 @@
       "Brand": "TATA Motors",
       "PartNumber": "573701995302",
       "Description": "GASKET CYLINDER HEAD BS6",
+      "Location": "Raipur",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "573701995302",
+      "Description": "GASKET CYLINDER HEAD BS6",
       "Location": "Indore",
       "AvailableQty": 4
     },
@@ -83060,10 +83186,17 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "573701999819",
+      "Description": "DIPSTICK BS6",
+      "Location": "Raipur",
+      "AvailableQty": 6
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "573701999862",
       "Description": "BREATHER CRANKCASE BS6",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -83228,6 +83361,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "573709130109",
+      "Description": "AIR CLEANER ASSY BS6",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "573709130110",
       "Description": "BRACKET ASSY BS6",
       "Location": "Raipur",
@@ -83246,13 +83386,6 @@
       "Description": "PIPE BS6",
       "Location": "Raipur",
       "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "573709130146",
-      "Description": "PIPE BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -83399,7 +83532,7 @@
       "PartNumber": "573709999802",
       "Description": "VALVE AIR FUEL THROTTLE BS6",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -83477,13 +83610,6 @@
       "Description": "TUBE CPR WATER OUTLET BS6",
       "Location": "Raipur",
       "AvailableQty": 5
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "573713996918",
-      "Description": "TUBE LUB OIL SUPPLY BS6-PH2",
-      "Location": "Indore",
-      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -83762,13 +83888,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "573714990135",
       "Description": "HOUSING LIQUID FILTER KIT BS6",
-      "Location": "Raipur",
-      "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "573714990135",
-      "Description": "HOUSING LIQUID FILTER KIT BS6",
       "Location": "Raigarh",
       "AvailableQty": 2
     },
@@ -83799,13 +83918,6 @@
       "Description": "FILTER - DEF SUPPLY UNIT BS6-PH2",
       "Location": "Raigarh",
       "AvailableQty": 4
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "573714990142",
-      "Description": "FILTER - DEF SUPPLY UNIT BS6-PH2",
-      "Location": "Indore",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -84127,7 +84239,7 @@
       "PartNumber": "573718999815",
       "Description": "CARTRIDGE LUBRICATION OIL FILTER BS6",
       "Location": "Raipur",
-      "AvailableQty": 187
+      "AvailableQty": 185
     },
     {
       "Brand": "TATA Motors",
@@ -84239,7 +84351,7 @@
       "PartNumber": "573720993302",
       "Description": "BRACE TUBE FAN W/H BS6",
       "Location": "Raigarh",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -84351,7 +84463,7 @@
       "PartNumber": "573720999808",
       "Description": "CLUTCH FAN BS6",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -84436,13 +84548,6 @@
       "Description": "PUMP WATER BS6",
       "Location": "Raigarh",
       "AvailableQty": 6
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "573720999901",
-      "Description": "PUMP WATER BS6",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -85030,14 +85135,14 @@
       "PartNumber": "580525000108",
       "Description": "SET-CLUTCH ASSY. 430 DIA BS3/4/6",
       "Location": "Raigarh",
-      "AvailableQty": 5
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "580525000108",
       "Description": "SET-CLUTCH ASSY. 430 DIA BS3/4/6",
       "Location": "Indore",
-      "AvailableQty": 27
+      "AvailableQty": 22
     },
     {
       "Brand": "TATA Motors",
@@ -85079,7 +85184,7 @@
       "PartNumber": "580525000130",
       "Description": "SET-CLUTCH ASSY PULL TYPE DIA 430 BS6",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -85163,7 +85268,7 @@
       "PartNumber": "580525200108",
       "Description": "CLUTCH DISC 430 DIA. BS3/4/6",
       "Location": "Raigarh",
-      "AvailableQty": 11
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA MOTORS",
@@ -85296,7 +85401,7 @@
       "PartNumber": "580525400110",
       "Description": "COLLECTOR RING PACK-430DIA BS3",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -85401,7 +85506,7 @@
       "PartNumber": "580525600102",
       "Description": "CLUTCH RELEASE BRG - 430DIA - BS3/4",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -85478,7 +85583,7 @@
       "PartNumber": "580525603404",
       "Description": "BUSH (CLUTCH RELEASE LEVER)",
       "Location": "Raipur",
-      "AvailableQty": 54
+      "AvailableQty": 109
     },
     {
       "Brand": "TATA Motors",
@@ -85499,7 +85604,7 @@
       "PartNumber": "580525605101",
       "Description": "CLUTCH RELEASE FORK",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -85593,13 +85698,6 @@
       "AvailableQty": 6
     },
     {
-      "Brand": "TATA Motors",
-      "PartNumber": "581035101601",
-      "Description": "OIL SEAL (68X88X13) BS1/2/3/4/6",
-      "Location": "Indore",
-      "AvailableQty": 1
-    },
-    {
       "Brand": "TATA MOTORS",
       "PartNumber": "581035107702",
       "Description": "OIL SEAL (68X88X13)",
@@ -85632,7 +85730,7 @@
       "PartNumber": "581035107902",
       "Description": "OUTPUT SHAFT FRONT TANDEM",
       "Location": "Raipur",
-      "AvailableQty": 28
+      "AvailableQty": 34
     },
     {
       "Brand": "TATA Motors",
@@ -85724,13 +85822,6 @@
       "Description": "ASSY I/P COUPLING FLANGE180 SERRATED",
       "Location": "Raigarh",
       "AvailableQty": 1
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "581035300117",
-      "Description": "ASSY I/P COUPLING FLANGE180 SERRATED",
-      "Location": "Indore",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -85981,6 +86072,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "581035305422",
       "Description": "SHAFT GEAR 9/16 (O/P SHAFT IAD) M/S SONA",
+      "Location": "Raipur",
+      "AvailableQty": 3
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "581035305422",
+      "Description": "SHAFT GEAR 9/16 (O/P SHAFT IAD) M/S SONA",
       "Location": "Tata Motors - Raipur",
       "AvailableQty": 1
     },
@@ -86024,7 +86122,7 @@
       "PartNumber": "581035305426",
       "Description": "HELICAL GEAR 31/31 (PINION AXIS) BS1-6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -86224,6 +86322,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "581035308316",
+      "Description": "SHIM (OUTPUT BEARING PRELOAD) 0.50 THK",
+      "Location": "Indore",
+      "AvailableQty": 16
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "581035308318",
       "Description": "SHIM (OUTPUT BEARING PRELOAD) 1.5 THK",
       "Location": "Indore",
@@ -86276,7 +86381,7 @@
       "PartNumber": "581035309225",
       "Description": "THRUST WASHER 4.1 THK BS6",
       "Location": "Indore",
-      "AvailableQty": 4
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -86360,7 +86465,7 @@
       "PartNumber": "581035707907",
       "Description": "RA SHAFT L923/SPL37/H10 RA109SRT",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -86577,7 +86682,7 @@
       "PartNumber": "581225400103",
       "Description": "RELEASE LEVER PACK 352DIA-BS2/3/4",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -86647,7 +86752,7 @@
       "PartNumber": "581225600101",
       "Description": "ASSY. CLUTCH RELEASE BEARING BS1/2/3/4",
       "Location": "Indore",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -86983,7 +87088,7 @@
       "PartNumber": "582126204607",
       "Description": "ENGAGING GEAR REVERSE 25T/32T G950",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA Motors",
@@ -87249,7 +87354,7 @@
       "PartNumber": "582935300110",
       "Description": "CROWN PINION 46/9 RA114 BS6-PH2",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -87396,7 +87501,7 @@
       "PartNumber": "582935308303",
       "Description": "SHIM 0.15 THK.PINION DEPTH SETTING BS6",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -87669,7 +87774,7 @@
       "PartNumber": "583026203402",
       "Description": "BUSH REVERSE GEAR",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -87809,7 +87914,7 @@
       "PartNumber": "583026204605",
       "Description": "SYNCHRO RING 4TH SPD 57T/42T G950",
       "Location": "Neemuch",
-      "AvailableQty": 3
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -87865,7 +87970,7 @@
       "PartNumber": "583026204614",
       "Description": "SYNCHRO RING 1ST/2ND/3RD SPD 57T/42T G95",
       "Location": "Neemuch",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -87900,7 +88005,7 @@
       "PartNumber": "583026205401",
       "Description": "GEAR 1ST SPD MAIN SHAFT 47T/42T G950",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -88019,7 +88124,7 @@
       "PartNumber": "583026206501",
       "Description": "LOCK NUT COUPLING FLANGE",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -88685,13 +88790,6 @@
       "Description": "SPRING CENTRAL DETENT INNER",
       "Location": "Indore",
       "AvailableQty": 194
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "583026900102",
-      "Description": "OIL PUMP SUB ASSY",
-      "Location": "Raipur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -90070,7 +90168,7 @@
       "PartNumber": "6827-SD",
       "Description": "TN-6827-SD-S.CLAYTON 80MM 3RV",
       "Location": "Raipur",
-      "AvailableQty": 25
+      "AvailableQty": 20
     },
     {
       "Brand": "DRiV - LV",
@@ -90133,7 +90231,7 @@
       "PartNumber": "6841-SD",
       "Description": "TN-6841-SD-SC 66.695dIA",
       "Location": "Raipur",
-      "AvailableQty": 60
+      "AvailableQty": 55
     },
     {
       "Brand": "DRiV - LV",
@@ -91246,7 +91344,7 @@
       "PartNumber": "885403011613",
       "Description": "SET PISTON 697 BS2 STD",
       "Location": "Indore",
-      "AvailableQty": 3
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -91477,7 +91575,7 @@
       "PartNumber": "885403122786",
       "Description": "FULL GASKET KIT 5.9L AJINKYA BS4",
       "Location": "Raipur",
-      "AvailableQty": 28
+      "AvailableQty": 29
     },
     {
       "Brand": "TATA Motors",
@@ -91708,7 +91806,7 @@
       "PartNumber": "885403632527",
       "Description": "PR KIT 497 BS2 R2.5/2.5/4",
       "Location": "Indore",
-      "AvailableQty": 30
+      "AvailableQty": 26
     },
     {
       "Brand": "TATA Motors",
@@ -91946,7 +92044,7 @@
       "PartNumber": "885409020712",
       "Description": "SET OF 2 AIR FILTER FOR 497",
       "Location": "Jabalpur",
-      "AvailableQty": 69
+      "AvailableQty": 65
     },
     {
       "Brand": "TATA MOTORS",
@@ -92079,7 +92177,7 @@
       "PartNumber": "885409052516",
       "Description": "SET OF 2516 AIR FILTER ELEMENT",
       "Location": "Indore",
-      "AvailableQty": 53
+      "AvailableQty": 49
     },
     {
       "Brand": "TATA MOTORS",
@@ -92156,7 +92254,7 @@
       "PartNumber": "885418032516",
       "Description": "SET OF 3 FILTER (9902+9904+9916)",
       "Location": "Raipur",
-      "AvailableQty": 78
+      "AvailableQty": 94
     },
     {
       "Brand": "TATA MOTORS",
@@ -92191,7 +92289,7 @@
       "PartNumber": "885418032516",
       "Description": "SET OF 3 FILTER (9902+9904+9916)",
       "Location": "Indore",
-      "AvailableQty": 49
+      "AvailableQty": 48
     },
     {
       "Brand": "TATA MOTORS",
@@ -92212,7 +92310,7 @@
       "PartNumber": "885418052516",
       "Description": "SET OF 2 FILTERS (WITH 9904 & 9916)",
       "Location": "Raipur",
-      "AvailableQty": 138
+      "AvailableQty": 150
     },
     {
       "Brand": "TATA MOTORS",
@@ -92240,7 +92338,7 @@
       "PartNumber": "885418052516",
       "Description": "SET OF 2 FILTERS (WITH 9904 & 9916)",
       "Location": "Indore",
-      "AvailableQty": 54
+      "AvailableQty": 53
     },
     {
       "Brand": "TATA MOTORS",
@@ -92317,7 +92415,7 @@
       "PartNumber": "885418082516",
       "Description": "SET OF 2 FILTER ( WITH 0145 & 0239)",
       "Location": "Raipur",
-      "AvailableQty": 155
+      "AvailableQty": 217
     },
     {
       "Brand": "TATA MOTORS",
@@ -92380,7 +92478,7 @@
       "PartNumber": "885421012518",
       "Description": "SET OF 2 AIR FILTER KIT LPK 2518",
       "Location": "Raipur",
-      "AvailableQty": 227
+      "AvailableQty": 223
     },
     {
       "Brand": "TATA MOTORS",
@@ -92506,7 +92604,7 @@
       "PartNumber": "885425013118",
       "Description": "ASSY. 380DIA. DRIVEN DISC & COVER",
       "Location": "Raipur",
-      "AvailableQty": 26
+      "AvailableQty": 27
     },
     {
       "Brand": "TATA Motors",
@@ -92541,7 +92639,7 @@
       "PartNumber": "885425062829",
       "Description": "CLUTCH DISC, COVER 160 DIA-ZIPIRIS",
       "Location": "Jabalpur",
-      "AvailableQty": 5
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -92576,7 +92674,7 @@
       "PartNumber": "885425102829",
       "Description": "KIT-CL/PR PLATE TATA ACE W/BRG",
       "Location": "Jabalpur",
-      "AvailableQty": 24
+      "AvailableQty": 11
     },
     {
       "Brand": "TATA Motors",
@@ -92722,13 +92820,6 @@
       "Brand": "TATA Motors",
       "PartNumber": "885426012516",
       "Description": "DETENT PIN KIT G600/750",
-      "Location": "Raipur",
-      "AvailableQty": 36
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "885426012516",
-      "Description": "DETENT PIN KIT G600/750",
       "Location": "Jagdalpur",
       "AvailableQty": 12
     },
@@ -92744,7 +92835,7 @@
       "PartNumber": "885426012516",
       "Description": "DETENT PIN KIT G600/750",
       "Location": "Indore",
-      "AvailableQty": 173
+      "AvailableQty": 161
     },
     {
       "Brand": "TATA Motors",
@@ -92758,7 +92849,7 @@
       "PartNumber": "885426012518",
       "Description": "SYNCHRO KIT G750",
       "Location": "Raipur",
-      "AvailableQty": 66
+      "AvailableQty": 63
     },
     {
       "Brand": "TATA MOTORS",
@@ -92856,7 +92947,7 @@
       "PartNumber": "885426013518",
       "Description": "KIT-SYNCHRO G1150",
       "Location": "Raipur",
-      "AvailableQty": 44
+      "AvailableQty": 43
     },
     {
       "Brand": "TATA Motors",
@@ -92905,7 +92996,7 @@
       "PartNumber": "885426014018",
       "Description": "OIL SEAL KIT G750",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -92919,7 +93010,7 @@
       "PartNumber": "885426014021",
       "Description": "GASKET KIT G1150",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "Brand": "TATA MOTORS",
@@ -92961,7 +93052,7 @@
       "PartNumber": "885426015830",
       "Description": "SYNCHRO KIT G950",
       "Location": "Raipur",
-      "AvailableQty": 67
+      "AvailableQty": 66
     },
     {
       "Brand": "TATA Motors",
@@ -93066,7 +93157,7 @@
       "PartNumber": "885426023518",
       "Description": "KIT-SYNCHRO REAR PLANETARY GB1150",
       "Location": "Indore",
-      "AvailableQty": 66
+      "AvailableQty": 46
     },
     {
       "Brand": "TATA MOTORS",
@@ -93178,7 +93269,7 @@
       "PartNumber": "885426035830",
       "Description": "CIRCLIP KIT G950",
       "Location": "Raipur",
-      "AvailableQty": 31
+      "AvailableQty": 32
     },
     {
       "Brand": "TATA Motors",
@@ -93269,7 +93360,7 @@
       "PartNumber": "885426045830",
       "Description": "GAKET KIT G950",
       "Location": "Raipur",
-      "AvailableQty": 15
+      "AvailableQty": 26
     },
     {
       "Brand": "TATA Motors",
@@ -93525,13 +93616,6 @@
     },
     {
       "Brand": "TATA Motors",
-      "PartNumber": "885433072829",
-      "Description": "BEARING KIT FRT AXLE 30204+320/32 BS3/4",
-      "Location": "Jabalpur",
-      "AvailableQty": 4
-    },
-    {
-      "Brand": "TATA Motors",
       "PartNumber": "885433081612",
       "Description": "MINOR KIT-KING PIN 1612 BS1/2/3/4",
       "Location": "Raipur",
@@ -93564,13 +93648,6 @@
       "Description": "KIT-HUB GREASING 709 (MODIFIED)",
       "Location": "Jabalpur",
       "AvailableQty": 2
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "885433161612",
-      "Description": "KIT KING PIN W/O BRG T/W BS1/2/3/4",
-      "Location": "Raipur",
-      "AvailableQty": 1
     },
     {
       "Brand": "TATA Motors",
@@ -93941,7 +94018,7 @@
       "PartNumber": "885442051618",
       "Description": "BRK LNG OS1 RR 4PCS W/O RVT 410X180 CARG",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 8
     },
     {
       "Brand": "TATA Motors",
@@ -94067,7 +94144,7 @@
       "PartNumber": "885442071618",
       "Description": "BRK LNG STD RR-4 PCS W/RVT 410X180 CARGO",
       "Location": "Jabalpur",
-      "AvailableQty": 194
+      "AvailableQty": 186
     },
     {
       "Brand": "TATA MOTORS",
@@ -94095,7 +94172,7 @@
       "PartNumber": "885442081618",
       "Description": "BRK LNG STD FF-4 PCS W/RVT 410X160 TIPPE",
       "Location": "Raipur",
-      "AvailableQty": 9
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -94137,7 +94214,7 @@
       "PartNumber": "885442111618",
       "Description": "BRAKE LINING REAR-STD-W/RIVET-410X180-MB",
       "Location": "Raipur",
-      "AvailableQty": 446
+      "AvailableQty": 426
     },
     {
       "Brand": "TATA MOTORS",
@@ -94165,7 +94242,7 @@
       "PartNumber": "885442111618",
       "Description": "BRAKE LINING REAR-STD-W/RIVET-410X180-MB",
       "Location": "Indore",
-      "AvailableQty": 411
+      "AvailableQty": 359
     },
     {
       "Brand": "TATA MOTORS",
@@ -94214,7 +94291,7 @@
       "PartNumber": "885442131512",
       "Description": "KIT-BRK LNG-SETOF4-FR STD-W/RVT-410X200N",
       "Location": "Indore",
-      "AvailableQty": 2
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -94242,7 +94319,7 @@
       "PartNumber": "885442141512",
       "Description": "KIT-BRK LNG-SETOF4-RR STD-W/RVT-410X220N",
       "Location": "Indore",
-      "AvailableQty": 5
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -94299,13 +94376,6 @@
       "Description": "BRAKE LINING-OS2-4PCS W/O RIVET-325X120",
       "Location": "Raipur",
       "AvailableQty": 8
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "885442180709",
-      "Description": "BRAKE LINING-OS2-4PCS W/O RIVET-325X120",
-      "Location": "Jabalpur",
-      "AvailableQty": 4
     },
     {
       "Brand": "TATA Motors",
@@ -94844,7 +94914,7 @@
       "PartNumber": "886309000031",
       "Description": "FUEL FILTER 0.5 L STAR (9451037405)",
       "Location": "Raipur",
-      "AvailableQty": 1274
+      "AvailableQty": 1374
     },
     {
       "Brand": "TATA Motors",
@@ -95187,7 +95257,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Raipur",
-      "AvailableQty": 100
+      "AvailableQty": 28
     },
     {
       "Brand": "TATA MOTORS",
@@ -95208,7 +95278,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Jagdalpur",
-      "AvailableQty": 335
+      "AvailableQty": 195
     },
     {
       "Brand": "TATA MOTORS",
@@ -95229,14 +95299,14 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Raigarh",
-      "AvailableQty": 603
+      "AvailableQty": 903
     },
     {
       "Brand": "TATA MOTORS",
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Indore",
-      "AvailableQty": 273
+      "AvailableQty": 211
     },
     {
       "Brand": "TATA MOTORS",
@@ -95250,7 +95320,7 @@
       "PartNumber": "886399000003",
       "Description": "TATA GENUINE DEF 20 L (BUCKET)",
       "Location": "Neemuch",
-      "AvailableQty": 272
+      "AvailableQty": 268
     },
     {
       "Brand": "TATA MOTORS",
@@ -95550,13 +95620,6 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "886399000042",
       "Description": "BRAKE FLUID (DOT 4) - 250 ML",
-      "Location": "Indore",
-      "AvailableQty": 16
-    },
-    {
-      "Brand": "TATA MOTORS",
-      "PartNumber": "886399000042",
-      "Description": "BRAKE FLUID (DOT 4) - 250 ML",
       "Location": "Jabalpur",
       "AvailableQty": 126
     },
@@ -95628,7 +95691,7 @@
       "PartNumber": "886399000044",
       "Description": "TATA GENUINE DEF 10 L",
       "Location": "Indore",
-      "AvailableQty": 20
+      "AvailableQty": 15
     },
     {
       "Brand": "TATA Motors",
@@ -96160,7 +96223,7 @@
       "PartNumber": "886399000133",
       "Description": "ULTRA GREASE 5 KG",
       "Location": "Indore",
-      "AvailableQty": 138
+      "AvailableQty": 136
     },
     {
       "Brand": "TATA Motors",
@@ -96294,6 +96357,13 @@
       "Description": "ULTRA GREASE 10 KG",
       "Location": "Indore",
       "AvailableQty": 21
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "886399000135",
+      "Description": "ULTRA GREASE 10 KG",
+      "Location": "Jabalpur",
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -96668,6 +96738,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "886399000170",
+      "Description": "TML EGR Cleaner 500 ML",
+      "Location": "Indore",
+      "AvailableQty": 20
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "886399000172",
       "Description": "TML Engine Degreaser 5L",
       "Location": "Indore",
@@ -96693,6 +96770,13 @@
       "Description": "TML Electrical Contact Cleaner 100 Ml",
       "Location": "Indore",
       "AvailableQty": 383
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "886399000193",
+      "Description": "TMLRodent Repellent 100 ML",
+      "Location": "Indore",
+      "AvailableQty": 200
     },
     {
       "Brand": "TATA Motors",
@@ -97119,7 +97203,7 @@
       "PartNumber": "886399800068",
       "Description": "IMPERIAL HD GREASE 5 KG",
       "Location": "Raipur",
-      "AvailableQty": 28
+      "AvailableQty": 24
     },
     {
       "Brand": "TATA MOTORS",
@@ -97169,13 +97253,6 @@
       "Description": "IMPERIAL HD GREASE 5 KG",
       "Location": "Indore",
       "AvailableQty": 27
-    },
-    {
-      "Brand": "TATA MOTORS",
-      "PartNumber": "886399800068",
-      "Description": "IMPERIAL HD GREASE 5 KG",
-      "Location": "Jabalpur",
-      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -97294,7 +97371,7 @@
       "PartNumber": "886399800070",
       "Description": "IMPERIAL HD GREASE 20KG",
       "Location": "Indore",
-      "AvailableQty": 16
+      "AvailableQty": 15
     },
     {
       "Brand": "TATA Motors",
@@ -97357,7 +97434,7 @@
       "PartNumber": "886399800076",
       "Description": "IMPERIAL HD GREASE PACK 10KG",
       "Location": "Jabalpur",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "Brand": "TATA Motors",
@@ -97602,7 +97679,7 @@
       "PartNumber": "886399980057",
       "Description": "Tata Genuine Coolant 5Ltr",
       "Location": "Indore",
-      "AvailableQty": 76
+      "AvailableQty": 68
     },
     {
       "Brand": "TATA Motors",
@@ -97658,7 +97735,7 @@
       "PartNumber": "886403000003",
       "Description": "FLYWHEEL 380 DIA 138T 6BT/5.6L BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -97756,14 +97833,14 @@
       "PartNumber": "886409000001",
       "Description": "ASSY. FUEL FILTER 4SPCR BS3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 429
+      "AvailableQty": 425
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "886409000001",
       "Description": "ASSY. FUEL FILTER 4SPCR BS3/4/6",
       "Location": "Neemuch",
-      "AvailableQty": 14
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -97791,14 +97868,14 @@
       "PartNumber": "886409000002",
       "Description": "FUEL PRE-FILTER ELEMENT 4SPCR BS3/4/6",
       "Location": "Jabalpur",
-      "AvailableQty": 76
+      "AvailableQty": 72
     },
     {
       "Brand": "TATA Motors",
       "PartNumber": "886409000002",
       "Description": "FUEL PRE-FILTER ELEMENT 4SPCR BS3/4/6",
       "Location": "Neemuch",
-      "AvailableQty": 16
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -98285,6 +98362,13 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "886703000012",
+      "Description": "VALVE SET W/SEAT 2518 BS2 RS2 5THOU",
+      "Location": "Raipur",
+      "AvailableQty": 1
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "886703000013",
       "Description": "VALVE SET W/SEAT 2518 BS2 RS3 10THOU",
       "Location": "Raipur",
@@ -98561,7 +98645,7 @@
       "PartNumber": "886703000040",
       "Description": "CR Brg Set 2518",
       "Location": "Raipur",
-      "AvailableQty": 1
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA Motors",
@@ -98659,7 +98743,7 @@
       "PartNumber": "886703000044",
       "Description": "CR Brg Frac Set 2518 RS3 30 Thou",
       "Location": "Raipur",
-      "AvailableQty": 37
+      "AvailableQty": 41
     },
     {
       "Brand": "TATA Motors",
@@ -98673,7 +98757,7 @@
       "PartNumber": "886703000045",
       "Description": "CR Brg Frac Set 2518 RS3 40 Thou",
       "Location": "Raipur",
-      "AvailableQty": 34
+      "AvailableQty": 37
     },
     {
       "Brand": "TATA Motors",
@@ -98743,7 +98827,7 @@
       "PartNumber": "886703000049",
       "Description": "Main Brg Set 2518 RS4 40 Thou",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -98862,7 +98946,7 @@
       "PartNumber": "886703052786",
       "Description": "SET-CON ROD BRG NON-F RS4(040)-6BT BS2/3",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 6
     },
     {
       "Brand": "TATA Motors",
@@ -99009,7 +99093,7 @@
       "PartNumber": "886703142786",
       "Description": "POLY V BELT 8PK1422",
       "Location": "Raipur",
-      "AvailableQty": 22
+      "AvailableQty": 21
     },
     {
       "Brand": "TATA Motors",
@@ -99086,7 +99170,7 @@
       "PartNumber": "886705012786",
       "Description": "SET-IN/EX VALVE SEAT INSERT 6BT BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA MOTORS",
@@ -99233,7 +99317,7 @@
       "PartNumber": "886709000022",
       "Description": "OIL SEAL INNER 109RR METAL CASING BS3/4/",
       "Location": "Raipur",
-      "AvailableQty": 135
+      "AvailableQty": 115
     },
     {
       "Brand": "TATA Motors",
@@ -99268,7 +99352,7 @@
       "PartNumber": "886709000023",
       "Description": "OILSEAL OUTER 109RR METAL CASING BS3/4/6",
       "Location": "Raipur",
-      "AvailableQty": 46
+      "AvailableQty": 26
     },
     {
       "Brand": "TATA MOTORS",
@@ -99324,7 +99408,14 @@
       "PartNumber": "886709000037",
       "Description": "RUTURN LINE FILTER ELEMENT HYD TANK BS3/",
       "Location": "Raipur",
-      "AvailableQty": 19
+      "AvailableQty": 20
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "886709000037",
+      "Description": "RUTURN LINE FILTER ELEMENT HYD TANK BS3/",
+      "Location": "Indore",
+      "AvailableQty": 12
     },
     {
       "Brand": "TATA Motors",
@@ -99743,6 +99834,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "886720000001",
       "Description": "WATER PUMP 6BT BS3/4",
+      "Location": "Raipur",
+      "AvailableQty": 2
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "886720000001",
+      "Description": "WATER PUMP 6BT BS3/4",
       "Location": "Tata Motors - Raipur",
       "AvailableQty": 2
     },
@@ -99786,7 +99884,7 @@
       "PartNumber": "886720000004",
       "Description": "WATER PUMP - HIGH FLOW 6BT BS3/4",
       "Location": "Raipur",
-      "AvailableQty": 5
+      "AvailableQty": 15
     },
     {
       "Brand": "TATA Motors",
@@ -100028,6 +100126,20 @@
     },
     {
       "Brand": "TATA Motors",
+      "PartNumber": "886720035701",
+      "Description": "POLY V BELT 8PK2040",
+      "Location": "Raipur",
+      "AvailableQty": 5
+    },
+    {
+      "Brand": "TATA Motors",
+      "PartNumber": "886720042786",
+      "Description": "POLY V BELT 8PK1615",
+      "Location": "Raipur",
+      "AvailableQty": 50
+    },
+    {
+      "Brand": "TATA Motors",
       "PartNumber": "886720042786",
       "Description": "POLY V BELT 8PK1615",
       "Location": "Indore",
@@ -100052,7 +100164,7 @@
       "PartNumber": "886720052786",
       "Description": "POLY V BELT 8PK2150",
       "Location": "Raipur",
-      "AvailableQty": 6
+      "AvailableQty": 56
     },
     {
       "Brand": "TATA Motors",
@@ -100136,7 +100248,7 @@
       "PartNumber": "886723005706",
       "Description": "POLY V-BELT 8PK1734",
       "Location": "Indore",
-      "AvailableQty": 19
+      "AvailableQty": 18
     },
     {
       "Brand": "TATA Motors",
@@ -100157,7 +100269,7 @@
       "PartNumber": "886723015706",
       "Description": "POLY V-BELT 6PK992",
       "Location": "Indore",
-      "AvailableQty": 21
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA Motors",
@@ -100352,6 +100464,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "886725000020",
       "Description": "CLUTCH FACING 380 DIA WITH RIVETS",
+      "Location": "Raipur",
+      "AvailableQty": 7
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "886725000020",
+      "Description": "CLUTCH FACING 380 DIA WITH RIVETS",
       "Location": "Tata Motors - Raipur",
       "AvailableQty": 1
     },
@@ -100360,7 +100479,7 @@
       "PartNumber": "886725000020",
       "Description": "CLUTCH FACING 380 DIA WITH RIVETS",
       "Location": "Raigarh",
-      "AvailableQty": 9
+      "AvailableQty": 2
     },
     {
       "Brand": "TATA MOTORS",
@@ -100381,7 +100500,7 @@
       "PartNumber": "886725000021",
       "Description": "CLUTCH FACING 430 DIA WITH RIVETS",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 16
     },
     {
       "Brand": "TATA Motors",
@@ -101137,7 +101256,7 @@
       "PartNumber": "886732000018",
       "Description": "KING PIN BUSH",
       "Location": "Raipur",
-      "AvailableQty": 168
+      "AvailableQty": 184
     },
     {
       "Brand": "TATA Motors",
@@ -101186,7 +101305,7 @@
       "PartNumber": "886732000021",
       "Description": "FRONT SPRING BUSH",
       "Location": "Raipur",
-      "AvailableQty": 320
+      "AvailableQty": 336
     },
     {
       "Brand": "TATA Motors",
@@ -102390,7 +102509,7 @@
       "PartNumber": "886732000560",
       "Description": "LPK3118 FR PB AUX-A/L 90X24",
       "Location": "Raigarh",
-      "AvailableQty": 2
+      "AvailableQty": 16
     },
     {
       "Brand": "TATA Motors",
@@ -102558,7 +102677,7 @@
       "PartNumber": "886732012516",
       "Description": "BUSH SET FOR BELL CRANK",
       "Location": "Raipur",
-      "AvailableQty": 243
+      "AvailableQty": 257
     },
     {
       "Brand": "TATA MOTORS",
@@ -102593,7 +102712,7 @@
       "PartNumber": "886732013718",
       "Description": "ASSY. MAIN AIR SPRING-3718 TAG AXLE",
       "Location": "Raipur",
-      "AvailableQty": 7
+      "AvailableQty": 11
     },
     {
       "Brand": "TATA Motors",
@@ -102642,7 +102761,7 @@
       "PartNumber": "886732024825",
       "Description": "ASSY. MAIN AIR SPRING 12.5T LA LPT4825",
       "Location": "Raipur",
-      "AvailableQty": 74
+      "AvailableQty": 71
     },
     {
       "Brand": "TATA Motors",
@@ -102684,7 +102803,7 @@
       "PartNumber": "886732034825",
       "Description": "ASSY. MAIN AIR SPRING 12.5T LA LPT4825",
       "Location": "Indore",
-      "AvailableQty": 15
+      "AvailableQty": 14
     },
     {
       "Brand": "TATA Motors",
@@ -102726,7 +102845,7 @@
       "PartNumber": "886733000037",
       "Description": "LIFT AXLE BUSH",
       "Location": "Raipur",
-      "AvailableQty": 8
+      "AvailableQty": 16
     },
     {
       "Brand": "TATA Motors",
@@ -103279,7 +103398,7 @@
       "PartNumber": "886735000062",
       "Description": "DIFF BEVEL AND AXLE GEAR W/SPIDER RA109",
       "Location": "Raipur",
-      "AvailableQty": 3
+      "AvailableQty": 7
     },
     {
       "Brand": "TATA Motors",
@@ -103356,7 +103475,7 @@
       "PartNumber": "886735000065",
       "Description": "DIFF. HOUSING ASSY WITH GEARS",
       "Location": "Raipur",
-      "AvailableQty": 22
+      "AvailableQty": 23
     },
     {
       "Brand": "TATA Motors",
@@ -103692,7 +103811,7 @@
       "PartNumber": "886741000045",
       "Description": "CROSS ASSY LPT 3118 (DIA 48X134.2MM)",
       "Location": "Raigarh",
-      "AvailableQty": 5
+      "AvailableQty": 10
     },
     {
       "Brand": "TATA Motors",
@@ -103713,7 +103832,7 @@
       "PartNumber": "886741000046",
       "Description": "UJ CROSS LPS 4018",
       "Location": "Raipur",
-      "AvailableQty": 4
+      "AvailableQty": 5
     },
     {
       "Brand": "TATA Motors",
@@ -103902,7 +104021,7 @@
       "PartNumber": "886741000067",
       "Description": "U J CROSS LPT 1109 (34.95X126)",
       "Location": "Raipur",
-      "AvailableQty": 2
+      "AvailableQty": 3
     },
     {
       "Brand": "TATA Motors",
@@ -104210,7 +104329,7 @@
       "PartNumber": "886742000015",
       "Description": "BRAKE LINING-STD-4PCS W/RIVET-410X178",
       "Location": "Raigarh",
-      "AvailableQty": 10
+      "AvailableQty": 22
     },
     {
       "Brand": "TATA Motors",
@@ -104826,7 +104945,7 @@
       "PartNumber": "886754000006",
       "Description": "TEMP SENSOR CONN. PIGTAIL",
       "Location": "Indore",
-      "AvailableQty": 10
+      "AvailableQty": 20
     },
     {
       "Brand": "TATA Motors",
@@ -109376,7 +109495,7 @@
       "PartNumber": "ACL00213A0010-R",
       "Description": "TN-ACL00213A0010-R-RADIATOR COOLANT RED",
       "Location": "Jabalpur",
-      "AvailableQty": 55
+      "AvailableQty": 35
     },
     {
       "Brand": "DRiV - CTOH",
@@ -109908,7 +110027,7 @@
       "PartNumber": "CPF590001",
       "Description": "RSB-CPF590001-590 JT. COUPLING FLANGE 180D",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 8
     },
     {
       "Brand": "RSB",
@@ -110916,7 +111035,7 @@
       "PartNumber": "FHBHSM1.0A2",
       "Description": "TN-FHBHSM1.0A2-STD TATA/AMW/SML/EICHER- FR WITH RIVET",
       "Location": "Indore",
-      "AvailableQty": 36
+      "AvailableQty": 40
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -110965,7 +111084,7 @@
       "PartNumber": "FHBHSM2.0A2",
       "Description": "TN-FHBHSM2.0A2-STD TATA/EICHER-RR /MAN-FR WITH RIVET",
       "Location": "Indore",
-      "AvailableQty": 420
+      "AvailableQty": 421
     },
     {
       "Brand": "DRiV - CHASISS",
@@ -111658,7 +111777,7 @@
       "PartNumber": "FLY592001",
       "Description": "RSB-FLY592001-592 180-DIA-FLANGE YOKE",
       "Location": "Raipur",
-      "AvailableQty": 10
+      "AvailableQty": 9
     },
     {
       "Brand": "RSB",
@@ -114507,7 +114626,7 @@
       "PartNumber": "Q312536",
       "Description": "CCC-Q312536-GASKET,CIRCULAR-573714110115",
       "Location": "Raipur",
-      "AvailableQty": 136
+      "AvailableQty": 133
     },
     {
       "Brand": "CCC",
@@ -115053,7 +115172,7 @@
       "PartNumber": "SHF592001",
       "Description": "RSB-SHF592001-SHORT FORK 592 JT.",
       "Location": "Raipur",
-      "AvailableQty": 14
+      "AvailableQty": 13
     },
     {
       "Brand": "RSB",
@@ -115382,14 +115501,14 @@
       "PartNumber": "SRF28175A0107",
       "Description": "RSB-SRF28175A0107-Wedge",
       "Location": "Raipur",
-      "AvailableQty": 13
+      "AvailableQty": 11
     },
     {
       "Brand": "RSB",
       "PartNumber": "SRF28175A0108",
       "Description": "RSB-SRF28175A0108-Jaw",
       "Location": "Raipur",
-      "AvailableQty": 12
+      "AvailableQty": 10
     },
     {
       "Brand": "RSB",
@@ -116060,6 +116179,13 @@
       "Brand": "TATA MOTORS",
       "PartNumber": "TMGOEOCI4P015C",
       "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
+      "Location": "Raigarh",
+      "AvailableQty": 10
+    },
+    {
+      "Brand": "TATA MOTORS",
+      "PartNumber": "TMGOEOCI4P015C",
+      "Description": "TMGO Diesel Engine OilCI415W40 15 Litres Promo",
       "Location": "Indore",
       "AvailableQty": 89
     },
@@ -116271,7 +116397,7 @@
       "PartNumber": "TMGORA85W140005C",
       "Description": "TMGO Rear Axle Oil 85W140 5 Litres PROMO",
       "Location": "Indore",
-      "AvailableQty": 108
+      "AvailableQty": 107
     },
     {
       "Brand": "TATA Motors",
@@ -116363,13 +116489,6 @@
       "Description": "TMGO Synthetic Engine oil 5W30 3.5 Litre",
       "Location": "Indore",
       "AvailableQty": 12
-    },
-    {
-      "Brand": "TATA Motors",
-      "PartNumber": "TMGOSYN05W3035C",
-      "Description": "TMGO Synthetic Engine oil 5W30 3.5 Litre",
-      "Location": "Neemuch",
-      "AvailableQty": 4
     },
     {
       "Brand": "3M",
@@ -116474,7 +116593,7 @@
       "PartNumber": "UVJ592002",
       "Description": "RSB-UVJ592002-592 UJ CROSS ASSY NG",
       "Location": "Raipur",
-      "AvailableQty": 96
+      "AvailableQty": 95
     },
     {
       "Brand": "RSB",
